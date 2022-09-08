@@ -1,4 +1,4 @@
-# Alcazar-Gaming-Main
+# GTA: Alcazar-Roleplay
 
 This is Alcazar Roleplay. A gamemode based from Conqueror City Roleplay version 3(from Adriann) modified by Stewart.
 Please be in mind that this repository is available only to allowed users. 
