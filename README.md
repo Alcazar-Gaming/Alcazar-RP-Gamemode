@@ -21,8 +21,10 @@ Name:       Discord:
 Tiyo        - TiYOs#7124
 Genji       - Genjii#4764
 Adriann     - Adriann#6885
-Maxwell     - Maxwell#4440
 Tian        - Tiaaan.#5777
+Maxwell     - Maxwell#4440
+Kym         - Kymmmm#8449
+Yoshi       - Yoshyosh#5975
 ```
 
 I'll edit these if I forgot someone.
