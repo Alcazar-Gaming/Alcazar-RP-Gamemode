@@ -16,11 +16,13 @@ Please be in mind too that libraries(w/ Plugins included) within this gamemode a
 ## Credits
 Of course, we want to credit all developers who helped us in times of troubles. Here they are:
 
+```
 Name:       Discord:
 Tiyo        - TiYOs#7124
 Genji       - Genjii#4764
 Adriann     - Adriann#6885
 Maxwell     - Maxwell#4440
 Tian        - Tiaaan.#5777
+```
 
 I'll edit these if I forgot someone.
