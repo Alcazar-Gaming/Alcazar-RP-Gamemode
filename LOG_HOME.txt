@@ -1,0 +1,3725 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:20:09] password = ""  (string)
+[11:20:09] weburl = "www.sa-mp.com"  (string)
+[11:20:09] password = ""  (string)
+[11:20:09] 
+[11:20:09] Server Plugins
+[11:20:09] --------------
+[11:20:09]  Loading plugin: sampvoice.so
+[11:20:09] [sv:dbg:network:init] : module initializing...
+[11:20:09] [dbg:raknet:init] : module initializing...
+[11:20:09] [dbg:raknet:init] : module initialized
+[11:20:09] [sv:dbg:network:init] : module initialized
+[11:20:09] [sv:dbg:main:Load] : creating 1 work threads...
+[11:20:09]  -------------------------------------------    
+[11:20:09]    ___                __   __    _              
+[11:20:09]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:20:09]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:20:09]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:20:09]                   |_|                           
+[11:20:09]  -------------------------------------------    
+[11:20:09]            SampVoice by MOR loaded              
+[11:20:09]  -------------------------------------------    
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: crashdetect.so
+[11:20:09]   CrashDetect plugin 4.19.4
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: whirlpool.so
+[11:20:09]  
+[11:20:09]  ==================
+[11:20:09]  
+[11:20:09]   Whirlpool loaded
+[11:20:09]  
+[11:20:09]  ==================
+[11:20:09]  
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: pawncmd.so
+[11:20:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: sscanf.so
+[11:20:09] 
+
+[11:20:09]  ===============================
+
+[11:20:09]       sscanf plugin loaded.     
+
+[11:20:09]          Version:  2.8.3        
+
+[11:20:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:20:09]  ===============================
+
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: streamer.so
+[11:20:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: SKY.so
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: mysql_static.so
+[11:20:09]  >> plugin.mysql: R39-6 successfully loaded.
+[11:20:09]   Loaded.
+[11:20:09]  Loading plugin: nativechecker.so
+[11:20:09]   Loaded.
+[11:20:09]  Loaded 9 plugins.
+
+[11:20:09] 
+[11:20:09] Filterscripts
+[11:20:09] ---------------
+[11:20:09]   Loading filterscript 'pcrpmap.amx'...
+[11:20:09] [sv:dbg:main:AmxLoad] : net game pointer (value:0x9b759f0) received
+[11:20:09] [sv:dbg:network:bind] : voice server running on port 36102
+[11:20:09]   Loading filterscript 'android-check.amx'...
+[11:20:09] Android check has been successfully loaded.
+[11:20:09]   Loaded 2 filterscripts.
+
+[11:20:10]    Error: Function not registered: 'DCC_FindChannelById'
+[11:20:10]    Error: Function not registered: 'DCC_FindGuildById'
+[11:20:10]    Error: Function not registered: 'DCC_FindRoleById'
+[11:20:10]    Error: Function not registered: 'DCC_SendChannelMessage'
+[11:20:10]    Error: Function not registered: 'DCC_GetMessageChannel'
+[11:20:10]    Error: Function not registered: 'DCC_GetMessageAuthor'
+[11:20:10]    Error: Function not registered: 'DCC_IsUserBot'
+[11:20:10]    Error: Function not registered: 'DCC_HasGuildMemberRole'
+[11:20:10]    Error: Function not registered: 'DCC_GetMessageContent'
+[11:20:10]    Error: Function not registered: 'DCC_GetGuildMemberNickname'
+[11:20:10]    Error: Function not registered: 'DCC_GetUserName'
+[11:20:10] [debug] Run time error 19: "File or function is not found"
+[11:20:10] [debug]  DCC_FindChannelById
+[11:20:10] [debug]  DCC_FindGuildById
+[11:20:10] [debug]  DCC_FindRoleById
+[11:20:10] [debug]  DCC_SendChannelMessage
+[11:20:10] [debug]  DCC_GetMessageChannel
+[11:20:10] [debug]  DCC_GetMessageAuthor
+[11:20:10] [debug]  DCC_IsUserBot
+[11:20:10] [debug]  DCC_HasGuildMemberRole
+[11:20:10] [debug]  DCC_GetMessageContent
+[11:20:10] [debug]  DCC_GetGuildMemberNickname
+[11:20:10] [debug]  DCC_GetUserName
+[11:20:10] [debug] Run time error 19: "File or function is not found"
+[11:20:10] [debug]  DCC_FindChannelById
+[11:20:10] [debug]  DCC_FindGuildById
+[11:20:10] [debug]  DCC_FindRoleById
+[11:20:10] [debug]  DCC_SendChannelMessage
+[11:20:10] [debug]  DCC_GetMessageChannel
+[11:20:10] [debug]  DCC_GetMessageAuthor
+[11:20:10] [debug]  DCC_IsUserBot
+[11:20:10] [debug]  DCC_HasGuildMemberRole
+[11:20:10] [debug]  DCC_GetMessageContent
+[11:20:10] [debug]  DCC_GetGuildMemberNickname
+[11:20:10] [debug]  DCC_GetUserName
+[11:20:10] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[11:20:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:43:56] password = ""  (string)
+[11:43:56] weburl = "www.sa-mp.com"  (string)
+[11:43:56] password = ""  (string)
+[11:43:56] 
+[11:43:56] Server Plugins
+[11:43:56] --------------
+[11:43:56]  Loading plugin: sampvoice.so
+[11:43:56] [sv:dbg:network:init] : module initializing...
+[11:43:56] [dbg:raknet:init] : module initializing...
+[11:43:56] [dbg:raknet:init] : module initialized
+[11:43:56] [sv:dbg:network:init] : module initialized
+[11:43:56] [sv:dbg:main:Load] : creating 1 work threads...
+[11:43:56]  -------------------------------------------    
+[11:43:56]    ___                __   __    _              
+[11:43:56]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:43:56]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:43:56]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:43:56]                   |_|                           
+[11:43:56]  -------------------------------------------    
+[11:43:56]            SampVoice by MOR loaded              
+[11:43:56]  -------------------------------------------    
+[11:43:56]   Loaded.
+[11:43:56]  Loading plugin: discord-connector.so
+[11:43:57]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: crashdetect.so
+[11:43:57]   CrashDetect plugin 4.19.4
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: whirlpool.so
+[11:43:57]  
+[11:43:57]  ==================
+[11:43:57]  
+[11:43:57]   Whirlpool loaded
+[11:43:57]  
+[11:43:57]  ==================
+[11:43:57]  
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: pawncmd.so
+[11:43:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: sscanf.so
+[11:43:57] 
+
+[11:43:57]  ===============================
+
+[11:43:57]       sscanf plugin loaded.     
+
+[11:43:57]          Version:  2.8.3        
+
+[11:43:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:43:57]  ===============================
+
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: streamer.so
+[11:43:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: SKY.so
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: mysql_static.so
+[11:43:57]  >> plugin.mysql: R39-6 successfully loaded.
+[11:43:57]   Loaded.
+[11:43:57]  Loading plugin: nativechecker.so
+[11:43:57]   Loaded.
+[11:43:57]  Loaded 10 plugins.
+
+[11:43:57] 
+[11:43:57] Filterscripts
+[11:43:57] ---------------
+[11:43:57]   Loading filterscript 'pcrpmap.amx'...
+[11:43:57] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8944840) received
+[11:43:57] [sv:dbg:network:bind] : voice server running on port 48696
+[11:43:57]   Loading filterscript 'android-check.amx'...
+[11:43:57] Android check has been successfully loaded.
+[11:43:57]   Loaded 2 filterscripts.
+
+[11:43:57] OnScriptInit 1
+[11:43:57]  
+[11:43:57]  
+[11:43:57]  
+[11:43:57]  ======================================= 
+[11:43:57]  |                                     | 
+[11:43:57]  |        YSI version 1.06.0002        | 
+[11:43:57]  |        By Alex "Y_Less" Cole        | 
+[11:43:57]  |                                     | 
+[11:43:57]  ======================================= 
+[11:43:57]  
+[11:43:57] OnScriptInit 2
+[11:43:57] OnScriptInit 3
+[11:43:57] Iter_OnGameModeInit start: 180
+[11:43:57] Betting System
+[11:43:57] Current gravity: 0.008000
+[11:43:57] Unable to establish a connection with the MySQL server...
+[11:43:57] Iter_OnGameModeInit: first
+[11:43:57] OnScriptInit 4
+[11:43:57] Number of vehicle models: 1
+[11:43:57] --- Server Shutting Down.
+[11:43:57] 
+--------------------------------------
+[11:43:57]  Android check filterscript unloaded
+[11:43:57] --------------------------------------
+
+[11:43:57]  -------------------------------------------
+[11:43:57]            SampVoice unloading...           
+[11:43:57]  -------------------------------------------
+[11:43:57] [dbg:raknet:free] : module releasing...
+[11:43:57] [dbg:raknet:free] : module released
+[11:43:57] [sv:dbg:network:free] : module releasing...
+[11:43:57] [sv:dbg:network:free] : module released
+[11:43:57] plugin.dc-connector: Unloading plugin...
+[11:43:57] [debug] Server crashed due to an unknown error
+[11:43:57] [debug] Native backtrace:
+[11:43:57] [debug] #0 f46c08b6 in _Z13GetStackTraceRSt6vectorI10StackFrameSaIS0_EEPv () in plugins/crashdetect.so
+[11:43:57] [debug] #1 f46b8120 in _ZN18CrashDetectHandler20PrintNativeBacktraceERSoRKN2os7ContextE () in plugins/crashdetect.so
+[11:43:57] [debug] #2 f46b8886 in _ZN18CrashDetectHandler20PrintNativeBacktraceERKN2os7ContextE () in plugins/crashdetect.so
+[11:43:57] [debug] #3 f46b8f96 in _ZN18CrashDetectHandler7OnCrashERKN2os7ContextE () in plugins/crashdetect.so
+[11:43:57] [debug] #4 f46bff82 in ?? () in plugins/crashdetect.so
+[11:43:57] [debug] #5 f7f42b70 in __kernel_rt_sigreturn () in linux-gate.so.1
+[11:43:57] [debug] #6 f7aa2520 in ?? () in /lib32/libc.so.6
+[11:43:57] [debug] #7 f7db726c in _ZdlPv () in /lib32/libstdc++.so.6
+[11:43:57] [debug] #8 f6b92c4b in ?? () in plugins/discord-connector.so
+[11:43:57] [debug] #9 f6b41ab1 in _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv () in plugins/discord-connector.so
+[11:43:57] [debug] #10 f6b84546 in ?? () in plugins/discord-connector.so
+[11:43:57] [debug] #11 f7de7001 in ?? () in /lib32/libstdc++.so.6
+[11:43:57] [debug] #12 f7f1460a in ?? () in /lib32/libpthread.so.0
+[11:43:57] [debug] #13 f7b25d8a in clone () in /lib32/libc.so.6
+[11:43:57] [debug] Registers:
+[11:43:57] [debug] EAX: f4f004f0 EBX: 00000004 ECX: f4f00480 EDX: 0000001c
+[11:43:57] [debug] ESI: 00000004 EDI: 089405d0 EBP: 089405c8 ESP: f5829ea0
+[11:43:57] [debug] EIP: f7aa2520 EFLAGS: 00210293
+[11:43:57] [debug] Stack:
+[11:43:57] [debug] ESP+00000000: 00000000 f7c06000 f7c06740 000001d0
+[11:43:57] [debug] ESP+00000020: 00000000 f5820001 f4f0048c 2c432900
+[11:43:57] [debug] ESP+00000040: 09566620 095665e0 095665cc f7db726c
+[11:43:57] [debug] ESP+00000060: 0947e500 f7db725a f6e27000 f6b92c4b
+[11:43:57] [debug] ESP+00000080: 0947e500 00000000 f6b92c29 095665c0
+[11:43:57] [debug] ESP+000000a0: 095665cc f4f17f48 f6d2ba12 f6d2ba27
+[11:43:57] [debug] ESP+000000c0: 095665c0 13e4728d f582a328 f6b844b7
+[11:43:57] [debug] ESP+000000e0: f582a0a0 f582a008 f58ab144 7673cb4f
+[11:43:57] [debug] ESP+00000100: f582a0d0 f582a088 f582a0c0 0001fc00
+[11:43:57] [debug] ESP+00000120: f582a21c 00000000 00000000 f582b040
+[11:43:57] [debug] ESP+00000140: f582a040 f582b010 f582a0bc f6e27000
+[11:43:57] [debug] ESP+00000160: 00000000 00000000 7673cb4f 0001fc00
+[11:43:57] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000001a0: 00000000 00000000 f6e321e8 00000000
+[11:43:57] [debug] ESP+000001c0: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000001e0: 00000000 00000000 f4f1fbb0 f4f1fbb0
+[11:43:57] [debug] ESP+00000200: f582a0b8 00000001 00000000 00000000
+[11:43:57] [debug] ESP+00000220: f4f182b8 f4f23448 f4f18b58 00000000
+[11:43:57] [debug] ESP+00000240: f4f1d200 00000002 0000000b 000000c8
+[11:43:57] [debug] ESP+00000260: f4f1ed10 00000263 00000000 00000063
+[11:43:57] [debug] ESP+00000280: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000002a0: 0000002c 2f36762f 65746167 00796177
+[11:43:57] [debug] ESP+000002c0: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000002e0: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+00000320: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+00000340: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+00000380: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000003a0: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] ESP+000003e0: 00000000 00000000 00000000 00000000
+[11:43:57] [debug] Loaded modules:
+[11:43:57] [debug] 00000000 - 00187dc3 samp03svr
+[11:43:57] [debug] f7f42000 - f7f42d2c linux-gate.so.1
+[11:43:57] [debug] f7f2f000 - f7f31eec /lib32/libdl.so.2
+[11:43:57] [debug] f7f0c000 - f7f2c463 /lib32/libpthread.so.0
+[11:43:57] [debug] f7d2d000 - f7f17f2a /lib32/libstdc++.so.6
+[11:43:57] [debug] f7c29000 - f7d2c6ec /lib32/libm.so.6
+[11:43:57] [debug] f7c0a000 - f7c269cc /lib32/libgcc_s.so.1
+[11:43:57] [debug] f7a1f000 - f7c100b3 /lib32/libc.so.6
+[11:43:57] [debug] f7f43000 - f7f6df9b /lib/ld-linux.so.2
+[11:43:57] [debug] f6ac3000 - f6e5567e plugins/discord-connector.so
+[11:43:57] [debug] f68ae000 - f6ace348 /home/ogp_agent/OGP_User_Files/18/plugins/../log-core2.so
+[11:43:57] [debug] f5016000 - f5028268 /lib32/libnss_files.so.2
+[11:43:57] [debug] f500e000 - f5012bb4 /lib32/libnss_dns.so.2
+[11:43:57] [debug] f4ee7000 - f4efdae0 /lib32/libresolv.so.2
+[11:43:57] [debug] f46a1000 - f46e53ac plugins/crashdetect.so
+[11:43:57] [debug] f5002000 - f500b918 plugins/whirlpool.so
+[11:43:57] [debug] f441b000 - f4502b50 plugins/pawncmd.so
+[11:43:57] [debug] f4690000 - f469f9b4 plugins/sscanf.so
+[11:43:57] [debug] f4355000 - f441a740 plugins/streamer.so
+[11:43:57] [debug] f4685000 - f468d3b3 /lib32/librt.so.1
+[11:43:57] [debug] f464f000 - f4682762 plugins/SKY.so
+[11:43:57] [debug] f3fb1000 - f4359ac7 plugins/mysql_static.so
+[11:43:57] [debug] f7f39000 - f7f3af70 plugins/nativechecker.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:01] password = ""  (string)
+[11:44:01] weburl = "www.sa-mp.com"  (string)
+[11:44:01] password = ""  (string)
+[11:44:01] 
+[11:44:01] Server Plugins
+[11:44:01] --------------
+[11:44:01]  Loading plugin: sampvoice.so
+[11:44:01] [sv:dbg:network:init] : module initializing...
+[11:44:01] [dbg:raknet:init] : module initializing...
+[11:44:01] [dbg:raknet:init] : module initialized
+[11:44:01] [sv:dbg:network:init] : module initialized
+[11:44:01] [sv:dbg:main:Load] : creating 1 work threads...
+[11:44:01]  -------------------------------------------    
+[11:44:01]    ___                __   __    _              
+[11:44:01]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:44:01]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:44:01]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:44:01]                   |_|                           
+[11:44:01]  -------------------------------------------    
+[11:44:01]            SampVoice by MOR loaded              
+[11:44:01]  -------------------------------------------    
+[11:44:01]   Loaded.
+[11:44:01]  Loading plugin: discord-connector.so
+[11:44:02]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: crashdetect.so
+[11:44:02]   CrashDetect plugin 4.19.4
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: whirlpool.so
+[11:44:02]  
+[11:44:02]  ==================
+[11:44:02]  
+[11:44:02]   Whirlpool loaded
+[11:44:02]  
+[11:44:02]  ==================
+[11:44:02]  
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: pawncmd.so
+[11:44:02] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: sscanf.so
+[11:44:02] 
+
+[11:44:02]  ===============================
+
+[11:44:02]       sscanf plugin loaded.     
+
+[11:44:02]          Version:  2.8.3        
+
+[11:44:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:44:02]  ===============================
+
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: streamer.so
+[11:44:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: SKY.so
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: mysql_static.so
+[11:44:02]  >> plugin.mysql: R39-6 successfully loaded.
+[11:44:02]   Loaded.
+[11:44:02]  Loading plugin: nativechecker.so
+[11:44:02]   Loaded.
+[11:44:02]  Loaded 10 plugins.
+
+[11:44:02] 
+[11:44:02] Filterscripts
+[11:44:02] ---------------
+[11:44:02]   Loading filterscript 'pcrpmap.amx'...
+[11:44:02] [sv:dbg:main:AmxLoad] : net game pointer (value:0xa0d4840) received
+[11:44:02] [sv:dbg:network:bind] : voice server running on port 37846
+[11:44:02]   Loading filterscript 'android-check.amx'...
+[11:44:02] Android check has been successfully loaded.
+[11:44:02]   Loaded 2 filterscripts.
+
+[11:44:02] OnScriptInit 1
+[11:44:02]  
+[11:44:02]  
+[11:44:02]  
+[11:44:02]  ======================================= 
+[11:44:02]  |                                     | 
+[11:44:02]  |        YSI version 1.06.0002        | 
+[11:44:02]  |        By Alex "Y_Less" Cole        | 
+[11:44:02]  |                                     | 
+[11:44:02]  ======================================= 
+[11:44:02]  
+[11:44:02] OnScriptInit 2
+[11:44:02] OnScriptInit 3
+[11:44:02] Iter_OnGameModeInit start: 180
+[11:44:02] Betting System
+[11:44:02] Current gravity: 0.008000
+[11:44:02] Unable to establish a connection with the MySQL server...
+[11:44:02] Iter_OnGameModeInit: first
+[11:44:02] OnScriptInit 4
+[11:44:02] Number of vehicle models: 1
+[11:44:02] --- Server Shutting Down.
+[11:44:02] 
+--------------------------------------
+[11:44:02]  Android check filterscript unloaded
+[11:44:02] --------------------------------------
+
+[11:44:02]  -------------------------------------------
+[11:44:02]            SampVoice unloading...           
+[11:44:02]  -------------------------------------------
+[11:44:02] [dbg:raknet:free] : module releasing...
+[11:44:02] [dbg:raknet:free] : module released
+[11:44:02] [sv:dbg:network:free] : module releasing...
+[11:44:02] [sv:dbg:network:free] : module released
+[11:44:02] plugin.dc-connector: Unloading plugin...
+[11:44:03] [debug] Server crashed due to an unknown error
+[11:44:03] [debug] Native backtrace:
+[11:44:03] [debug] #0 f505c8b6 in _Z13GetStackTraceRSt6vectorI10StackFrameSaIS0_EEPv () in plugins/crashdetect.so
+[11:44:03] [debug] #1 f5054120 in _ZN18CrashDetectHandler20PrintNativeBacktraceERSoRKN2os7ContextE () in plugins/crashdetect.so
+[11:44:03] [debug] #2 f5054886 in _ZN18CrashDetectHandler20PrintNativeBacktraceERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:03] [debug] #3 f5054f96 in _ZN18CrashDetectHandler7OnCrashERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:03] [debug] #4 f505bf82 in ?? () in plugins/crashdetect.so
+[11:44:03] [debug] #5 f7fcfb70 in __kernel_rt_sigreturn () in linux-gate.so.1
+[11:44:03] [debug] #6 f7b2f520 in ?? () in /lib32/libc.so.6
+[11:44:03] [debug] #7 f7e4426c in _ZdlPv () in /lib32/libstdc++.so.6
+[11:44:03] [debug] #8 f6c1fc4b in ?? () in plugins/discord-connector.so
+[11:44:03] [debug] #9 f6bceab1 in _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv () in plugins/discord-connector.so
+[11:44:03] [debug] #10 f6c11546 in ?? () in plugins/discord-connector.so
+[11:44:03] [debug] #11 f7e74001 in ?? () in /lib32/libstdc++.so.6
+[11:44:03] [debug] #12 f7fa160a in ?? () in /lib32/libpthread.so.0
+[11:44:03] [debug] #13 f7bb2d8a in clone () in /lib32/libc.so.6
+[11:44:03] [debug] Registers:
+[11:44:03] [debug] EAX: f4f004f0 EBX: 00000004 ECX: f4f00480 EDX: 0000001c
+[11:44:03] [debug] ESI: 00000004 EDI: 0a0d05d0 EBP: 0a0d05c8 ESP: f58b6ea0
+[11:44:03] [debug] EIP: f7b2f520 EFLAGS: 00210293
+[11:44:03] [debug] Stack:
+[11:44:03] [debug] ESP+00000000: 00000000 f7c93000 f7c93740 000001d0
+[11:44:03] [debug] ESP+00000020: 00000000 f58b0001 f4f0048c dafa7400
+[11:44:03] [debug] ESP+00000040: 0acf6400 0acf63c0 0acf63ac f7e4426c
+[11:44:03] [debug] ESP+00000060: 0ac0e500 f7e4425a f6eb4000 f6c1fc4b
+[11:44:03] [debug] ESP+00000080: 0ac0e500 00000000 f6c1fc29 0acf63a0
+[11:44:03] [debug] ESP+000000a0: 0acf63ac f4f18018 f6db8a12 f6db8a27
+[11:44:03] [debug] ESP+000000c0: 0acf63a0 13e4728d f58b7328 f6c114b7
+[11:44:03] [debug] ESP+000000e0: f58b70a0 f58b7008 f5938144 b3d37242
+[11:44:03] [debug] ESP+00000100: f58b70d0 f58b7088 f58b70c0 0001fc01
+[11:44:03] [debug] ESP+00000120: f58b721c 00000000 00000000 f58b8040
+[11:44:03] [debug] ESP+00000140: f58b7040 f58b8010 f58b70bc f6eb4000
+[11:44:03] [debug] ESP+00000160: 00000000 00000000 b3d37242 0001fc01
+[11:44:03] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000001a0: 00000000 00000000 f6ebf1e8 00000000
+[11:44:03] [debug] ESP+000001c0: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000001e0: 00000000 00000000 f4f01fd0 f4f01fd0
+[11:44:03] [debug] ESP+00000200: f58b70b8 00000001 00000000 00000000
+[11:44:03] [debug] ESP+00000220: f4f18508 f4f23638 f4f18da8 00000000
+[11:44:03] [debug] ESP+00000240: f4f24430 00000002 0000000b 000000c8
+[11:44:03] [debug] ESP+00000260: f4f1ef20 00000263 00000000 00000063
+[11:44:03] [debug] ESP+00000280: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000002a0: 0000002c 2f36762f 65746167 00796177
+[11:44:03] [debug] ESP+000002c0: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000002e0: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+00000320: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+00000340: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+00000380: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000003a0: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] ESP+000003e0: 00000000 00000000 00000000 00000000
+[11:44:03] [debug] Loaded modules:
+[11:44:03] [debug] 00000000 - 00187dc3 samp03svr
+[11:44:03] [debug] f7fcf000 - f7fcfd2c linux-gate.so.1
+[11:44:03] [debug] f7fbc000 - f7fbeeec /lib32/libdl.so.2
+[11:44:03] [debug] f7f99000 - f7fb9463 /lib32/libpthread.so.0
+[11:44:03] [debug] f7dba000 - f7fa4f2a /lib32/libstdc++.so.6
+[11:44:03] [debug] f7cb6000 - f7db96ec /lib32/libm.so.6
+[11:44:03] [debug] f7c97000 - f7cb39cc /lib32/libgcc_s.so.1
+[11:44:03] [debug] f7aac000 - f7c9d0b3 /lib32/libc.so.6
+[11:44:03] [debug] f7fd0000 - f7ffaf9b /lib/ld-linux.so.2
+[11:44:03] [debug] f6b50000 - f6ee267e plugins/discord-connector.so
+[11:44:03] [debug] f693b000 - f6b5b348 /home/ogp_agent/OGP_User_Files/18/plugins/../log-core2.so
+[11:44:03] [debug] f50a3000 - f50b5268 /lib32/libnss_files.so.2
+[11:44:03] [debug] f509b000 - f509fbb4 /lib32/libnss_dns.so.2
+[11:44:03] [debug] f5082000 - f5098ae0 /lib32/libresolv.so.2
+[11:44:03] [debug] f503d000 - f50813ac plugins/crashdetect.so
+[11:44:03] [debug] f5031000 - f503a918 plugins/whirlpool.so
+[11:44:03] [debug] f461a000 - f4701b50 plugins/pawncmd.so
+[11:44:03] [debug] f5020000 - f502f9b4 plugins/sscanf.so
+[11:44:03] [debug] f443a000 - f44ff740 plugins/streamer.so
+[11:44:03] [debug] f5015000 - f501d3b3 /lib32/librt.so.1
+[11:44:03] [debug] f4404000 - f4437762 plugins/SKY.so
+[11:44:03] [debug] f4060000 - f4408ac7 plugins/mysql_static.so
+[11:44:03] [debug] f7fc6000 - f7fc7f70 plugins/nativechecker.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:06] password = ""  (string)
+[11:44:06] weburl = "www.sa-mp.com"  (string)
+[11:44:06] password = ""  (string)
+[11:44:06] 
+[11:44:06] Server Plugins
+[11:44:06] --------------
+[11:44:06]  Loading plugin: sampvoice.so
+[11:44:06] [sv:dbg:network:init] : module initializing...
+[11:44:06] [dbg:raknet:init] : module initializing...
+[11:44:06] [dbg:raknet:init] : module initialized
+[11:44:06] [sv:dbg:network:init] : module initialized
+[11:44:06] [sv:dbg:main:Load] : creating 1 work threads...
+[11:44:06]  -------------------------------------------    
+[11:44:06]    ___                __   __    _              
+[11:44:06]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:44:06]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:44:06]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:44:06]                   |_|                           
+[11:44:06]  -------------------------------------------    
+[11:44:06]            SampVoice by MOR loaded              
+[11:44:06]  -------------------------------------------    
+[11:44:06]   Loaded.
+[11:44:06]  Loading plugin: discord-connector.so
+[11:44:07]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: crashdetect.so
+[11:44:07]   CrashDetect plugin 4.19.4
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: whirlpool.so
+[11:44:07]  
+[11:44:07]  ==================
+[11:44:07]  
+[11:44:07]   Whirlpool loaded
+[11:44:07]  
+[11:44:07]  ==================
+[11:44:07]  
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: pawncmd.so
+[11:44:07] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: sscanf.so
+[11:44:07] 
+
+[11:44:07]  ===============================
+
+[11:44:07]       sscanf plugin loaded.     
+
+[11:44:07]          Version:  2.8.3        
+
+[11:44:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:44:07]  ===============================
+
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: streamer.so
+[11:44:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: SKY.so
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: mysql_static.so
+[11:44:07]  >> plugin.mysql: R39-6 successfully loaded.
+[11:44:07]   Loaded.
+[11:44:07]  Loading plugin: nativechecker.so
+[11:44:07]   Loaded.
+[11:44:07]  Loaded 10 plugins.
+
+[11:44:08] 
+[11:44:08] Filterscripts
+[11:44:08] ---------------
+[11:44:08]   Loading filterscript 'pcrpmap.amx'...
+[11:44:08] [sv:dbg:main:AmxLoad] : net game pointer (value:0x97cd840) received
+[11:44:08] [sv:dbg:network:bind] : voice server running on port 53521
+[11:44:08]   Loading filterscript 'android-check.amx'...
+[11:44:08] Android check has been successfully loaded.
+[11:44:08]   Loaded 2 filterscripts.
+
+[11:44:08] OnScriptInit 1
+[11:44:08]  
+[11:44:08]  
+[11:44:08]  
+[11:44:08]  ======================================= 
+[11:44:08]  |                                     | 
+[11:44:08]  |        YSI version 1.06.0002        | 
+[11:44:08]  |        By Alex "Y_Less" Cole        | 
+[11:44:08]  |                                     | 
+[11:44:08]  ======================================= 
+[11:44:08]  
+[11:44:08] OnScriptInit 2
+[11:44:08] OnScriptInit 3
+[11:44:08] Iter_OnGameModeInit start: 180
+[11:44:08] Betting System
+[11:44:08] Current gravity: 0.008000
+[11:44:08] Unable to establish a connection with the MySQL server...
+[11:44:08] Iter_OnGameModeInit: first
+[11:44:08] OnScriptInit 4
+[11:44:08] Number of vehicle models: 1
+[11:44:08] --- Server Shutting Down.
+[11:44:08] 
+--------------------------------------
+[11:44:08]  Android check filterscript unloaded
+[11:44:08] --------------------------------------
+
+[11:44:08]  -------------------------------------------
+[11:44:08]            SampVoice unloading...           
+[11:44:08]  -------------------------------------------
+[11:44:08] [dbg:raknet:free] : module releasing...
+[11:44:08] [dbg:raknet:free] : module released
+[11:44:08] [sv:dbg:network:free] : module releasing...
+[11:44:08] [sv:dbg:network:free] : module released
+[11:44:08] plugin.dc-connector: Unloading plugin...
+[11:44:08] [debug] Server crashed due to an unknown error
+[11:44:08] [debug] Native backtrace:
+[11:44:08] [debug] #0 f46d98b6 in _Z13GetStackTraceRSt6vectorI10StackFrameSaIS0_EEPv () in plugins/crashdetect.so
+[11:44:08] [debug] #1 f46d1120 in _ZN18CrashDetectHandler20PrintNativeBacktraceERSoRKN2os7ContextE () in plugins/crashdetect.so
+[11:44:08] [debug] #2 f46d1886 in _ZN18CrashDetectHandler20PrintNativeBacktraceERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:08] [debug] #3 f46d1f96 in _ZN18CrashDetectHandler7OnCrashERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:08] [debug] #4 f46d8f82 in ?? () in plugins/crashdetect.so
+[11:44:08] [debug] #5 f7f89b70 in __kernel_rt_sigreturn () in linux-gate.so.1
+[11:44:08] [debug] #6 f7ae9520 in ?? () in /lib32/libc.so.6
+[11:44:08] [debug] #7 f7dfe26c in _ZdlPv () in /lib32/libstdc++.so.6
+[11:44:08] [debug] #8 f6bd9c4b in ?? () in plugins/discord-connector.so
+[11:44:08] [debug] #9 f6b88ab1 in _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv () in plugins/discord-connector.so
+[11:44:08] [debug] #10 f6bcb546 in ?? () in plugins/discord-connector.so
+[11:44:08] [debug] #11 f7e2e001 in ?? () in /lib32/libstdc++.so.6
+[11:44:08] [debug] #12 f7f5b60a in ?? () in /lib32/libpthread.so.0
+[11:44:08] [debug] #13 f7b6cd8a in clone () in /lib32/libc.so.6
+[11:44:08] [debug] Registers:
+[11:44:08] [debug] EAX: f4f004f0 EBX: 00000004 ECX: f4f00480 EDX: 0000001c
+[11:44:08] [debug] ESI: 00000004 EDI: 097c95d0 EBP: 097c95c8 ESP: f5870ea0
+[11:44:08] [debug] EIP: f7ae9520 EFLAGS: 00210293
+[11:44:08] [debug] Stack:
+[11:44:08] [debug] ESP+00000000: 00000000 f7c4d000 f7c4d740 000001d0
+[11:44:08] [debug] ESP+00000020: 00000000 f5870001 f4f0048c a47e0200
+[11:44:08] [debug] ESP+00000040: 0a3ef620 0a3ef5e0 0a3ef5cc f7dfe26c
+[11:44:08] [debug] ESP+00000060: 0a307500 f7dfe25a f6e6e000 f6bd9c4b
+[11:44:08] [debug] ESP+00000080: 0a307500 00000000 f6bd9c29 0a3ef5c0
+[11:44:08] [debug] ESP+000000a0: 0a3ef5cc f4f14478 f6d72a12 f6d72a27
+[11:44:08] [debug] ESP+000000c0: 0a3ef5c0 13e4728d f5871328 f6bcb4b7
+[11:44:08] [debug] ESP+000000e0: f58710a0 f5871008 f58f2144 f310af97
+[11:44:08] [debug] ESP+00000100: f58710d0 f5871088 f58710c0 0001fc02
+[11:44:08] [debug] ESP+00000120: f587121c 00000000 00000000 f5872040
+[11:44:08] [debug] ESP+00000140: f5871040 f5872010 f58710bc f6e6e000
+[11:44:08] [debug] ESP+00000160: 00000000 00000000 f310af97 0001fc02
+[11:44:08] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000001a0: 00000000 00000000 f6e791e8 00000000
+[11:44:08] [debug] ESP+000001c0: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000001e0: 00000000 00000000 f4f01fd0 f4f01fd0
+[11:44:08] [debug] ESP+00000200: f58710b8 00000001 00000000 00000000
+[11:44:08] [debug] ESP+00000220: f4f18508 f4f23618 f4f18da8 00000000
+[11:44:08] [debug] ESP+00000240: f4f24430 00000002 0000000b 000000c8
+[11:44:08] [debug] ESP+00000260: f4f1ed30 00000263 00000000 00000063
+[11:44:08] [debug] ESP+00000280: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000002a0: 0000002c 2f36762f 65746167 00796177
+[11:44:08] [debug] ESP+000002c0: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000002e0: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+00000320: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+00000340: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+00000380: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000003a0: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] ESP+000003e0: 00000000 00000000 00000000 00000000
+[11:44:08] [debug] Loaded modules:
+[11:44:08] [debug] 00000000 - 00187dc3 samp03svr
+[11:44:08] [debug] f7f89000 - f7f89d2c linux-gate.so.1
+[11:44:08] [debug] f7f76000 - f7f78eec /lib32/libdl.so.2
+[11:44:08] [debug] f7f53000 - f7f73463 /lib32/libpthread.so.0
+[11:44:08] [debug] f7d74000 - f7f5ef2a /lib32/libstdc++.so.6
+[11:44:08] [debug] f7c70000 - f7d736ec /lib32/libm.so.6
+[11:44:08] [debug] f7c51000 - f7c6d9cc /lib32/libgcc_s.so.1
+[11:44:08] [debug] f7a66000 - f7c570b3 /lib32/libc.so.6
+[11:44:08] [debug] f7f8a000 - f7fb4f9b /lib/ld-linux.so.2
+[11:44:08] [debug] f6b0a000 - f6e9c67e plugins/discord-connector.so
+[11:44:08] [debug] f68f5000 - f6b15348 /home/ogp_agent/OGP_User_Files/18/plugins/../log-core2.so
+[11:44:08] [debug] f505d000 - f506f268 /lib32/libnss_files.so.2
+[11:44:08] [debug] f5055000 - f5059bb4 /lib32/libnss_dns.so.2
+[11:44:08] [debug] f503c000 - f5052ae0 /lib32/libresolv.so.2
+[11:44:08] [debug] f46ba000 - f46fe3ac plugins/crashdetect.so
+[11:44:08] [debug] f5030000 - f5039918 plugins/whirlpool.so
+[11:44:08] [debug] f441b000 - f4502b50 plugins/pawncmd.so
+[11:44:08] [debug] f501f000 - f502e9b4 plugins/sscanf.so
+[11:44:08] [debug] f4355000 - f441a740 plugins/streamer.so
+[11:44:08] [debug] f5014000 - f501c3b3 /lib32/librt.so.1
+[11:44:08] [debug] f4684000 - f46b7762 plugins/SKY.so
+[11:44:08] [debug] f3fb1000 - f4359ac7 plugins/mysql_static.so
+[11:44:08] [debug] f7f80000 - f7f81f70 plugins/nativechecker.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:11] password = ""  (string)
+[11:44:11] weburl = "www.sa-mp.com"  (string)
+[11:44:11] password = ""  (string)
+[11:44:11] 
+[11:44:11] Server Plugins
+[11:44:11] --------------
+[11:44:11]  Loading plugin: sampvoice.so
+[11:44:11] [sv:dbg:network:init] : module initializing...
+[11:44:11] [dbg:raknet:init] : module initializing...
+[11:44:11] [dbg:raknet:init] : module initialized
+[11:44:11] [sv:dbg:network:init] : module initialized
+[11:44:11] [sv:dbg:main:Load] : creating 1 work threads...
+[11:44:11]  -------------------------------------------    
+[11:44:11]    ___                __   __    _              
+[11:44:11]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:44:11]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:44:11]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:44:11]                   |_|                           
+[11:44:11]  -------------------------------------------    
+[11:44:11]            SampVoice by MOR loaded              
+[11:44:11]  -------------------------------------------    
+[11:44:11]   Loaded.
+[11:44:11]  Loading plugin: discord-connector.so
+[11:44:13]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: crashdetect.so
+[11:44:13]   CrashDetect plugin 4.19.4
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: whirlpool.so
+[11:44:13]  
+[11:44:13]  ==================
+[11:44:13]  
+[11:44:13]   Whirlpool loaded
+[11:44:13]  
+[11:44:13]  ==================
+[11:44:13]  
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: pawncmd.so
+[11:44:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: sscanf.so
+[11:44:13] 
+
+[11:44:13]  ===============================
+
+[11:44:13]       sscanf plugin loaded.     
+
+[11:44:13]          Version:  2.8.3        
+
+[11:44:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:44:13]  ===============================
+
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: streamer.so
+[11:44:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: SKY.so
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: mysql_static.so
+[11:44:13]  >> plugin.mysql: R39-6 successfully loaded.
+[11:44:13]   Loaded.
+[11:44:13]  Loading plugin: nativechecker.so
+[11:44:13]   Loaded.
+[11:44:13]  Loaded 10 plugins.
+
+[11:44:13] 
+[11:44:13] Filterscripts
+[11:44:13] ---------------
+[11:44:13]   Loading filterscript 'pcrpmap.amx'...
+[11:44:13] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8610840) received
+[11:44:13] [sv:dbg:network:bind] : voice server running on port 59569
+[11:44:13]   Loading filterscript 'android-check.amx'...
+[11:44:13] Android check has been successfully loaded.
+[11:44:13]   Loaded 2 filterscripts.
+
+[11:44:13] OnScriptInit 1
+[11:44:13]  
+[11:44:13]  
+[11:44:13]  
+[11:44:13]  ======================================= 
+[11:44:13]  |                                     | 
+[11:44:13]  |        YSI version 1.06.0002        | 
+[11:44:13]  |        By Alex "Y_Less" Cole        | 
+[11:44:13]  |                                     | 
+[11:44:13]  ======================================= 
+[11:44:13]  
+[11:44:13] OnScriptInit 2
+[11:44:13] OnScriptInit 3
+[11:44:13] Iter_OnGameModeInit start: 180
+[11:44:13] Betting System
+[11:44:13] Current gravity: 0.008000
+[11:44:13] Unable to establish a connection with the MySQL server...
+[11:44:13] Iter_OnGameModeInit: first
+[11:44:13] OnScriptInit 4
+[11:44:13] Number of vehicle models: 1
+[11:44:13] --- Server Shutting Down.
+[11:44:13] 
+--------------------------------------
+[11:44:13]  Android check filterscript unloaded
+[11:44:13] --------------------------------------
+
+[11:44:13]  -------------------------------------------
+[11:44:13]            SampVoice unloading...           
+[11:44:13]  -------------------------------------------
+[11:44:13] [dbg:raknet:free] : module releasing...
+[11:44:13] [dbg:raknet:free] : module released
+[11:44:13] [sv:dbg:network:free] : module releasing...
+[11:44:13] [sv:dbg:network:free] : module released
+[11:44:13] plugin.dc-connector: Unloading plugin...
+[11:44:13] [debug] Server crashed due to an unknown error
+[11:44:13] [debug] Native backtrace:
+[11:44:13] [debug] #0 f50498b6 in _Z13GetStackTraceRSt6vectorI10StackFrameSaIS0_EEPv () in plugins/crashdetect.so
+[11:44:13] [debug] #1 f5041120 in _ZN18CrashDetectHandler20PrintNativeBacktraceERSoRKN2os7ContextE () in plugins/crashdetect.so
+[11:44:13] [debug] #2 f5041886 in _ZN18CrashDetectHandler20PrintNativeBacktraceERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:13] [debug] #3 f5041f96 in _ZN18CrashDetectHandler7OnCrashERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:13] [debug] #4 f5048f82 in ?? () in plugins/crashdetect.so
+[11:44:13] [debug] #5 f7fbcb70 in __kernel_rt_sigreturn () in linux-gate.so.1
+[11:44:13] [debug] #6 f7b1c520 in ?? () in /lib32/libc.so.6
+[11:44:13] [debug] #7 f7e3126c in _ZdlPv () in /lib32/libstdc++.so.6
+[11:44:13] [debug] #8 f6c0cc4b in ?? () in plugins/discord-connector.so
+[11:44:13] [debug] #9 f6bbbab1 in _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv () in plugins/discord-connector.so
+[11:44:13] [debug] #10 f6bfe546 in ?? () in plugins/discord-connector.so
+[11:44:13] [debug] #11 f7e61001 in ?? () in /lib32/libstdc++.so.6
+[11:44:13] [debug] #12 f7f8e60a in ?? () in /lib32/libpthread.so.0
+[11:44:13] [debug] #13 f7b9fd8a in clone () in /lib32/libc.so.6
+[11:44:13] [debug] Registers:
+[11:44:13] [debug] EAX: f4f004f0 EBX: 00000004 ECX: f4f00480 EDX: 0000001c
+[11:44:13] [debug] ESI: 00000004 EDI: 0860c5d0 EBP: 0860c5c8 ESP: f58a3ea0
+[11:44:13] [debug] EIP: f7b1c520 EFLAGS: 00210293
+[11:44:13] [debug] Stack:
+[11:44:13] [debug] ESP+00000000: 00000000 f7c80000 f7c80740 000001d0
+[11:44:13] [debug] ESP+00000020: 00000000 f58a0001 f4f0048c a93e5400
+[11:44:13] [debug] ESP+00000040: 09232400 092323c0 092323ac f7e3126c
+[11:44:13] [debug] ESP+00000060: 0914a500 f7e3125a f6ea1000 f6c0cc4b
+[11:44:13] [debug] ESP+00000080: 0914a500 00000000 f6c0cc29 092323a0
+[11:44:13] [debug] ESP+000000a0: 092323ac f4f14808 f6da5a12 f6da5a27
+[11:44:13] [debug] ESP+000000c0: 092323a0 13e4728d f58a4328 f6bfe4b7
+[11:44:13] [debug] ESP+000000e0: f58a40a0 f58a4008 f5925144 2673c789
+[11:44:13] [debug] ESP+00000100: f58a40d0 f58a4088 f58a40c0 0001fc04
+[11:44:13] [debug] ESP+00000120: f58a421c 00000000 00000000 f58a5040
+[11:44:13] [debug] ESP+00000140: f58a4040 f58a5010 f58a40bc f6ea1000
+[11:44:13] [debug] ESP+00000160: 00000000 00000000 2673c789 0001fc04
+[11:44:13] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000001a0: 00000000 00000000 f6eac1e8 00000000
+[11:44:13] [debug] ESP+000001c0: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000001e0: 00000000 00000000 f4f16270 f4f16270
+[11:44:13] [debug] ESP+00000200: f58a40b8 00000001 00000000 00000000
+[11:44:13] [debug] ESP+00000220: f4f18508 f4f23678 f4f18da8 00000000
+[11:44:13] [debug] ESP+00000240: f4f1c6b0 00000002 0000000b 000000c8
+[11:44:13] [debug] ESP+00000260: f58a40f8 00000263 00000000 00000000
+[11:44:13] [debug] ESP+00000280: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000002a0: 0000002c 2f36762f 65746167 00796177
+[11:44:13] [debug] ESP+000002c0: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000002e0: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+00000320: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+00000340: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+00000380: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000003a0: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] ESP+000003e0: 00000000 00000000 00000000 00000000
+[11:44:13] [debug] Loaded modules:
+[11:44:13] [debug] 00000000 - 00187dc3 samp03svr
+[11:44:13] [debug] f7fbc000 - f7fbcd2c linux-gate.so.1
+[11:44:13] [debug] f7fa9000 - f7fabeec /lib32/libdl.so.2
+[11:44:13] [debug] f7f86000 - f7fa6463 /lib32/libpthread.so.0
+[11:44:13] [debug] f7da7000 - f7f91f2a /lib32/libstdc++.so.6
+[11:44:13] [debug] f7ca3000 - f7da66ec /lib32/libm.so.6
+[11:44:13] [debug] f7c84000 - f7ca09cc /lib32/libgcc_s.so.1
+[11:44:13] [debug] f7a99000 - f7c8a0b3 /lib32/libc.so.6
+[11:44:13] [debug] f7fbd000 - f7fe7f9b /lib/ld-linux.so.2
+[11:44:13] [debug] f6b3d000 - f6ecf67e plugins/discord-connector.so
+[11:44:13] [debug] f6928000 - f6b48348 /home/ogp_agent/OGP_User_Files/18/plugins/../log-core2.so
+[11:44:13] [debug] f5090000 - f50a2268 /lib32/libnss_files.so.2
+[11:44:13] [debug] f5088000 - f508cbb4 /lib32/libnss_dns.so.2
+[11:44:13] [debug] f506f000 - f5085ae0 /lib32/libresolv.so.2
+[11:44:13] [debug] f502a000 - f506e3ac plugins/crashdetect.so
+[11:44:13] [debug] f501e000 - f5027918 plugins/whirlpool.so
+[11:44:13] [debug] f461a000 - f4701b50 plugins/pawncmd.so
+[11:44:13] [debug] f500d000 - f501c9b4 plugins/sscanf.so
+[11:44:13] [debug] f443a000 - f44ff740 plugins/streamer.so
+[11:44:13] [debug] f5002000 - f500a3b3 /lib32/librt.so.1
+[11:44:13] [debug] f4404000 - f4437762 plugins/SKY.so
+[11:44:13] [debug] f4060000 - f4408ac7 plugins/mysql_static.so
+[11:44:13] [debug] f7fb3000 - f7fb4f70 plugins/nativechecker.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:17] password = ""  (string)
+[11:44:17] weburl = "www.sa-mp.com"  (string)
+[11:44:17] password = ""  (string)
+[11:44:17] 
+[11:44:17] Server Plugins
+[11:44:17] --------------
+[11:44:17]  Loading plugin: sampvoice.so
+[11:44:17] [sv:dbg:network:init] : module initializing...
+[11:44:17] [dbg:raknet:init] : module initializing...
+[11:44:17] [dbg:raknet:init] : module initialized
+[11:44:17] [sv:dbg:network:init] : module initialized
+[11:44:17] [sv:dbg:main:Load] : creating 1 work threads...
+[11:44:17]  -------------------------------------------    
+[11:44:17]    ___                __   __    _              
+[11:44:17]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:44:17]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:44:17]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:44:17]                   |_|                           
+[11:44:17]  -------------------------------------------    
+[11:44:17]            SampVoice by MOR loaded              
+[11:44:17]  -------------------------------------------    
+[11:44:17]   Loaded.
+[11:44:17]  Loading plugin: discord-connector.so
+[11:44:18]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: crashdetect.so
+[11:44:18]   CrashDetect plugin 4.19.4
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: whirlpool.so
+[11:44:18]  
+[11:44:18]  ==================
+[11:44:18]  
+[11:44:18]   Whirlpool loaded
+[11:44:18]  
+[11:44:18]  ==================
+[11:44:18]  
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: pawncmd.so
+[11:44:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: sscanf.so
+[11:44:18] 
+
+[11:44:18]  ===============================
+
+[11:44:18]       sscanf plugin loaded.     
+
+[11:44:18]          Version:  2.8.3        
+
+[11:44:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:44:18]  ===============================
+
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: streamer.so
+[11:44:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: SKY.so
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: mysql_static.so
+[11:44:18]  >> plugin.mysql: R39-6 successfully loaded.
+[11:44:18]   Loaded.
+[11:44:18]  Loading plugin: nativechecker.so
+[11:44:18]   Loaded.
+[11:44:18]  Loaded 10 plugins.
+
+[11:44:18] 
+[11:44:18] Filterscripts
+[11:44:18] ---------------
+[11:44:18]   Loading filterscript 'pcrpmap.amx'...
+[11:44:18] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8bdc840) received
+[11:44:18] [sv:dbg:network:bind] : voice server running on port 56383
+[11:44:18]   Loading filterscript 'android-check.amx'...
+[11:44:18] Android check has been successfully loaded.
+[11:44:18]   Loaded 2 filterscripts.
+
+[11:44:18] OnScriptInit 1
+[11:44:18]  
+[11:44:18]  
+[11:44:18]  
+[11:44:18]  ======================================= 
+[11:44:18]  |                                     | 
+[11:44:18]  |        YSI version 1.06.0002        | 
+[11:44:18]  |        By Alex "Y_Less" Cole        | 
+[11:44:18]  |                                     | 
+[11:44:18]  ======================================= 
+[11:44:18]  
+[11:44:18] OnScriptInit 2
+[11:44:18] OnScriptInit 3
+[11:44:18] Iter_OnGameModeInit start: 180
+[11:44:18] Betting System
+[11:44:18] Current gravity: 0.008000
+[11:44:18] Unable to establish a connection with the MySQL server...
+[11:44:18] Iter_OnGameModeInit: first
+[11:44:18] OnScriptInit 4
+[11:44:18] Number of vehicle models: 1
+[11:44:18] --- Server Shutting Down.
+[11:44:18] 
+--------------------------------------
+[11:44:18]  Android check filterscript unloaded
+[11:44:18] --------------------------------------
+
+[11:44:18]  -------------------------------------------
+[11:44:18]            SampVoice unloading...           
+[11:44:18]  -------------------------------------------
+[11:44:18] [dbg:raknet:free] : module releasing...
+[11:44:18] [dbg:raknet:free] : module released
+[11:44:18] [sv:dbg:network:free] : module releasing...
+[11:44:18] [sv:dbg:network:free] : module released
+[11:44:18] plugin.dc-connector: Unloading plugin...
+[11:44:18] [debug] Server crashed due to an unknown error
+[11:44:18] [debug] Native backtrace:
+[11:44:18] [debug] #0 f50498b6 in _Z13GetStackTraceRSt6vectorI10StackFrameSaIS0_EEPv () in plugins/crashdetect.so
+[11:44:18] [debug] #1 f5041120 in _ZN18CrashDetectHandler20PrintNativeBacktraceERSoRKN2os7ContextE () in plugins/crashdetect.so
+[11:44:18] [debug] #2 f5041886 in _ZN18CrashDetectHandler20PrintNativeBacktraceERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:18] [debug] #3 f5041f96 in _ZN18CrashDetectHandler7OnCrashERKN2os7ContextE () in plugins/crashdetect.so
+[11:44:18] [debug] #4 f5048f82 in ?? () in plugins/crashdetect.so
+[11:44:18] [debug] #5 f7fbcb70 in __kernel_rt_sigreturn () in linux-gate.so.1
+[11:44:18] [debug] #6 f7b1c520 in ?? () in /lib32/libc.so.6
+[11:44:18] [debug] #7 f7e3126c in _ZdlPv () in /lib32/libstdc++.so.6
+[11:44:18] [debug] #8 f6c0cc4b in ?? () in plugins/discord-connector.so
+[11:44:18] [debug] #9 f6bbbab1 in _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv () in plugins/discord-connector.so
+[11:44:18] [debug] #10 f6bfe546 in ?? () in plugins/discord-connector.so
+[11:44:18] [debug] #11 f7e61001 in ?? () in /lib32/libstdc++.so.6
+[11:44:18] [debug] #12 f7f8e60a in ?? () in /lib32/libpthread.so.0
+[11:44:18] [debug] #13 f7b9fd8a in clone () in /lib32/libc.so.6
+[11:44:18] [debug] Registers:
+[11:44:18] [debug] EAX: f4f004f0 EBX: 00000004 ECX: f4f00480 EDX: 0000001c
+[11:44:18] [debug] ESI: 00000004 EDI: 08bd85d0 EBP: 08bd85c8 ESP: f58a3ea0
+[11:44:18] [debug] EIP: f7b1c520 EFLAGS: 00210293
+[11:44:18] [debug] Stack:
+[11:44:18] [debug] ESP+00000000: 00000000 f7c80000 f7c80740 000001d0
+[11:44:18] [debug] ESP+00000020: 00000000 f58a0001 f4f0048c 94700e00
+[11:44:18] [debug] ESP+00000040: 097fe400 097fe3c0 097fe3ac f7e3126c
+[11:44:18] [debug] ESP+00000060: 09716500 f7e3125a f6ea1000 f6c0cc4b
+[11:44:18] [debug] ESP+00000080: 09716500 00000000 f6c0cc29 097fe3a0
+[11:44:18] [debug] ESP+000000a0: 097fe3ac f4f17fa8 f6da5a12 f6da5a27
+[11:44:18] [debug] ESP+000000c0: 097fe3a0 13e4728d f58a4328 f6bfe4b7
+[11:44:18] [debug] ESP+000000e0: f58a40a0 f58a4008 f5925144 632636ba
+[11:44:18] [debug] ESP+00000100: f58a40d0 f58a4088 f58a40c0 0001fc05
+[11:44:18] [debug] ESP+00000120: f58a421c 00000000 00000000 f58a5040
+[11:44:18] [debug] ESP+00000140: f58a4040 f58a5010 f58a40bc f6ea1000
+[11:44:18] [debug] ESP+00000160: 00000000 00000000 632636ba 0001fc05
+[11:44:18] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000001a0: 00000000 00000000 f6eac1e8 00000000
+[11:44:18] [debug] ESP+000001c0: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000001e0: 00000000 00000000 f4f01fd0 f4f01fd0
+[11:44:18] [debug] ESP+00000200: f58a40b8 00000001 00000000 00000000
+[11:44:18] [debug] ESP+00000220: f4f18508 f4f23618 f4f18da8 00000000
+[11:44:18] [debug] ESP+00000240: f4f1d200 00000002 0000000b 000000c8
+[11:44:18] [debug] ESP+00000260: f4f1ef20 00000263 00000000 00000063
+[11:44:18] [debug] ESP+00000280: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000002a0: 0000002c 2f36762f 65746167 00796177
+[11:44:18] [debug] ESP+000002c0: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000002e0: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+00000300: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+00000320: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+00000340: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+00000360: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+00000380: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000003a0: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000003c0: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] ESP+000003e0: 00000000 00000000 00000000 00000000
+[11:44:18] [debug] Loaded modules:
+[11:44:18] [debug] 00000000 - 00187dc3 samp03svr
+[11:44:18] [debug] f7fbc000 - f7fbcd2c linux-gate.so.1
+[11:44:18] [debug] f7fa9000 - f7fabeec /lib32/libdl.so.2
+[11:44:18] [debug] f7f86000 - f7fa6463 /lib32/libpthread.so.0
+[11:44:18] [debug] f7da7000 - f7f91f2a /lib32/libstdc++.so.6
+[11:44:18] [debug] f7ca3000 - f7da66ec /lib32/libm.so.6
+[11:44:18] [debug] f7c84000 - f7ca09cc /lib32/libgcc_s.so.1
+[11:44:18] [debug] f7a99000 - f7c8a0b3 /lib32/libc.so.6
+[11:44:18] [debug] f7fbd000 - f7fe7f9b /lib/ld-linux.so.2
+[11:44:18] [debug] f6b3d000 - f6ecf67e plugins/discord-connector.so
+[11:44:18] [debug] f6928000 - f6b48348 /home/ogp_agent/OGP_User_Files/18/plugins/../log-core2.so
+[11:44:18] [debug] f5090000 - f50a2268 /lib32/libnss_files.so.2
+[11:44:18] [debug] f5088000 - f508cbb4 /lib32/libnss_dns.so.2
+[11:44:18] [debug] f506f000 - f5085ae0 /lib32/libresolv.so.2
+[11:44:18] [debug] f502a000 - f506e3ac plugins/crashdetect.so
+[11:44:18] [debug] f501e000 - f5027918 plugins/whirlpool.so
+[11:44:18] [debug] f461a000 - f4701b50 plugins/pawncmd.so
+[11:44:18] [debug] f500d000 - f501c9b4 plugins/sscanf.so
+[11:44:18] [debug] f443a000 - f44ff740 plugins/streamer.so
+[11:44:18] [debug] f5002000 - f500a3b3 /lib32/librt.so.1
+[11:44:18] [debug] f4404000 - f4437762 plugins/SKY.so
+[11:44:18] [debug] f4060000 - f4408ac7 plugins/mysql_static.so
+[11:44:18] [debug] f7fb3000 - f7fb4f70 plugins/nativechecker.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:45:24] password = ""  (string)
+[11:45:24] weburl = "www.sa-mp.com"  (string)
+[11:45:24] password = ""  (string)
+[11:45:24] 
+[11:45:24] Server Plugins
+[11:45:24] --------------
+[11:45:24]  Loading plugin: sampvoice.so
+[11:45:24] [sv:dbg:network:init] : module initializing...
+[11:45:24] [dbg:raknet:init] : module initializing...
+[11:45:24] [dbg:raknet:init] : module initialized
+[11:45:24] [sv:dbg:network:init] : module initialized
+[11:45:24] [sv:dbg:main:Load] : creating 1 work threads...
+[11:45:24]  -------------------------------------------    
+[11:45:24]    ___                __   __    _              
+[11:45:24]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:45:24]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:45:24]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:45:24]                   |_|                           
+[11:45:24]  -------------------------------------------    
+[11:45:24]            SampVoice by MOR loaded              
+[11:45:24]  -------------------------------------------    
+[11:45:24]   Loaded.
+[11:45:24]  Loading plugin: discord-connector.so
+[11:45:25]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: crashdetect.so
+[11:45:25]   CrashDetect plugin 4.19.4
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: whirlpool.so
+[11:45:25]  
+[11:45:25]  ==================
+[11:45:25]  
+[11:45:25]   Whirlpool loaded
+[11:45:25]  
+[11:45:25]  ==================
+[11:45:25]  
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: pawncmd.so
+[11:45:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: sscanf.so
+[11:45:25] 
+
+[11:45:25]  ===============================
+
+[11:45:25]       sscanf plugin loaded.     
+
+[11:45:25]          Version:  2.8.3        
+
+[11:45:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:45:25]  ===============================
+
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: streamer.so
+[11:45:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: SKY.so
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: mysql_static.so
+[11:45:25]  >> plugin.mysql: R39-6 successfully loaded.
+[11:45:25]   Loaded.
+[11:45:25]  Loading plugin: nativechecker.so
+[11:45:25]   Loaded.
+[11:45:25]  Loaded 10 plugins.
+
+[11:45:25] 
+[11:45:25] Filterscripts
+[11:45:25] ---------------
+[11:45:25]   Loading filterscript 'pcrpmap.amx'...
+[11:45:25] [sv:dbg:main:AmxLoad] : net game pointer (value:0x9aef840) received
+[11:45:25] [sv:dbg:network:bind] : voice server running on port 54275
+[11:45:25]   Loading filterscript 'android-check.amx'...
+[11:45:25] Android check has been successfully loaded.
+[11:45:25]   Loaded 2 filterscripts.
+
+[11:45:25] OnScriptInit 1
+[11:45:25]  
+[11:45:25]  
+[11:45:25]  
+[11:45:25]  ======================================= 
+[11:45:25]  |                                     | 
+[11:45:25]  |        YSI version 1.06.0002        | 
+[11:45:25]  |        By Alex "Y_Less" Cole        | 
+[11:45:25]  |                                     | 
+[11:45:25]  ======================================= 
+[11:45:25]  
+[11:45:25] OnScriptInit 2
+[11:45:25] OnScriptInit 3
+[11:45:25] Iter_OnGameModeInit start: 180
+[11:45:25] Betting System
+[11:45:25] Current gravity: 0.008000
+[11:45:25] GTA: Philippine Forest City
+[11:45:25] 224 objects loaded.
+[11:45:25] Iter_OnGameModeInit: first
+[11:45:25] OnScriptInit 4
+[11:45:25] Number of vehicle models: 11
+[11:45:25] [Script] 7 atms loaded
+[11:45:25] [Script] 0 safezone(s) loaded
+[11:45:25] [Script] 32 vendors loaded
+[11:45:25] [Script] 9 mdc loaded
+[11:45:25] [Script] 0 surgery room loaded
+[11:45:25] [Script] 46 Public Garage loaded
+[11:45:25] [Script] 2 Bars loaded
+[11:45:25] [Script] 18 houses loaded.
+[11:45:25] [Script] 1 garages loaded.
+[11:45:25] [Script] 40 businesses loaded.
+[11:45:25] [Script] 56 entrances loaded.
+[11:45:25] [Script] 7 factions loaded.
+[11:45:25] [Script] 5 gangs loaded.
+[11:45:25] [Script] 15 points loaded.
+[11:45:25] [Script] 9 turfs loaded.
+[11:47:30] [connection] 120.29.79.43:51624 requests connection cookie.
+[11:47:30] [connection] incoming connection: 120.29.79.43:51624 id: 0
+[11:47:31] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[11:47:31] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[11:48:06] AdmWarning: Stewart Abner[0] is possibly teleport hacking (distance: 179.7).
+[11:48:23] [part] Stewart_Abner has left the server (0:0)
+[11:51:29] [connection] 120.29.79.43:1199 requests connection cookie.
+[11:51:29] [connection] incoming connection: 120.29.79.43:1199 id: 0
+[11:51:29] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[11:51:29] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[11:52:05] [part] Stewart_Abner has left the server (0:2)
+[11:53:03] [connection] 120.29.79.43:6922 requests connection cookie.
+[11:53:03] [connection] incoming connection: 120.29.79.43:6922 id: 0
+[11:53:03] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[11:53:03] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[11:53:09] [connection] 112.200.6.148:7134 requests connection cookie.
+[11:53:10] [connection] incoming connection: 112.200.6.148:7134 id: 1
+[11:53:11] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[11:53:11] [sv:dbg:network:connect] : player (1) assigned key (9406c870bf0fc275)
+[11:53:11] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[11:53:11] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[11:53:11] [sv:dbg:network:receive] : player (1) identified (port:7158)
+[11:53:30] AdmWarning: Stewart Abner[0] is possibly teleport hacking (distance: 181.2).
+[11:54:04] [chat] [Pawn_Jones]: a/
+[11:54:04] Application Bot: Pawn Jones has been kicked. Reason: Incorrect Answer at Q#1(a/)
+[11:54:04] [sv:dbg:network:connect] : disconnecting player (1) ...
+[11:54:04] [part] Pawn_Jones has left the server (1:2)
+[11:54:04] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#2(a/)
+[11:54:04] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#3(a/)
+[11:54:47] [connection] 112.200.6.148:8157 requests connection cookie.
+[11:54:48] [connection] incoming connection: 112.200.6.148:8157 id: 1
+[11:54:49] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[11:54:49] [sv:dbg:network:connect] : player (1) assigned key (9406c87072ebb823)
+[11:54:49] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[11:54:49] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[11:54:49] [sv:dbg:network:receive] : player (1) identified (port:8169)
+[11:54:50] [part] Stewart_Abner has left the server (0:0)
+[11:55:13] AdmWarning: Pawn Jones[1] is possibly teleport hacking (distance: 179.7).
+[11:55:13] {FFD200}New Question! {7DAEFF}Pawn Jones(1): a
+[11:55:19] [chat] [Pawn_Jones]: a
+[11:55:19] Application Bot: Pawn Jones has been kicked. Reason: Incorrect Answer at Q#1(a)
+[11:55:19] [sv:dbg:network:connect] : disconnecting player (1) ...
+[11:55:19] [part] Pawn_Jones has left the server (1:2)
+[11:55:19] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#2(a)
+[11:55:19] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#3(a)
+[11:55:43] [connection] 120.29.79.43:17452 requests connection cookie.
+[11:55:43] [connection] incoming connection: 120.29.79.43:17452 id: 0
+[11:55:43] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[11:55:43] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[11:55:56] [connection] 112.200.6.148:8497 requests connection cookie.
+[11:55:57] Admcmd: Stewart Abner has logged in as a Executive Director.
+[11:55:57] [connection] incoming connection: 112.200.6.148:8497 id: 1
+[11:55:58] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[11:55:58] [sv:dbg:network:connect] : player (1) assigned key (9406c870bdaa9541)
+[11:55:58] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[11:55:58] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[11:55:58] [sv:dbg:network:receive] : player (1) identified (port:8507)
+[11:56:28] AdmCmd: Stewart Abner has made Pawn Jones a Executive Director (8).
+[11:56:36] [chat] [Pawn_Jones]: a
+[11:56:36] Application Bot: Pawn Jones has been kicked. Reason: Incorrect Answer at Q#1(a)
+[11:56:36] [sv:dbg:network:connect] : disconnecting player (1) ...
+[11:56:36] [part] Pawn_Jones has left the server (1:2)
+[11:56:36] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#2(a)
+[11:56:36] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#3(a)
+[11:57:03] [chat] [Stewart_Abner]: metagaming
+[11:57:03] Application Bot: Stewart Abner has been kicked. Reason: Incorrect Answer at Q#1(metagaming)
+[11:57:03] [part] Stewart_Abner has left the server (0:2)
+[11:57:03] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#2(metagaming)
+[11:57:03] Application Bot:  has been kicked. Reason: Incorrect Answer at Q#3(metagaming)
+[11:57:03] [connection] 112.200.6.148:8888 requests connection cookie.
+[11:57:04] [connection] incoming connection: 112.200.6.148:8888 id: 0
+[11:57:05] [sv:dbg:network:connect] : connecting player (0) with address (112.200.6.148) ...
+[11:57:05] [sv:dbg:network:connect] : player (0) assigned key (9406c8709c68ee0f)
+[11:57:05] [join] Pawn_Jones has joined the server (0:112.200.6.148)
+[11:57:05] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[11:57:05] [sv:dbg:network:receive] : player (0) identified (port:8894)
+[11:57:13] Admcmd: Pawn Jones has logged in as a Executive Director.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:59:55] password = ""  (string)
+[11:59:55] weburl = "www.sa-mp.com"  (string)
+[11:59:55] password = ""  (string)
+[11:59:55] 
+[11:59:55] Server Plugins
+[11:59:55] --------------
+[11:59:55]  Loading plugin: sampvoice.so
+[11:59:55] [sv:dbg:network:init] : module initializing...
+[11:59:55] [dbg:raknet:init] : module initializing...
+[11:59:55] [dbg:raknet:init] : module initialized
+[11:59:55] [sv:dbg:network:init] : module initialized
+[11:59:55] [sv:dbg:main:Load] : creating 1 work threads...
+[11:59:55]  -------------------------------------------    
+[11:59:55]    ___                __   __    _              
+[11:59:55]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[11:59:55]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[11:59:55]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[11:59:55]                   |_|                           
+[11:59:55]  -------------------------------------------    
+[11:59:55]            SampVoice by MOR loaded              
+[11:59:55]  -------------------------------------------    
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: discord-connector.so
+[11:59:55]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: crashdetect.so
+[11:59:55]   CrashDetect plugin 4.19.4
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: whirlpool.so
+[11:59:55]  
+[11:59:55]  ==================
+[11:59:55]  
+[11:59:55]   Whirlpool loaded
+[11:59:55]  
+[11:59:55]  ==================
+[11:59:55]  
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: pawncmd.so
+[11:59:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: sscanf.so
+[11:59:55] 
+
+[11:59:55]  ===============================
+
+[11:59:55]       sscanf plugin loaded.     
+
+[11:59:55]          Version:  2.8.3        
+
+[11:59:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:59:55]  ===============================
+
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: streamer.so
+[11:59:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: SKY.so
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: mysql_static.so
+[11:59:55]  >> plugin.mysql: R39-6 successfully loaded.
+[11:59:55]   Loaded.
+[11:59:55]  Loading plugin: nativechecker.so
+[11:59:55]   Loaded.
+[11:59:55]  Loaded 10 plugins.
+
+[11:59:55] 
+[11:59:55] Filterscripts
+[11:59:55] ---------------
+[11:59:55]   Loading filterscript 'pcrpmap.amx'...
+[11:59:55] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8941840) received
+[11:59:55] [sv:dbg:network:bind] : voice server running on port 57185
+[11:59:55]   Loading filterscript 'android-check.amx'...
+[11:59:55] Android check has been successfully loaded.
+[11:59:55]   Loaded 2 filterscripts.
+
+[11:59:56] OnScriptInit 1
+[11:59:56]  
+[11:59:56]  
+[11:59:56]  
+[11:59:56]  ======================================= 
+[11:59:56]  |                                     | 
+[11:59:56]  |        YSI version 1.06.0002        | 
+[11:59:56]  |        By Alex "Y_Less" Cole        | 
+[11:59:56]  |                                     | 
+[11:59:56]  ======================================= 
+[11:59:56]  
+[11:59:56] OnScriptInit 2
+[11:59:56] OnScriptInit 3
+[11:59:56] Iter_OnGameModeInit start: 180
+[11:59:56] Betting System
+[11:59:56] Current gravity: 0.008000
+[11:59:56] GTA: Philippine Forest City
+[11:59:56] 224 objects loaded.
+[11:59:56] Iter_OnGameModeInit: first
+[11:59:56] OnScriptInit 4
+[11:59:56] Number of vehicle models: 11
+[11:59:56] [Script] 7 atms loaded
+[11:59:56] [Script] 0 safezone(s) loaded
+[11:59:56] [Script] 32 vendors loaded
+[11:59:56] [Script] 9 mdc loaded
+[11:59:56] [Script] 0 surgery room loaded
+[11:59:56] [Script] 46 Public Garage loaded
+[11:59:56] [Script] 2 Bars loaded
+[11:59:56] [Script] 18 houses loaded.
+[11:59:56] [Script] 1 garages loaded.
+[11:59:56] [Script] 40 businesses loaded.
+[11:59:56] [Script] 56 entrances loaded.
+[11:59:56] [Script] 7 factions loaded.
+[11:59:56] [Script] 5 gangs loaded.
+[11:59:56] [Script] 15 points loaded.
+[11:59:56] [Script] 9 turfs loaded.
+[12:00:27] [connection] 120.29.79.43:37381 requests connection cookie.
+[12:00:27] [connection] incoming connection: 120.29.79.43:37381 id: 0
+[12:00:27] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[12:00:27] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:00:38] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:01:00] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:01:03] AdmCmd: Stewart Abner has given Stewart Abner their own NRG-500.
+[12:01:04] [connection] 112.200.6.148:6853 requests connection cookie.
+[12:01:05] [connection] 112.200.6.148:6853 requests connection cookie.
+[12:01:06] [connection] incoming connection: 112.200.6.148:6853 id: 1
+[12:01:41] [chat] [Stewart_Abner]: f
+[12:01:46] {FFD200}New Question! {7DAEFF}Stewart Abner(0): test
+[12:02:41] [connection] 112.200.6.148:7662 requests connection cookie.
+[12:02:42] [connection] incoming connection: 112.200.6.148:7662 id: 1
+[12:02:42] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[12:02:42] [sv:dbg:network:connect] : player (1) assigned key (9406c8701dbc5080)
+[12:02:42] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[12:02:42] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:02:43] [sv:dbg:network:receive] : player (1) identified (port:7697)
+[12:03:02] Admcmd: Pawn Jones has logged in as a Executive Director.
+[12:03:10] AdmCmd: Stewart Abner has made Stewart Abner a developer.
+[12:03:21] [chat] [Stewart_Abner]: yow
+[12:03:25] [chat] [Pawn_Jones]: pre
+[12:03:37] [chat] [Stewart_Abner]: tf
+[12:03:37] [chat] [Pawn_Jones]: eto gagamitin gm?
+[12:03:39] [chat] [Stewart_Abner]: teka
+[12:03:42] [chat] [Stewart_Abner]: may voucher ka?
+[12:03:44] [chat] [Stewart_Abner]: nakita mo
+[12:03:45] [chat] [Stewart_Abner]: ?
+[12:03:50] [chat] [Pawn_Jones]: oo 2
+[12:03:53] [chat] [Stewart_Abner]: nays
+[12:04:15] [debug] Run time error 4: "Array index out of bounds"
+[12:04:15] [debug]  Attempted to read/write array element at negative index -320
+[12:04:15] [debug] AMX backtrace:
+[12:04:15] [debug] #0 00146170 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22334
+[12:04:16] [debug] Run time error 4: "Array index out of bounds"
+[12:04:16] [debug]  Attempted to read/write array element at negative index -320
+[12:04:16] [debug] AMX backtrace:
+[12:04:16] [debug] #0 00146170 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22334
+[12:04:17] [chat] [Pawn_Jones]: a
+[12:04:19] [debug] Run time error 4: "Array index out of bounds"
+[12:04:19] [debug]  Attempted to read/write array element at negative index -320
+[12:04:19] [debug] AMX backtrace:
+[12:04:19] [debug] #0 00146170 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22334
+[12:04:20] [debug] Run time error 4: "Array index out of bounds"
+[12:04:20] [debug]  Attempted to read/write array element at negative index -320
+[12:04:20] [debug] AMX backtrace:
+[12:04:20] [debug] #0 00146170 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22334
+[12:04:21] [chat] [Pawn_Jones]: a.
+[12:04:25] [chat] [Stewart_Abner]: oks na?
+[12:04:28] [chat] [Pawn_Jones]: eto bang gm gagamitin?
+[12:04:30] [chat] [Stewart_Abner]: oo
+[12:04:32] [chat] [Stewart_Abner]: eto nalang
+[12:04:39] [chat] [Pawn_Jones]: eto ba ung sinend mo skin na pwn o nde?
+[12:04:53] [chat] [Stewart_Abner]: lalagyan ko pa to ng playing hours
+[12:04:56] [chat] [Pawn_Jones]: ge
+[12:05:17] [chat] [Pawn_Jones]: eto ung
+[12:05:20] [chat] [Stewart_Abner]: alen
+[12:05:21] [chat] [Pawn_Jones]: sinend mo skin?
+[12:05:44] [chat] [Pawn_Jones]: a
+[12:06:42] [chat] [Stewart_Abner]: yo
+[12:06:43] [chat] [Pawn_Jones]: a
+[12:06:45] [chat] [Stewart_Abner]: a?
+[12:06:45] [chat] [Pawn_Jones]: pre
+[12:06:46] [chat] [Pawn_Jones]: pre
+[12:06:46] [chat] [Stewart_Abner]: ay
+[12:06:50] [chat] [Stewart_Abner]: yung pwn teka
+[12:06:56] [chat] [Pawn_Jones]: eto ba ung sinend mo skin na pwn kala ko ung isa yon HAHAha.
+[12:06:56] [chat] [Pawn_Jones]: eto ba ung sinend mo skin na pwn kala ko ung isa yon HAHAha.
+[12:07:02] sscanf warning: Format specifier does not match parameter count.
+[12:07:02] AdmCmd: Pawn Jones has given a full weapon set to Pawn Jones.
+[12:07:03] AdmWarning: Pawn_Jones (ID 1) is possibly C-bugging and has been kicked to the server.
+[12:07:03] [sv:dbg:network:connect] : disconnecting player (1) ...
+[12:07:03] [part] Pawn_Jones has left the server (1:2)
+[12:07:43] sscanf warning: Format specifier does not match parameter count.
+[12:08:32] (( Executive Director Stewart Abner: test ))
+[12:11:34] [connection] 112.200.6.148:8962 requests connection cookie.
+[12:11:35] [connection] incoming connection: 112.200.6.148:8962 id: 1
+[12:11:41] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[12:11:41] [sv:dbg:network:connect] : player (1) assigned key (9406c870c6dd9aa7)
+[12:11:41] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[12:11:41] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:11:41] [sv:dbg:network:receive] : player (1) identified (port:9073)
+[12:11:53] Admcmd: Pawn Jones has logged in as a Executive Director.
+[12:12:19] (( Executive Director Pawn Jones: . ))
+[12:12:24] sscanf warning: Format specifier does not match parameter count.
+[12:12:35] AdmCmd: Stewart Abner was slapped by Stewart Abner.
+[12:12:43] [chat] [Pawn_Jones]: para saan ung /y
+[12:12:46] AdmCmd: Stewart Abner was slapped by Stewart Abner.
+[12:12:46] Packet was modified, sent by id: 0, ip: 120.29.79.43:37381
+[12:12:53] [chat] [Pawn_Jones]: para saan ung /y
+[12:12:54] [chat] [Stewart_Abner]: td
+[12:12:56] [chat] [Stewart_Abner]: tf
+[12:12:57] [chat] [Stewart_Abner]: HAHAHA
+[12:12:58] (( Executive Director Pawn Jones: . ))
+[12:13:01] (( Executive Director Pawn Jones: tite ))
+[12:13:11] [chat] [Pawn_Jones]: ahh
+[12:13:26] sscanf warning: String buffer overflow.
+[12:13:34] [chat] [Pawn_Jones]: pasend ako nung isa mong gm 
+[12:13:35] [chat] [Pawn_Jones]: pasend ako nung isa mong gm  HAHA
+[12:13:49] [chat] [Stewart_Abner]: amp
+[12:13:51] [chat] [Pawn_Jones]: pasend ako nung isa mong gm  HAHA
+[12:13:56] AdmCmd: Stewart Abner has cured Stewart Abner's broken legs.
+[12:14:09] [chat] [Pawn_Jones]: pasend ako nung isa mong gm  HAHA
+[12:14:09] [chat] [Pawn_Jones]: pasend ako nung isa mong gm  HAHA
+[12:14:10] [chat] [Pawn_Jones]: AHAAH
+[12:15:02] [chat] [Pawn_Jones]: pano ung application?
+[12:15:11] [chat] [Pawn_Jones]: pano ung application? like ccrp v3 ung update mo
+[12:18:19] [chat] [Pawn_Jones]: .
+[12:18:25] [chat] [Pawn_Jones]: paset ako developer
+[12:18:26] [chat] [Pawn_Jones]: paset ako developer
+[12:18:45] [chat] [Pawn_Jones]: paset ako developer
+[12:18:47] AdmCmd: Stewart Abner has made Pawn Jones a developer.
+[12:19:06] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:19:06] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:19:06] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:19:06] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:19:10]   Filterscript 'propamap.amx' unload failed.
+[12:19:10]   Filterscript 'propamap.amx' load failed'.
+[12:19:10]   Filterscript 'pcrpmap.amx' unloaded.
+[12:19:10]   Filterscript 'pcrpmap.amx' loaded.
+[12:19:10] [sv:dbg:network:connect] : disconnecting player (1) ...
+[12:19:22] OnScriptInit 1
+[12:19:22]  
+[12:19:22]  
+[12:19:22]  
+[12:19:22]  ======================================= 
+[12:19:22]  |                                     | 
+[12:19:22]  |        YSI version 1.06.0002        | 
+[12:19:22]  |        By Alex "Y_Less" Cole        | 
+[12:19:22]  |                                     | 
+[12:19:22]  ======================================= 
+[12:19:22]  
+[12:19:22] OnScriptInit 2
+[12:19:22] OnScriptInit 3
+[12:19:22] Iter_OnGameModeInit start: 180
+[12:19:22] Betting System
+[12:19:22] Current gravity: 0.008000
+[12:19:22] GTA: Philippine Forest City
+[12:19:22] 222 objects loaded.
+[12:19:22] Iter_OnGameModeInit: first
+[12:19:22] OnScriptInit 4
+[12:19:22] Number of vehicle models: 11
+[12:19:22] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:19:22] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:19:22] [Script] 7 atms loaded
+[12:19:22] [Script] 0 safezone(s) loaded
+[12:19:22] [Script] 32 vendors loaded
+[12:19:22] [Script] 9 mdc loaded
+[12:19:22] [Script] 0 surgery room loaded
+[12:19:22] [Script] 46 Public Garage loaded
+[12:19:22] [Script] 2 Bars loaded
+[12:19:22] [Script] 18 houses loaded.
+[12:19:22] [Script] 1 garages loaded.
+[12:19:22] [Script] 40 businesses loaded.
+[12:19:22] [Script] 55 entrances loaded.
+[12:19:22] [Script] 7 factions loaded.
+[12:19:22] [Script] 5 gangs loaded.
+[12:19:22] [Script] 15 points loaded.
+[12:19:22] [Script] 9 turfs loaded.
+[12:19:31] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:19:40] Admcmd: Pawn Jones has logged in as a Executive Director.
+[12:22:20] [part] Pawn_Jones has left the server (1:0)
+[12:22:35] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:22:35] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:22:38]   Filterscript 'propamap.amx' unload failed.
+[12:22:38]   Filterscript 'propamap.amx' load failed'.
+[12:22:38]   Filterscript 'pcrpmap.amx' unloaded.
+[12:22:39]   Filterscript 'pcrpmap.amx' loaded.
+[12:22:51] OnScriptInit 1
+[12:22:51]  
+[12:22:51]  
+[12:22:51]  
+[12:22:51]  ======================================= 
+[12:22:51]  |                                     | 
+[12:22:51]  |        YSI version 1.06.0002        | 
+[12:22:51]  |        By Alex "Y_Less" Cole        | 
+[12:22:51]  |                                     | 
+[12:22:51]  ======================================= 
+[12:22:51]  
+[12:22:51] OnScriptInit 2
+[12:22:51] OnScriptInit 3
+[12:22:51] Iter_OnGameModeInit start: 180
+[12:22:51] Betting System
+[12:22:51] Current gravity: 0.008000
+[12:22:51] GTA: Philippine Forest City
+[12:22:51] 222 objects loaded.
+[12:22:51] Iter_OnGameModeInit: first
+[12:22:51] OnScriptInit 4
+[12:22:51] Number of vehicle models: 11
+[12:22:51] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:22:51] [Script] 7 atms loaded
+[12:22:51] [Script] 0 safezone(s) loaded
+[12:22:51] [Script] 32 vendors loaded
+[12:22:51] [Script] 9 mdc loaded
+[12:22:51] [Script] 0 surgery room loaded
+[12:22:51] [Script] 46 Public Garage loaded
+[12:22:51] [Script] 2 Bars loaded
+[12:22:51] [Script] 18 houses loaded.
+[12:22:51] [Script] 1 garages loaded.
+[12:22:51] [Script] 40 businesses loaded.
+[12:22:51] [Script] 55 entrances loaded.
+[12:22:51] [Script] 7 factions loaded.
+[12:22:51] [Script] 5 gangs loaded.
+[12:22:51] [Script] 15 points loaded.
+[12:22:51] [Script] 9 turfs loaded.
+[12:23:00] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:23:07] [debug] Run time error 4: "Array index out of bounds"
+[12:23:07] [debug]  Attempted to read/write array element at negative index -1
+[12:23:07] [debug] AMX backtrace:
+[12:23:07] [debug] #0 002e0680 in public OnDialogResponse (playerid=0, dialogid=41, response=1, listitem=0, inputtext[]=@00bbe190 "Mobile Phone") at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:23:11] [debug] Run time error 4: "Array index out of bounds"
+[12:23:11] [debug]  Attempted to read/write array element at negative index -1
+[12:23:11] [debug] AMX backtrace:
+[12:23:11] [debug] #0 002e0680 in public OnDialogResponse (playerid=0, dialogid=41, response=1, listitem=0, inputtext[]=@00bbe190 "Mobile Phone") at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:24:31] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:24:35]   Filterscript 'propamap.amx' unload failed.
+[12:24:35]   Filterscript 'propamap.amx' load failed'.
+[12:24:35]   Filterscript 'pcrpmap.amx' unloaded.
+[12:24:35]   Filterscript 'pcrpmap.amx' loaded.
+[12:24:47] OnScriptInit 1
+[12:24:47]  
+[12:24:47]  
+[12:24:47]  
+[12:24:47]  ======================================= 
+[12:24:47]  |                                     | 
+[12:24:47]  |        YSI version 1.06.0002        | 
+[12:24:47]  |        By Alex "Y_Less" Cole        | 
+[12:24:47]  |                                     | 
+[12:24:47]  ======================================= 
+[12:24:47]  
+[12:24:47] OnScriptInit 2
+[12:24:47] OnScriptInit 3
+[12:24:47] Iter_OnGameModeInit start: 180
+[12:24:47] Betting System
+[12:24:47] Current gravity: 0.008000
+[12:24:47] GTA: Philippine Forest City
+[12:24:47] 222 objects loaded.
+[12:24:47] Iter_OnGameModeInit: first
+[12:24:47] OnScriptInit 4
+[12:24:47] Number of vehicle models: 11
+[12:24:47] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:24:47] [Script] 7 atms loaded
+[12:24:47] [Script] 0 safezone(s) loaded
+[12:24:48] [Script] 32 vendors loaded
+[12:24:48] [Script] 9 mdc loaded
+[12:24:48] [Script] 0 surgery room loaded
+[12:24:48] [Script] 46 Public Garage loaded
+[12:24:48] [Script] 2 Bars loaded
+[12:24:48] [Script] 18 houses loaded.
+[12:24:48] [Script] 1 garages loaded.
+[12:24:48] [Script] 40 businesses loaded.
+[12:24:48] [Script] 55 entrances loaded.
+[12:24:48] [Script] 7 factions loaded.
+[12:24:48] [Script] 5 gangs loaded.
+[12:24:48] [Script] 15 points loaded.
+[12:24:48] [Script] 9 turfs loaded.
+[12:25:02] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:25:07] [debug] Run time error 4: "Array index out of bounds"
+[12:25:07] [debug]  Attempted to read/write array element at negative index -1
+[12:25:07] [debug] AMX backtrace:
+[12:25:07] [debug] #0 002e0680 in public OnDialogResponse (playerid=0, dialogid=41, response=1, listitem=0, inputtext[]=@00bbe190 "Mobile Phone") at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:42971
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:26:44] password = ""  (string)
+[12:26:44] weburl = "www.sa-mp.com"  (string)
+[12:26:44] password = ""  (string)
+[12:26:44] 
+[12:26:44] Server Plugins
+[12:26:44] --------------
+[12:26:44]  Loading plugin: sampvoice.so
+[12:26:44] [sv:dbg:network:init] : module initializing...
+[12:26:44] [dbg:raknet:init] : module initializing...
+[12:26:44] [dbg:raknet:init] : module initialized
+[12:26:44] [sv:dbg:network:init] : module initialized
+[12:26:44] [sv:dbg:main:Load] : creating 1 work threads...
+[12:26:44]  -------------------------------------------    
+[12:26:44]    ___                __   __    _              
+[12:26:44]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:26:44]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:26:44]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:26:44]                   |_|                           
+[12:26:44]  -------------------------------------------    
+[12:26:44]            SampVoice by MOR loaded              
+[12:26:44]  -------------------------------------------    
+[12:26:44]   Loaded.
+[12:26:44]  Loading plugin: discord-connector.so
+[12:26:45]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: crashdetect.so
+[12:26:45]   CrashDetect plugin 4.19.4
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: whirlpool.so
+[12:26:45]  
+[12:26:45]  ==================
+[12:26:45]  
+[12:26:45]   Whirlpool loaded
+[12:26:45]  
+[12:26:45]  ==================
+[12:26:45]  
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: pawncmd.so
+[12:26:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: sscanf.so
+[12:26:45] 
+
+[12:26:45]  ===============================
+
+[12:26:45]       sscanf plugin loaded.     
+
+[12:26:45]          Version:  2.8.3        
+
+[12:26:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:26:45]  ===============================
+
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: streamer.so
+[12:26:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: SKY.so
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: mysql_static.so
+[12:26:45]  >> plugin.mysql: R39-6 successfully loaded.
+[12:26:45]   Loaded.
+[12:26:45]  Loading plugin: nativechecker.so
+[12:26:45]   Loaded.
+[12:26:45]  Loaded 10 plugins.
+
+[12:26:45] 
+[12:26:45] Filterscripts
+[12:26:45] ---------------
+[12:26:45]   Loading filterscript 'pcrpmap.amx'...
+[12:26:45] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8c08840) received
+[12:26:45] [sv:dbg:network:bind] : voice server running on port 55284
+[12:26:45]   Loading filterscript 'android-check.amx'...
+[12:26:45] Android check has been successfully loaded.
+[12:26:45]   Loaded 2 filterscripts.
+
+[12:26:45] OnScriptInit 1
+[12:26:45]  
+[12:26:45]  
+[12:26:45]  
+[12:26:45]  ======================================= 
+[12:26:45]  |                                     | 
+[12:26:45]  |        YSI version 1.06.0002        | 
+[12:26:45]  |        By Alex "Y_Less" Cole        | 
+[12:26:45]  |                                     | 
+[12:26:45]  ======================================= 
+[12:26:45]  
+[12:26:45] OnScriptInit 2
+[12:26:45] OnScriptInit 3
+[12:26:45] Iter_OnGameModeInit start: 180
+[12:26:45] Betting System
+[12:26:45] Current gravity: 0.008000
+[12:26:45] GTA: Philippine Forest City
+[12:26:45] 224 objects loaded.
+[12:26:45] Iter_OnGameModeInit: first
+[12:26:45] OnScriptInit 4
+[12:26:45] Number of vehicle models: 11
+[12:26:45] [Script] 7 atms loaded
+[12:26:45] [Script] 0 safezone(s) loaded
+[12:26:46] [Script] 32 vendors loaded
+[12:26:46] [Script] 9 mdc loaded
+[12:26:46] [Script] 0 surgery room loaded
+[12:26:46] [Script] 46 Public Garage loaded
+[12:26:46] [Script] 2 Bars loaded
+[12:26:46] [Script] 18 houses loaded.
+[12:26:46] [Script] 1 garages loaded.
+[12:26:46] [Script] 40 businesses loaded.
+[12:26:46] [Script] 55 entrances loaded.
+[12:26:46] [Script] 7 factions loaded.
+[12:26:46] [Script] 5 gangs loaded.
+[12:26:46] [Script] 15 points loaded.
+[12:26:46] [Script] 9 turfs loaded.
+[12:26:57] [connection] 120.29.79.43:14514 requests connection cookie.
+[12:26:57] [connection] incoming connection: 120.29.79.43:14514 id: 0
+[12:26:58] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[12:26:58] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:27:03] [connection] 112.200.6.148:8649 requests connection cookie.
+[12:27:04] [connection] incoming connection: 112.200.6.148:8649 id: 1
+[12:27:05] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[12:27:05] [sv:dbg:network:connect] : player (1) assigned key (9406c8708ba9cc87)
+[12:27:05] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[12:27:05] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:27:06] [sv:dbg:network:receive] : player (1) identified (port:8663)
+[12:27:26] Admcmd: Pawn Jones has logged in as a Executive Director.
+[12:27:35] AdmCmd: Pawn Jones has made Pawn Jones a Executive Director (8).
+[12:27:38] [chat] [Pawn_Jones]: 
+[12:28:15] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:28:31] [debug] Run time error 4: "Array index out of bounds"
+[12:28:31] [debug]  Attempted to read/write array element at negative index -1
+[12:28:31] [debug] AMX backtrace:
+[12:28:31] [debug] #0 002e0680 in public OnDialogResponse (playerid=0, dialogid=41, response=1, listitem=20, inputtext[]=@00bbe020 "Mask") at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:28:58] [chat] [Pawn_Jones]: naka cp ka?
+[12:29:11] [debug] Run time error 4: "Array index out of bounds"
+[12:29:11] [debug]  Attempted to read/write array element at negative index -1
+[12:29:11] [debug] AMX backtrace:
+[12:29:11] [debug] #0 002e0680 in public OnDialogResponse (playerid=1, dialogid=41, response=1, listitem=0, inputtext[]=@00bbe020 "Mobile Phone") at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:29:14] [chat] [Stewart_Abner]: yeh
+[12:29:15] [debug] Run time error 4: "Array index out of bounds"
+[12:29:15] [debug]  Attempted to read/write array element at negative index -1
+[12:29:15] [debug] AMX backtrace:
+[12:29:15] [debug] #0 002e0680 in public OnDialogResponse (playerid=1, dialogid=41, response=1, listitem=2, inputtext[]=@00bbe020 "Cigars") at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:29:17] [debug] Run time error 4: "Array index out of bounds"
+[12:29:17] [debug]  Attempted to read/write array element at negative index -1
+[12:29:17] [debug] AMX backtrace:
+[12:29:17] [debug] #0 002e0680 in public OnDialogResponse (playerid=1, dialogid=41, response=1, listitem=20, inputtext[]=@00bbe020 "Mask") at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:29:20] [chat] [Pawn_Jones]: bug ba?
+[12:29:21] [chat] [Pawn_Jones]:  /buy
+[12:29:23] [chat] [Pawn_Jones]: bug pa?
+[12:29:29] [chat] [Pawn_Jones]: nag uupdte kpa?
+[12:29:36] [chat] [Stewart_Abner]: oo teka lang
+[12:29:40] [chat] [Pawn_Jones]: wait
+[12:29:41] [chat] [Pawn_Jones]: ako muna.
+[12:31:24] [debug] Run time error 4: "Array index out of bounds"
+[12:31:24] [debug]  Attempted to read/write array element at negative index -1
+[12:31:24] [debug] AMX backtrace:
+[12:31:24] [debug] #0 002e0680 in public OnDialogResponse (playerid=1, dialogid=41, response=1, listitem=10, inputtext[]=@00bbe020 "Baking soda") at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:31:28] [debug] Run time error 4: "Array index out of bounds"
+[12:31:28] [debug]  Attempted to read/write array element at negative index -1
+[12:31:28] [debug] AMX backtrace:
+[12:31:28] [debug] #0 002e0680 in public OnDialogResponse (playerid=1, dialogid=41, response=1, listitem=20, inputtext[]=@00bbe020 "Mask") at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:42971
+[12:31:54] AdmWarning: Pawn_Jones (ID 1) is possibly C-bugging and has been kicked to the server.
+[12:31:54] [sv:dbg:network:connect] : disconnecting player (1) ...
+[12:31:54] [part] Pawn_Jones has left the server (1:2)
+[12:37:10] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:37:14]   Filterscript 'propamap.amx' unload failed.
+[12:37:14]   Filterscript 'propamap.amx' load failed'.
+[12:37:14]   Filterscript 'pcrpmap.amx' unloaded.
+[12:37:14]   Filterscript 'pcrpmap.amx' loaded.
+[12:37:26] OnScriptInit 1
+[12:37:26]  
+[12:37:26]  
+[12:37:26]  
+[12:37:26]  ======================================= 
+[12:37:26]  |                                     | 
+[12:37:26]  |        YSI version 1.06.0002        | 
+[12:37:26]  |        By Alex "Y_Less" Cole        | 
+[12:37:26]  |                                     | 
+[12:37:26]  ======================================= 
+[12:37:26]  
+[12:37:26] OnScriptInit 2
+[12:37:26] OnScriptInit 3
+[12:37:26] Iter_OnGameModeInit start: 180
+[12:37:26] Betting System
+[12:37:26] Current gravity: 0.008000
+[12:37:26] GTA: Philippine Forest City
+[12:37:26] 222 objects loaded.
+[12:37:26] Iter_OnGameModeInit: first
+[12:37:26] OnScriptInit 4
+[12:37:26] Number of vehicle models: 11
+[12:37:26] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:37:26] [Script] 7 atms loaded
+[12:37:26] [Script] 0 safezone(s) loaded
+[12:37:27] [Script] 32 vendors loaded
+[12:37:27] [Script] 9 mdc loaded
+[12:37:27] [Script] 0 surgery room loaded
+[12:37:27] [Script] 46 Public Garage loaded
+[12:37:27] [Script] 2 Bars loaded
+[12:37:27] [Script] 18 houses loaded.
+[12:37:27] [Script] 1 garages loaded.
+[12:37:27] [Script] 40 businesses loaded.
+[12:37:27] [Script] 55 entrances loaded.
+[12:37:27] [Script] 7 factions loaded.
+[12:37:27] [Script] 5 gangs loaded.
+[12:37:27] [Script] 15 points loaded.
+[12:37:27] [Script] 9 turfs loaded.
+[12:37:37] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:37:37] Packet was modified, sent by id: 0, ip: 120.29.79.43:14514
+[12:38:51] [chat] [Stewart_Abner]:  
+[12:40:44] [part] Stewart_Abner has left the server (0:2)
+[12:42:28] [connection] 120.29.79.43:14134 requests connection cookie.
+[12:42:28] [connection] incoming connection: 120.29.79.43:14134 id: 0
+[12:42:29] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[12:42:29] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:42:36] [part] Stewart_Abner has left the server (0:2)
+[12:43:32] [connection] 120.29.79.43:17685 requests connection cookie.
+[12:43:32] [connection] incoming connection: 120.29.79.43:17685 id: 0
+[12:43:33] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[12:43:33] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:43:47] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:43:51] [part] Stewart_Abner has left the server (0:2)
+[12:44:44] [connection] 120.29.79.43:23515 requests connection cookie.
+[12:44:44] [connection] incoming connection: 120.29.79.43:23515 id: 0
+[12:44:45] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[12:44:45] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:44:57] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:45:05] [connection] 112.200.6.148:5964 requests connection cookie.
+[12:45:06] [connection] incoming connection: 112.200.6.148:5964 id: 1
+[12:45:07] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[12:45:07] [sv:dbg:network:connect] : player (1) assigned key (9406c8705a0a539e)
+[12:45:07] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[12:45:07] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:45:08] [sv:dbg:network:receive] : player (1) identified (port:6011)
+[12:45:25] Admcmd: Pawn Jones has logged in as a Executive Director.
+[12:45:37] [sv:dbg:network:connect] : disconnecting player (1) ...
+[12:45:37] [part] Pawn_Jones has left the server (1:2)
+[12:45:38] [part] Stewart_Abner has left the server (0:2)
+[12:49:03] [connection] 120.29.79.43:39818 requests connection cookie.
+[12:49:04] [connection] 120.29.79.43:39818 requests connection cookie.
+[12:49:04] [connection] incoming connection: 120.29.79.43:39818 id: 0
+[12:49:05] [connection] 120.29.79.43:39818 requests connection cookie.
+[12:49:06] [connection] 120.29.79.43:39818 requests connection cookie.
+[12:49:07] [connection] 120.29.79.43:39818 requests connection cookie.
+[12:49:08] [connection] 120.29.79.43:39818 requests connection cookie.
+[12:49:09] [connection] 120.29.79.43:40327 requests connection cookie.
+[12:49:09] [connection] incoming connection: 120.29.79.43:40327 id: 1
+[12:49:09] [join] Stewart_Abner has joined the server (1:120.29.79.43)
+[12:49:09] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:49:28] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:49:54] [part] Stewart_Abner has left the server (1:0)
+[12:50:24] [connection] 120.29.79.43:45239 requests connection cookie.
+[12:50:24] [connection] incoming connection: 120.29.79.43:45239 id: 0
+[12:50:24] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[12:50:24] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:50:36] Admcmd: Stewart Abner has logged in as a Executive Director.
+[12:54:29] [connection] 112.200.6.148:6260 requests connection cookie.
+[12:54:30] [connection] incoming connection: 112.200.6.148:6260 id: 1
+[12:54:31] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[12:54:31] [sv:dbg:network:connect] : player (1) assigned key (9406c8706c3241e2)
+[12:54:31] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[12:54:31] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:54:31] [sv:dbg:network:receive] : player (1) identified (port:6279)
+[12:54:43] Admcmd: Pawn Jones has logged in as a Executive Director.
+[12:55:00] [chat] [Stewart_Abner]: yo
+[12:55:07] [chat] [Pawn_Jones]: ano inupdat emo?
+[12:55:10] [chat] [Pawn_Jones]: ano inuupdate*
+[12:55:12] [chat] [Stewart_Abner]: playing hours
+[12:55:17] [chat] [Stewart_Abner]: tas tinanggal ko !kick
+[12:55:19] [chat] [Pawn_Jones]: anong klaseng playing hours
+[12:55:20] [chat] [Stewart_Abner]: ayusin ko kuna
+[12:55:21] [chat] [Pawn_Jones]: anong klaseng playing hours
+[12:55:23] [chat] [Stewart_Abner]: narereset
+[12:55:26] [chat] [Stewart_Abner]: every month
+[12:55:26] [chat] [Pawn_Jones]: ahh
+[12:56:00] [chat] [Pawn_Jones]: bug
+[12:56:01] [chat] [Pawn_Jones]: bug
+[12:56:01] [chat] [Pawn_Jones]: bug
+[12:56:03] [chat] [Pawn_Jones]: bug ung tab
+[12:58:21] [chat] [Stewart_Abner]: d
+[12:58:23] [chat] [Stewart_Abner]:  
+[12:58:24] [chat] [Stewart_Abner]:  
+[12:58:28] [chat] [Pawn_Jones]: check dm
+[12:58:39] Packet was modified, sent by id: 0, ip: 120.29.79.43:45239
+[12:58:42] AdmCmd: Pawn Jones has revived Stewart Abner
+[12:59:16] AdmCmd: Pawn Jones spawned a NRG-500.
+[12:59:40] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:59:40] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:59:41] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:59:41] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[12:59:44]   Filterscript 'propamap.amx' unload failed.
+[12:59:44]   Filterscript 'propamap.amx' load failed'.
+[12:59:44]   Filterscript 'pcrpmap.amx' unloaded.
+[12:59:44]   Filterscript 'pcrpmap.amx' loaded.
+[12:59:44] [sv:dbg:network:connect] : disconnecting player (1) ...
+[12:59:56] OnScriptInit 1
+[12:59:56]  
+[12:59:56]  
+[12:59:56]  
+[12:59:56]  ======================================= 
+[12:59:56]  |                                     | 
+[12:59:56]  |        YSI version 1.06.0002        | 
+[12:59:56]  |        By Alex "Y_Less" Cole        | 
+[12:59:56]  |                                     | 
+[12:59:56]  ======================================= 
+[12:59:56]  
+[12:59:56] OnScriptInit 2
+[12:59:56] OnScriptInit 3
+[12:59:56] Iter_OnGameModeInit start: 180
+[12:59:56] Betting System
+[12:59:56] Current gravity: 0.008000
+[12:59:56] GTA: Philippine Forest City
+[12:59:56] 222 objects loaded.
+[12:59:56] Iter_OnGameModeInit: first
+[12:59:56] OnScriptInit 4
+[12:59:56] Number of vehicle models: 11
+[12:59:56] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[12:59:56] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[12:59:56] [Script] 7 atms loaded
+[12:59:56] [Script] 0 safezone(s) loaded
+[12:59:56] [Script] 32 vendors loaded
+[12:59:56] [Script] 9 mdc loaded
+[12:59:56] [Script] 0 surgery room loaded
+[12:59:56] [Script] 46 Public Garage loaded
+[12:59:56] [Script] 2 Bars loaded
+[12:59:56] [Script] 18 houses loaded.
+[12:59:56] [Script] 1 garages loaded.
+[12:59:56] [Script] 40 businesses loaded.
+[12:59:56] [Script] 55 entrances loaded.
+[12:59:56] [Script] 7 factions loaded.
+[12:59:56] [Script] 5 gangs loaded.
+[12:59:56] [Script] 15 points loaded.
+[12:59:56] [Script] 9 turfs loaded.
+[13:00:06] Admcmd: Stewart Abner has logged in as a Executive Director.
+[13:00:07] Admcmd: Pawn Jones has logged in as a Executive Director.
+[13:00:12] [chat] [Pawn_Jones]: pre
+[13:00:14] [chat] [Pawn_Jones]: send muna pwn
+[13:00:16] [chat] [Pawn_Jones]: send muna pwn gagawa ako now 
+[13:00:18] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:19] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:26] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:26] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:53] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:53] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:53] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:55] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:00:55] [chat] [Pawn_Jones]: send muna pwn gagawa ako now verify system
+[13:01:01] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[13:01:01] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[13:01:08] [chat] [Pawn_Jones]: par
+[13:01:11] [chat] [Pawn_Jones]: gagawa ako own hungertd
+[13:01:56] sscanf warning: Format specifier does not match parameter count.
+[13:02:03] AdmCmd: Stewart Abner has cured Stewart Abner's broken legs.
+[13:02:17] [chat] [Pawn_Jones]: pano gumawa gz?
+[13:03:34] AdmCmd: Stewart Abner has cured Stewart Abner's broken legs.
+[13:08:40] [part] Stewart_Abner has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:09:33] password = ""  (string)
+[13:09:33] weburl = "www.sa-mp.com"  (string)
+[13:09:33] password = ""  (string)
+[13:09:33] 
+[13:09:33] Server Plugins
+[13:09:33] --------------
+[13:09:33]  Loading plugin: sampvoice.so
+[13:09:33] [sv:dbg:network:init] : module initializing...
+[13:09:33] [dbg:raknet:init] : module initializing...
+[13:09:33] [dbg:raknet:init] : module initialized
+[13:09:33] [sv:dbg:network:init] : module initialized
+[13:09:33] [sv:dbg:main:Load] : creating 1 work threads...
+[13:09:33]  -------------------------------------------    
+[13:09:33]    ___                __   __    _              
+[13:09:33]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[13:09:33]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[13:09:33]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[13:09:33]                   |_|                           
+[13:09:33]  -------------------------------------------    
+[13:09:33]            SampVoice by MOR loaded              
+[13:09:33]  -------------------------------------------    
+[13:09:33]   Loaded.
+[13:09:33]  Loading plugin: discord-connector.so
+[13:09:34]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: crashdetect.so
+[13:09:34]   CrashDetect plugin 4.19.4
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: whirlpool.so
+[13:09:34]  
+[13:09:34]  ==================
+[13:09:34]  
+[13:09:34]   Whirlpool loaded
+[13:09:34]  
+[13:09:34]  ==================
+[13:09:34]  
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: pawncmd.so
+[13:09:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: sscanf.so
+[13:09:34] 
+
+[13:09:34]  ===============================
+
+[13:09:34]       sscanf plugin loaded.     
+
+[13:09:34]          Version:  2.8.3        
+
+[13:09:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:09:34]  ===============================
+
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: streamer.so
+[13:09:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: SKY.so
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: mysql_static.so
+[13:09:34]  >> plugin.mysql: R39-6 successfully loaded.
+[13:09:34]   Loaded.
+[13:09:34]  Loading plugin: nativechecker.so
+[13:09:34]   Loaded.
+[13:09:34]  Loaded 10 plugins.
+
+[13:09:34] 
+[13:09:34] Filterscripts
+[13:09:34] ---------------
+[13:09:34]   Loading filterscript 'pcrpmap.amx'...
+[13:09:34] [sv:dbg:main:AmxLoad] : net game pointer (value:0x907a840) received
+[13:09:34] [sv:dbg:network:bind] : voice server running on port 57033
+[13:09:34]   Loading filterscript 'android-check.amx'...
+[13:09:34] Android check has been successfully loaded.
+[13:09:34]   Loaded 2 filterscripts.
+
+[13:09:35] OnScriptInit 1
+[13:09:35]  
+[13:09:35]  
+[13:09:35]  
+[13:09:35]  ======================================= 
+[13:09:35]  |                                     | 
+[13:09:35]  |        YSI version 1.06.0002        | 
+[13:09:35]  |        By Alex "Y_Less" Cole        | 
+[13:09:35]  |                                     | 
+[13:09:35]  ======================================= 
+[13:09:35]  
+[13:09:35] OnScriptInit 2
+[13:09:35] OnScriptInit 3
+[13:09:35] Iter_OnGameModeInit start: 180
+[13:09:35] Betting System
+[13:09:35] Current gravity: 0.008000
+[13:09:35] GTA: Philippine Forest City
+[13:09:35] 224 objects loaded.
+[13:09:35] Iter_OnGameModeInit: first
+[13:09:35] OnScriptInit 4
+[13:09:35] Number of vehicle models: 11
+[13:09:35] [Script] 7 atms loaded
+[13:09:35] [Script] 1 safezone(s) loaded
+[13:09:35] [Script] 32 vendors loaded
+[13:09:35] [Script] 9 mdc loaded
+[13:09:35] [Script] 0 surgery room loaded
+[13:09:35] [Script] 46 Public Garage loaded
+[13:09:35] [Script] 2 Bars loaded
+[13:09:35] [Script] 18 houses loaded.
+[13:09:35] [Script] 1 garages loaded.
+[13:09:35] [Script] 40 businesses loaded.
+[13:09:35] [Script] 55 entrances loaded.
+[13:09:35] [Script] 7 factions loaded.
+[13:09:35] [Script] 5 gangs loaded.
+[13:09:35] [Script] 15 points loaded.
+[13:09:35] [Script] 9 turfs loaded.
+[13:31:57] [connection] 112.200.6.148:8902 requests connection cookie.
+[13:31:58] [connection] incoming connection: 112.200.6.148:8902 id: 0
+[13:32:55] [connection] incoming connection: 112.200.6.148:5189 id: 0
+[13:32:58] [sv:dbg:network:connect] : connecting player (0) with address (112.200.6.148) ...
+[13:32:58] [sv:dbg:network:connect] : player (0) assigned key (9406c870eb9fc0a8)
+[13:32:58] [join] Pawn_Jones has joined the server (0:112.200.6.148)
+[13:32:58] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[13:34:07] [sv:dbg:network:connect] : disconnecting player (0) ...
+[13:34:07] [part] Pawn_Jones has left the server (0:0)
+[13:59:51] [connection] 120.29.79.43:57066 requests connection cookie.
+[13:59:51] [connection] incoming connection: 120.29.79.43:57066 id: 0
+[13:59:52] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[13:59:52] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[14:00:06] Admcmd: Stewart Abner has logged in as a Executive Director.
+[14:00:13] Packet was modified, sent by id: 0, ip: 120.29.79.43:57066
+[14:00:32] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:01:10] AdmCmd: Stewart Abner has made Stewart Abner a faction moderator.
+[14:01:17] AdmCmd: Stewart Abner has made Stewart Abner a gang moderator.
+[14:01:34] AdmCmd: Stewart Abner has set the name of faction ID 2 to 'Alcazar City Police Department'.
+[14:02:11] AdmCmd: Stewart Abner has set the name of faction ID 3 to 'Alcazar City Fire and Medical Department'.
+[14:02:26] AdmCmd: Stewart Abner has made Stewart Abner a Mayor in National Governemt.
+[14:02:26] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[14:02:29] AdmCmd: Stewart Abner has made Stewart Abner a Chief Of Police in Alcazar City Police Department.
+[14:02:29] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[14:03:13] AdmCmd: Stewart Abner has given a {C2A2DA}{FF6347} Donator package to all online players.
+[14:03:13] AdmCmd: A MySQL error occurred (error 1146). Details written to mysql_error.txt.
+[14:03:20] [chat] [Stewart_Abner]: o
+[14:03:22] [chat] [Stewart_Abner]: test
+[14:03:34] AdmCmd: Stewart_Abner changed their administrator name to Stewart.
+[14:04:08] AdmCmd: Stewart Abner has deleted gang WILDER SINDICATE FAMILY.
+[14:04:10] AdmCmd: Stewart Abner has deleted gang Young_Bloodz.
+[14:04:18] AdmCmd: Stewart Abner has deleted gang Gang Gang Familia.
+[14:04:21] AdmCmd: Stewart Abner has deleted gang El_Fang.
+[14:04:59] AdmCmd: Stewart Abner has set the strikes of gang ID 5 to 0.
+[14:05:17] AdmCmd: Stewart Abner has set the name of gang ID 5 to 'Black Mafia Doperty'.
+[14:05:54] AdmCmd: Stewart Abner has set the leader of gang ID 5 to Pending.
+[14:07:37] sscanf warning: Format specifier does not match parameter count.
+[14:07:37] AdmCmd: Stewart Abner has given a full weapon set to Stewart Abner.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:08:06] password = ""  (string)
+[14:08:06] weburl = "www.sa-mp.com"  (string)
+[14:08:06] password = ""  (string)
+[14:08:06] 
+[14:08:06] Server Plugins
+[14:08:06] --------------
+[14:08:06]  Loading plugin: sampvoice.so
+[14:08:06] [sv:dbg:network:init] : module initializing...
+[14:08:06] [dbg:raknet:init] : module initializing...
+[14:08:06] [dbg:raknet:init] : module initialized
+[14:08:06] [sv:dbg:network:init] : module initialized
+[14:08:06] [sv:dbg:main:Load] : creating 1 work threads...
+[14:08:06]  -------------------------------------------    
+[14:08:06]    ___                __   __    _              
+[14:08:06]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[14:08:06]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[14:08:06]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[14:08:06]                   |_|                           
+[14:08:06]  -------------------------------------------    
+[14:08:06]            SampVoice by MOR loaded              
+[14:08:06]  -------------------------------------------    
+[14:08:06]   Loaded.
+[14:08:06]  Loading plugin: discord-connector.so
+[14:08:06]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[14:08:06]   Loaded.
+[14:08:06]  Loading plugin: crashdetect.so
+[14:08:06]   CrashDetect plugin 4.19.4
+[14:08:06]   Loaded.
+[14:08:06]  Loading plugin: whirlpool.so
+[14:08:06]  
+[14:08:06]  ==================
+[14:08:06]  
+[14:08:06]   Whirlpool loaded
+[14:08:06]  
+[14:08:06]  ==================
+[14:08:06]  
+[14:08:06]   Loaded.
+[14:08:06]  Loading plugin: pawncmd.so
+[14:08:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:08:06]   Loaded.
+[14:08:06]  Loading plugin: sscanf.so
+[14:08:06] 
+
+[14:08:06]  ===============================
+
+[14:08:06]       sscanf plugin loaded.     
+
+[14:08:06]          Version:  2.8.3        
+
+[14:08:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:08:06]  ===============================
+
+[14:08:06]   Loaded.
+[14:08:06]  Loading plugin: streamer.so
+[14:08:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:08:07]   Loaded.
+[14:08:07]  Loading plugin: SKY.so
+[14:08:07]   Loaded.
+[14:08:07]  Loading plugin: mysql_static.so
+[14:08:07]  >> plugin.mysql: R39-6 successfully loaded.
+[14:08:07]   Loaded.
+[14:08:07]  Loading plugin: nativechecker.so
+[14:08:07]   Loaded.
+[14:08:07]  Loaded 10 plugins.
+
+[14:08:07] 
+[14:08:07] Filterscripts
+[14:08:07] ---------------
+[14:08:07]   Loading filterscript 'pcrpmap.amx'...
+[14:08:07] [sv:dbg:main:AmxLoad] : net game pointer (value:0x9e39840) received
+[14:08:07] [sv:dbg:network:bind] : voice server running on port 57853
+[14:08:07]   Loading filterscript 'android-check.amx'...
+[14:08:07] Android check has been successfully loaded.
+[14:08:07]   Loaded 2 filterscripts.
+
+[14:08:07] OnScriptInit 1
+[14:08:07]  
+[14:08:07]  
+[14:08:07]  
+[14:08:07]  ======================================= 
+[14:08:07]  |                                     | 
+[14:08:07]  |        YSI version 1.06.0002        | 
+[14:08:07]  |        By Alex "Y_Less" Cole        | 
+[14:08:07]  |                                     | 
+[14:08:07]  ======================================= 
+[14:08:07]  
+[14:08:07] OnScriptInit 2
+[14:08:07] OnScriptInit 3
+[14:08:07] Iter_OnGameModeInit start: 180
+[14:08:07] Betting System
+[14:08:07] Current gravity: 0.008000
+[14:08:07] GTA: Philippine Forest City
+[14:08:07] 224 objects loaded.
+[14:08:07] Iter_OnGameModeInit: first
+[14:08:07] OnScriptInit 4
+[14:08:07] Number of vehicle models: 11
+[14:08:07] [Script] 7 atms loaded
+[14:08:07] [Script] 1 safezone(s) loaded
+[14:08:07] [Script] 32 vendors loaded
+[14:08:07] [Script] 9 mdc loaded
+[14:08:07] [Script] 0 surgery room loaded
+[14:08:07] [Script] 46 Public Garage loaded
+[14:08:07] [Script] 2 Bars loaded
+[14:08:07] [Script] 18 houses loaded.
+[14:08:07] [Script] 1 garages loaded.
+[14:08:07] [Script] 40 businesses loaded.
+[14:08:07] [Script] 55 entrances loaded.
+[14:08:07] [Script] 7 factions loaded.
+[14:08:07] [Script] 1 gangs loaded.
+[14:08:07] [Script] 15 points loaded.
+[14:08:07] [Script] 9 turfs loaded.
+[14:08:21] [connection] 120.29.79.43:23251 requests connection cookie.
+[14:08:21] [connection] incoming connection: 120.29.79.43:23251 id: 0
+[14:08:22] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[14:08:22] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[14:08:31] Admcmd: Stewart Abner has logged in as a Executive Director.
+[14:09:04] [connection] 112.200.6.148:5312 requests connection cookie.
+[14:09:05] [connection] incoming connection: 112.200.6.148:5312 id: 1
+[14:09:35] [part] Stewart_Abner has left the server (0:0)
+[14:10:03] [connection] 120.29.79.43:28329 requests connection cookie.
+[14:10:03] [connection] incoming connection: 120.29.79.43:28329 id: 0
+[14:10:04] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[14:10:04] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[14:10:18] Admcmd: Stewart Abner has logged in as a Executive Director.
+[14:10:24] [connection] incoming connection: 112.200.6.148:6652 id: 1
+[14:10:25] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[14:10:25] [sv:dbg:network:connect] : player (1) assigned key (9406c870dc3119a8)
+[14:10:25] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[14:10:25] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[14:10:26] [sv:dbg:network:receive] : player (1) identified (port:6696)
+[14:10:51] (( Executive Director Stewart Abner: test ))
+[14:11:00] AdmCmd: A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[14:11:20] Admcmd: Pawn Jones has logged in as a Executive Director.
+[14:11:20] AdmCmd: Stewart Abner has cleared the chat box.
+[14:11:23] AdmCmd: Stewart Abner has cleared the chat box.
+[14:11:41] [chat] [Pawn_Jones]: gumana ? verify sys
+[14:11:48] [chat] [Stewart_Abner]: wdym?
+[14:12:02] (( Executive Director Stewart Abner: test ))
+[14:12:06] (( Executive Director Pawn Jones: . ))
+[14:12:10] (( Executive Director Pawn Jones: ano ung /makemm? ))
+[14:12:45] AdmCmd: Stewart Abner has made Stewart Abner a faction moderator.
+[14:13:01] AdmCmd: Stewart Abner has made Stewart Abner a gang moderator.
+[14:13:04] AdmCmd: Stewart Abner has made Stewart Abner a Chief Of Police in Alcazar City Police Department.
+[14:13:13] AdmCmd: Pawn_Jones has created supot's account.
+[14:13:13] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:13:14] AdmCmd: Stewart Abner has given Stewart Abner a weapon license.
+[14:13:47] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:15:30] [part] Stewart_Abner has left the server (0:0)
+[14:16:59] [connection] 120.29.79.43:51047 requests connection cookie.
+[14:16:59] [connection] incoming connection: 120.29.79.43:51047 id: 0
+[14:17:00] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[14:17:00] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[14:17:03] AdmCmd: Pawn Jones has revived Pawn Jones
+[14:17:10] Admcmd: Stewart Abner has logged in as a Executive Director.
+[14:18:02] [chat] [Stewart_Abner]: bat ba auto afk ka?
+[14:18:13] [chat] [Stewart_Abner]: gagi
+[14:18:17] [chat] [Stewart_Abner]: ano ginawa mo
+[14:18:18] [chat] [Pawn_Jones]: ?
+[14:18:28] [chat] [Stewart_Abner]: diko maverify sarili o
+[14:18:32] [chat] [Stewart_Abner]: diko maverify sarili ko
+[14:18:32] [chat] [Pawn_Jones]: hAHAHA
+[14:18:37] [chat] [Pawn_Jones]:  /verify
+[14:19:01] [chat] [Stewart_Abner]: dialog na sira nakikita ko
+[14:19:30] [chat] [Pawn_Jones]: lag ka pag ganyan
+[14:19:35] [chat] [Pawn_Jones]: lag ka pag ganyan
+[14:19:42] [chat] [Pawn_Jones]: akin ndi nman
+[14:19:45] [chat] [Stewart_Abner]: verify moko tae
+[14:19:54] [chat] [Pawn_Jones]: d kta maveverify haha.
+[14:19:58] [chat] [Pawn_Jones]: gege.
+[14:19:58] [chat] [Pawn_Jones]: quit ka
+[14:20:13] [chat] [Pawn_Jones]: ya
+[14:20:18] [chat] [Pawn_Jones]: ya
+[14:20:21] [chat] [Stewart_Abner]: gege
+[14:20:25] [chat] [Pawn_Jones]: quit kamuna
+[14:20:29] sscanf warning: Format specifier does not match parameter count.
+[14:20:31] [chat] [Pawn_Jones]: pano
+[14:20:45] [chat] [Pawn_Jones]: pano gumawa gz
+[14:20:49] [chat] [Stewart_Abner]: maya
+[14:20:56] [chat] [Stewart_Abner]: set mo muna ko verify omay
+[14:21:08] [part] Stewart_Abner has left the server (0:2)
+[14:23:03] [connection] 120.29.79.43:4905 requests connection cookie.
+[14:23:03] [connection] incoming connection: 120.29.79.43:4905 id: 0
+[14:23:03] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[14:23:03] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[14:23:16] Admcmd: Stewart Abner has logged in as a Executive Director.
+[14:23:44] [chat] [Pawn_Jones]: ok na?
+[14:23:59] [chat] [Pawn_Jones]: ok na?
+[14:23:59] [chat] [Pawn_Jones]: ok na?
+[14:24:00] [chat] [Pawn_Jones]: ok na?
+[14:24:00] [chat] [Pawn_Jones]: ok na?
+[14:24:10] [chat] [Stewart_Abner]: hinde
+[14:24:45] AdmCmd: Stewart Abner has revived Pawn Jones
+[14:24:51] [chat] [Pawn_Jones]: ano
+[14:24:52] [chat] [Pawn_Jones]: nakasulat
+[14:24:53] [chat] [Stewart_Abner]: ayaw
+[14:24:59] [chat] [Pawn_Jones]: di ko alam eh HAHAHA>
+[14:25:09] [chat] [Pawn_Jones]: di ko alam eh HAHAHA> haHAHAHa
+[14:25:13] [chat] [Pawn_Jones]: nag error ung sa bomb
+[14:25:15] [chat] [Pawn_Jones]: nag error ung sa bomb
+[14:25:19] [chat] [Stewart_Abner]: bomb?
+[14:25:20] [chat] [Pawn_Jones]: nag error ung sa bomb " "
+[14:25:21] [chat] [Pawn_Jones]: oo
+[14:25:23] [chat] [Pawn_Jones]: sa sql
+[14:25:25] [connection] 103.95.150.2:60002 requests connection cookie.
+[14:25:26] [connection] incoming connection: 103.95.150.2:60002 id: 2
+[14:25:27] [sv:dbg:network:connect] : connecting player (2) with address (103.95.150.2) ...
+[14:25:27] [sv:dbg:network:connect] : player (2) assigned key (2965f67b323e23f)
+[14:25:27] [join] Kiel_Simpson has joined the server (2:103.95.150.2)
+[14:25:27] > {FFFFFF}{AAAAAA}Kiel_Simpson has joined the server [{33AA33}IP:{FFFFFF} 103.95.150.2]
+[14:25:27] [sv:dbg:network:receive] : player (2) identified (port:49637)
+[14:25:31] [chat] [Pawn_Jones]: ano lalagay ko sa bomb
+[14:25:32] [chat] [Stewart_Abner]: wag gags
+[14:25:39] [chat] [Stewart_Abner]: remove mo muna
+[14:25:45] [chat] [Pawn_Jones]: wag na
+[14:25:46] AdmWarning: Pawn_Jones (ID 1) is possibly C-bugging and has been kicked to the server.
+[14:25:46] [sv:dbg:network:connect] : disconnecting player (1) ...
+[14:25:46] [part] Pawn_Jones has left the server (1:2)
+[14:26:08] AdmWarning: Kiel Simpson[2] is possibly teleport hacking (distance: 148.7).
+[14:26:09] [connection] 103.95.150.2:36263 requests connection cookie.
+[14:26:09] [connection] incoming connection: 103.95.150.2:36263 id: 1
+[14:26:10] [sv:dbg:network:connect] : connecting player (1) with address (103.95.150.2) ...
+[14:26:10] [sv:dbg:network:connect] : player (1) assigned key (2965f67721957b7)
+[14:26:19] [sv:dbg:network:connect] : disconnecting player (2) ...
+[14:26:19] [part] Kiel_Simpson has left the server (2:0)
+[14:26:31] [connection] 103.95.150.2:58671 requests connection cookie.
+[14:26:32] [connection] 103.95.150.2:58671 requests connection cookie.
+[14:26:33] [connection] incoming connection: 103.95.150.2:58671 id: 1
+[14:26:33] [sv:dbg:network:connect] : disconnecting player (1) ...
+[14:26:33] [sv:dbg:network:connect] : connecting player (1) with address (103.95.150.2) ...
+[14:26:33] [sv:dbg:network:connect] : player (1) assigned key (2965f6706f3d83d)
+[14:26:33] [join] Kiel_Simpson has joined the server (1:103.95.150.2)
+[14:26:33] > {FFFFFF}{AAAAAA}Kiel_Simpson has joined the server [{33AA33}IP:{FFFFFF} 103.95.150.2]
+[14:26:37] [sv:dbg:network:receive] : player (1) identified (port:33758)
+[14:26:52] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:27:01] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:27:22] [connection] 112.200.6.148:7199 requests connection cookie.
+[14:27:23] [connection] incoming connection: 112.200.6.148:7199 id: 2
+[14:27:24] [sv:dbg:network:connect] : connecting player (2) with address (112.200.6.148) ...
+[14:27:24] [sv:dbg:network:connect] : player (2) assigned key (9406c87035893033)
+[14:27:24] [join] Pawn_Jones has joined the server (2:112.200.6.148)
+[14:27:24] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[14:27:24] [sv:dbg:network:receive] : player (2) identified (port:7206)
+[14:27:34] [sv:dbg:network:connect] : disconnecting player (1) ...
+[14:27:35] [part] Kiel_Simpson has left the server (1:0)
+[14:27:38] Admcmd: Pawn Jones has logged in as a Executive Director.
+[14:27:44] [connection] 103.95.150.2:52376 requests connection cookie.
+[14:27:46] [connection] incoming connection: 103.95.150.2:52376 id: 1
+[14:27:46] [sv:dbg:network:connect] : connecting player (1) with address (103.95.150.2) ...
+[14:27:46] [sv:dbg:network:connect] : player (1) assigned key (2965f673dbfcfb5)
+[14:27:46] [join] Kiel_Simpson has joined the server (1:103.95.150.2)
+[14:27:46] > {FFFFFF}{AAAAAA}Kiel_Simpson has joined the server [{33AA33}IP:{FFFFFF} 103.95.150.2]
+[14:27:47] [sv:dbg:network:receive] : player (1) identified (port:41017)
+[14:28:11] AdmWarning: Kiel Simpson[1] is possibly teleport hacking (distance: 179.7).
+[14:28:15] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:28:16] Packet was modified, sent by id: 0, ip: 120.29.79.43:4905
+[14:28:17] Packet was modified, sent by id: 0, ip: 120.29.79.43:4905
+[14:28:26] AdmCmd: Stewart Abner is now on admin duty.
+[14:28:26] [nick] Stewart_Abner nick changed to Stewart
+[14:28:26] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:28:30] [chat] [Pawn_Jones]: rival?
+[14:28:35] [chat] [Kiel_Simpson]: oo
+[14:28:44] AdmCmd: Pawn Jones has made Kiel Simpson a Senior Admin (4).
+[14:28:47] [chat] [Kiel_Simpson]: ty
+[14:28:55] [nick] Stewart nick changed to Stewart_Abner
+[14:28:55] AdmCmd: Stewart Abner is no longer on admin duty.
+[14:29:27] AdmCmd: Kiel Simpson is now on admin duty.
+[14:29:27] AdmCmd: A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[14:29:38] AdmCmd: Kiel Simpson is no longer on admin duty.
+[14:30:07] [sv:dbg:network:connect] : disconnecting player (1) ...
+[14:30:07] [part] Kiel_Simpson has left the server (1:0)
+[14:30:59] [part] Stewart_Abner has left the server (0:0)
+[14:33:05] sscanf warning: Format specifier does not match parameter count.
+[14:34:20] AdmWarning: Pawn_Jones (ID 2) is possibly C-bugging and has been kicked to the server.
+[14:34:20] [sv:dbg:network:connect] : disconnecting player (2) ...
+[14:34:20] [part] Pawn_Jones has left the server (2:2)
+[17:02:34] [connection] 112.200.6.148:7749 requests connection cookie.
+[17:02:35] [connection] incoming connection: 112.200.6.148:7749 id: 0
+[17:02:36] [sv:dbg:network:connect] : connecting player (0) with address (112.200.6.148) ...
+[17:02:36] [sv:dbg:network:connect] : player (0) assigned key (9406c87044df5edb)
+[17:02:36] [join] Pawn_Jones has joined the server (0:112.200.6.148)
+[17:02:36] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[17:02:36] [sv:dbg:network:receive] : player (0) identified (port:7762)
+[17:02:51] Admcmd: Pawn Jones has logged in as a Executive Director.
+[17:02:52] [debug] Run time error 4: "Array index out of bounds"
+[17:02:52] [debug]  Attempted to read/write array element at negative index -320
+[17:02:52] [debug] AMX backtrace:
+[17:02:52] [debug] #0 00146abc in public OnQueryFinished (threadid=52, extraid=0) at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:22348
+[17:03:00] [debug] Run time error 4: "Array index out of bounds"
+[17:03:00] [debug]  Attempted to read/write array element at negative index -320
+[17:03:00] [debug] AMX backtrace:
+[17:03:00] [debug] #0 00146abc in public OnQueryFinished (threadid=52, extraid=0) at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:22348
+[17:03:01] [debug] Run time error 4: "Array index out of bounds"
+[17:03:01] [debug]  Attempted to read/write array element at negative index -320
+[17:03:01] [debug] AMX backtrace:
+[17:03:01] [debug] #0 00146abc in public OnQueryFinished (threadid=52, extraid=0) at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:22348
+[17:03:03] [debug] Run time error 4: "Array index out of bounds"
+[17:03:03] [debug]  Attempted to read/write array element at negative index -320
+[17:03:03] [debug] AMX backtrace:
+[17:03:03] [debug] #0 00146abc in public OnQueryFinished (threadid=52, extraid=0) at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:22348
+[17:03:03] [debug] Run time error 4: "Array index out of bounds"
+[17:03:03] [debug]  Attempted to read/write array element at negative index -320
+[17:03:03] [debug] AMX backtrace:
+[17:03:03] [debug] #0 00146abc in public OnQueryFinished (threadid=52, extraid=0) at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:22348
+[17:03:04] [debug] Run time error 4: "Array index out of bounds"
+[17:03:04] [debug]  Attempted to read/write array element at negative index -320
+[17:03:04] [debug] AMX backtrace:
+[17:03:04] [debug] #0 00146abc in public OnQueryFinished (threadid=52, extraid=0) at C:\Users\negro\Downloads\Alcazar Gaming v1\gamemodes\main.pwn:22348
+[17:06:10] [sv:dbg:network:connect] : disconnecting player (0) ...
+[17:06:10] [part] Pawn_Jones has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:38:33] password = ""  (string)
+[00:38:33] weburl = "www.sa-mp.com"  (string)
+[00:38:33] password = ""  (string)
+[00:38:33] 
+[00:38:33] Server Plugins
+[00:38:33] --------------
+[00:38:33]  Loading plugin: sampvoice.so
+[00:38:33] [sv:dbg:network:init] : module initializing...
+[00:38:33] [dbg:raknet:init] : module initializing...
+[00:38:33] [dbg:raknet:init] : module initialized
+[00:38:33] [sv:dbg:network:init] : module initialized
+[00:38:33] [sv:dbg:main:Load] : creating 1 work threads...
+[00:38:33]  -------------------------------------------    
+[00:38:33]    ___                __   __    _              
+[00:38:33]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:38:33]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:38:33]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:38:33]                   |_|                           
+[00:38:33]  -------------------------------------------    
+[00:38:33]            SampVoice by MOR loaded              
+[00:38:33]  -------------------------------------------    
+[00:38:33]   Loaded.
+[00:38:33]  Loading plugin: discord-connector.so
+[00:38:34]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: crashdetect.so
+[00:38:34]   CrashDetect plugin 4.19.4
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: whirlpool.so
+[00:38:34]  
+[00:38:34]  ==================
+[00:38:34]  
+[00:38:34]   Whirlpool loaded
+[00:38:34]  
+[00:38:34]  ==================
+[00:38:34]  
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: pawncmd.so
+[00:38:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: sscanf.so
+[00:38:34] 
+
+[00:38:34]  ===============================
+
+[00:38:34]       sscanf plugin loaded.     
+
+[00:38:34]          Version:  2.8.3        
+
+[00:38:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:38:34]  ===============================
+
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: streamer.so
+[00:38:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: SKY.so
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: mysql_static.so
+[00:38:34]  >> plugin.mysql: R39-6 successfully loaded.
+[00:38:34]   Loaded.
+[00:38:34]  Loading plugin: nativechecker.so
+[00:38:34]   Loaded.
+[00:38:34]  Loaded 10 plugins.
+
+[00:38:34] 
+[00:38:34] Filterscripts
+[00:38:34] ---------------
+[00:38:34]   Loading filterscript 'pcrpmap.amx'...
+[00:38:34] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8ea9840) received
+[00:38:34] [sv:dbg:network:bind] : voice server running on port 60915
+[00:38:34]   Loading filterscript 'android-check.amx'...
+[00:38:34] Android check has been successfully loaded.
+[00:38:34]   Loaded 2 filterscripts.
+
+[00:38:34] OnScriptInit 1
+[00:38:34]  
+[00:38:34]  
+[00:38:34]  
+[00:38:34]  ======================================= 
+[00:38:34]  |                                     | 
+[00:38:34]  |        YSI version 1.06.0002        | 
+[00:38:34]  |        By Alex "Y_Less" Cole        | 
+[00:38:34]  |                                     | 
+[00:38:34]  ======================================= 
+[00:38:34]  
+[00:38:34] OnScriptInit 2
+[00:38:34] OnScriptInit 3
+[00:38:34] Iter_OnGameModeInit start: 180
+[00:38:34] Betting System
+[00:38:34] Current gravity: 0.008000
+[00:38:34] GTA: Philippine Forest City
+[00:38:34] 224 objects loaded.
+[00:38:34] Iter_OnGameModeInit: first
+[00:38:34] OnScriptInit 4
+[00:38:34] Number of vehicle models: 11
+[00:38:34] [Script] 7 atms loaded
+[00:38:34] [Script] 2 safezone(s) loaded
+[00:38:34] [Script] 32 vendors loaded
+[00:38:34] [Script] 9 mdc loaded
+[00:38:34] [Script] 0 surgery room loaded
+[00:38:34] [Script] 46 Public Garage loaded
+[00:38:34] [Script] 2 Bars loaded
+[00:38:34] [Script] 18 houses loaded.
+[00:38:34] [Script] 1 garages loaded.
+[00:38:34] [Script] 40 businesses loaded.
+[00:38:34] [Script] 55 entrances loaded.
+[00:38:34] [Script] 7 factions loaded.
+[00:38:34] [Script] 1 gangs loaded.
+[00:38:34] [Script] 15 points loaded.
+[00:38:34] [Script] 9 turfs loaded.
+[00:39:21] [connection] 120.29.79.43:64824 requests connection cookie.
+[00:39:21] [connection] incoming connection: 120.29.79.43:64824 id: 0
+[00:39:22] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[00:39:22] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[00:40:29] Admcmd: Stewart Abner has logged in as a Executive Director.
+[00:56:29]   Filterscript 'propamap.amx' unload failed.
+[00:56:29]   Filterscript 'propamap.amx' load failed'.
+[00:56:29]   Filterscript 'pcrpmap.amx' unloaded.
+[00:56:29]   Filterscript 'pcrpmap.amx' loaded.
+[00:56:41] OnScriptInit 1
+[00:56:41]  
+[00:56:41]  
+[00:56:41]  
+[00:56:41]  ======================================= 
+[00:56:41]  |                                     | 
+[00:56:41]  |        YSI version 1.06.0002        | 
+[00:56:41]  |        By Alex "Y_Less" Cole        | 
+[00:56:41]  |                                     | 
+[00:56:41]  ======================================= 
+[00:56:41]  
+[00:56:41] OnScriptInit 2
+[00:56:41] OnScriptInit 3
+[00:56:41] Iter_OnGameModeInit start: 180
+[00:56:41] Betting System
+[00:56:41] Current gravity: 0.008000
+[00:56:41] GTA: Philippine Forest City
+[00:56:41] 222 objects loaded.
+[00:56:41] Iter_OnGameModeInit: first
+[00:56:41] OnScriptInit 4
+[00:56:41] Number of vehicle models: 11
+[00:56:41] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[00:56:41] [Script] 7 atms loaded
+[00:56:41] [Script] 2 safezone(s) loaded
+[00:56:41] [Script] 32 vendors loaded
+[00:56:41] [Script] 9 mdc loaded
+[00:56:41] [Script] 0 surgery room loaded
+[00:56:41] [Script] 46 Public Garage loaded
+[00:56:41] [Script] 2 Bars loaded
+[00:56:41] [Script] 18 houses loaded.
+[00:56:41] [Script] 1 garages loaded.
+[00:56:41] [Script] 40 businesses loaded.
+[00:56:41] [Script] 55 entrances loaded.
+[00:56:41] [Script] 7 factions loaded.
+[00:56:41] [Script] 1 gangs loaded.
+[00:56:41] [Script] 15 points loaded.
+[00:56:41] [Script] 9 turfs loaded.
+[00:56:52] Admcmd: Stewart Abner has logged in as a Executive Director.
+[00:57:58] [part] Stewart_Abner has left the server (0:0)
+[01:00:00] [connection] 120.29.79.43:61972 requests connection cookie.
+[01:00:00] [connection] incoming connection: 120.29.79.43:61972 id: 0
+[01:00:00] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[01:00:00] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[01:00:13] Admcmd: Stewart Abner has logged in as a Executive Director.
+[01:00:15] Packet was modified, sent by id: 0, ip: 120.29.79.43:61972
+[01:03:31] {FFD200}Stewart_Abner [0] > Stewart_Abner [0]: test
+[01:04:38] [part] Stewart_Abner has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:01:12] password = ""  (string)
+[02:01:12] weburl = "www.sa-mp.com"  (string)
+[02:01:12] password = ""  (string)
+[02:01:12] 
+[02:01:12] Server Plugins
+[02:01:12] --------------
+[02:01:12]  Loading plugin: sampvoice.so
+[02:01:12] [sv:dbg:network:init] : module initializing...
+[02:01:12] [dbg:raknet:init] : module initializing...
+[02:01:12] [dbg:raknet:init] : module initialized
+[02:01:12] [sv:dbg:network:init] : module initialized
+[02:01:12] [sv:dbg:main:Load] : creating 1 work threads...
+[02:01:12]  -------------------------------------------    
+[02:01:12]    ___                __   __    _              
+[02:01:12]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[02:01:12]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[02:01:12]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[02:01:12]                   |_|                           
+[02:01:12]  -------------------------------------------    
+[02:01:12]            SampVoice by MOR loaded              
+[02:01:12]  -------------------------------------------    
+[02:01:12]   Loaded.
+[02:01:12]  Loading plugin: discord-connector.so
+[02:01:13]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: crashdetect.so
+[02:01:13]   CrashDetect plugin 4.19.4
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: whirlpool.so
+[02:01:13]  
+[02:01:13]  ==================
+[02:01:13]  
+[02:01:13]   Whirlpool loaded
+[02:01:13]  
+[02:01:13]  ==================
+[02:01:13]  
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: pawncmd.so
+[02:01:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: sscanf.so
+[02:01:13] 
+
+[02:01:13]  ===============================
+
+[02:01:13]       sscanf plugin loaded.     
+
+[02:01:13]          Version:  2.8.3        
+
+[02:01:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:01:13]  ===============================
+
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: streamer.so
+[02:01:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: SKY.so
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: mysql_static.so
+[02:01:13]  >> plugin.mysql: R39-6 successfully loaded.
+[02:01:13]   Loaded.
+[02:01:13]  Loading plugin: nativechecker.so
+[02:01:13]   Loaded.
+[02:01:13]  Loaded 10 plugins.
+
+[02:01:13] 
+[02:01:13] Filterscripts
+[02:01:13] ---------------
+[02:01:13]   Loading filterscript 'pcrpmap.amx'...
+[02:01:13] [sv:dbg:main:AmxLoad] : net game pointer (value:0x9012840) received
+[02:01:13] [sv:dbg:network:bind] : voice server running on port 33056
+[02:01:13]   Loading filterscript 'android-check.amx'...
+[02:01:13] Android check has been successfully loaded.
+[02:01:13]   Loaded 2 filterscripts.
+
+[02:01:13] OnScriptInit 1
+[02:01:13]  
+[02:01:13]  
+[02:01:13]  
+[02:01:13]  ======================================= 
+[02:01:13]  |                                     | 
+[02:01:13]  |        YSI version 1.06.0002        | 
+[02:01:13]  |        By Alex "Y_Less" Cole        | 
+[02:01:13]  |                                     | 
+[02:01:13]  ======================================= 
+[02:01:13]  
+[02:01:13] OnScriptInit 2
+[02:01:13] OnScriptInit 3
+[02:01:13] Iter_OnGameModeInit start: 180
+[02:01:13] Betting System
+[02:01:13] Current gravity: 0.008000
+[02:01:13] GTA: Philippine Forest City
+[02:01:13] 224 objects loaded.
+[02:01:13] Iter_OnGameModeInit: first
+[02:01:13] OnScriptInit 4
+[02:01:13] Number of vehicle models: 11
+[02:01:13] [Script] 7 atms loaded
+[02:01:13] [Script] 2 safezone(s) loaded
+[02:01:13] [Script] 32 vendors loaded
+[02:01:13] [Script] 9 mdc loaded
+[02:01:13] [Script] 0 surgery room loaded
+[02:01:13] [Script] 46 Public Garage loaded
+[02:01:13] [Script] 2 Bars loaded
+[02:01:13] [Script] 18 houses loaded.
+[02:01:13] [Script] 1 garages loaded.
+[02:01:13] [Script] 40 businesses loaded.
+[02:01:13] [Script] 55 entrances loaded.
+[02:01:13] [Script] 7 factions loaded.
+[02:01:13] [Script] 1 gangs loaded.
+[02:01:13] [Script] 15 points loaded.
+[02:01:13] [Script] 9 turfs loaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:02:41] password = ""  (string)
+[02:02:41] weburl = "www.sa-mp.com"  (string)
+[02:02:41] password = ""  (string)
+[02:02:41] 
+[02:02:41] Server Plugins
+[02:02:41] --------------
+[02:02:41]  Loading plugin: sampvoice.so
+[02:02:41] [sv:dbg:network:init] : module initializing...
+[02:02:41] [dbg:raknet:init] : module initializing...
+[02:02:41] [dbg:raknet:init] : module initialized
+[02:02:41] [sv:dbg:network:init] : module initialized
+[02:02:41] [sv:dbg:main:Load] : creating 1 work threads...
+[02:02:41]  -------------------------------------------    
+[02:02:41]    ___                __   __    _              
+[02:02:41]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[02:02:41]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[02:02:41]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[02:02:41]                   |_|                           
+[02:02:41]  -------------------------------------------    
+[02:02:41]            SampVoice by MOR loaded              
+[02:02:41]  -------------------------------------------    
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: discord-connector.so
+[02:02:41]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: crashdetect.so
+[02:02:41]   CrashDetect plugin 4.19.4
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: whirlpool.so
+[02:02:41]  
+[02:02:41]  ==================
+[02:02:41]  
+[02:02:41]   Whirlpool loaded
+[02:02:41]  
+[02:02:41]  ==================
+[02:02:41]  
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: pawncmd.so
+[02:02:41] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: sscanf.so
+[02:02:41] 
+
+[02:02:41]  ===============================
+
+[02:02:41]       sscanf plugin loaded.     
+
+[02:02:41]          Version:  2.8.3        
+
+[02:02:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:02:41]  ===============================
+
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: streamer.so
+[02:02:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: SKY.so
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: mysql_static.so
+[02:02:41]  >> plugin.mysql: R39-6 successfully loaded.
+[02:02:41]   Loaded.
+[02:02:41]  Loading plugin: nativechecker.so
+[02:02:41]   Loaded.
+[02:02:41]  Loaded 10 plugins.
+
+[02:02:42] 
+[02:02:42] Filterscripts
+[02:02:42] ---------------
+[02:02:42]   Loading filterscript 'pcrpmap.amx'...
+[02:02:42] [sv:dbg:main:AmxLoad] : net game pointer (value:0x9880840) received
+[02:02:42] [sv:dbg:network:bind] : voice server running on port 42492
+[02:02:42]   Loading filterscript 'android-check.amx'...
+[02:02:42] Android check has been successfully loaded.
+[02:02:42]   Loaded 2 filterscripts.
+
+[02:02:42] OnScriptInit 1
+[02:02:42]  
+[02:02:42]  
+[02:02:42]  
+[02:02:42]  ======================================= 
+[02:02:42]  |                                     | 
+[02:02:42]  |        YSI version 1.06.0002        | 
+[02:02:42]  |        By Alex "Y_Less" Cole        | 
+[02:02:42]  |                                     | 
+[02:02:42]  ======================================= 
+[02:02:42]  
+[02:02:42] OnScriptInit 2
+[02:02:42] OnScriptInit 3
+[02:02:42] Iter_OnGameModeInit start: 180
+[02:02:42] Betting System
+[02:02:42] Current gravity: 0.008000
+[02:02:42] GTA: Philippine Forest City
+[02:02:42] 224 objects loaded.
+[02:02:42] Iter_OnGameModeInit: first
+[02:02:42] OnScriptInit 4
+[02:02:42] Number of vehicle models: 11
+[02:02:42] [Script] 7 atms loaded
+[02:02:42] [Script] 2 safezone(s) loaded
+[02:02:42] [Script] 32 vendors loaded
+[02:02:42] [Script] 9 mdc loaded
+[02:02:42] [Script] 0 surgery room loaded
+[02:02:42] [Script] 46 Public Garage loaded
+[02:02:42] [Script] 2 Bars loaded
+[02:02:42] [Script] 18 houses loaded.
+[02:02:42] [Script] 1 garages loaded.
+[02:02:42] [Script] 40 businesses loaded.
+[02:02:42] [Script] 55 entrances loaded.
+[02:02:42] [Script] 7 factions loaded.
+[02:02:42] [Script] 1 gangs loaded.
+[02:02:42] [Script] 15 points loaded.
+[02:02:42] [Script] 9 turfs loaded.
+[05:30:33] [connection] 120.29.79.43:44744 requests connection cookie.
+[05:30:33] [connection] incoming connection: 120.29.79.43:44744 id: 0
+[05:30:34] [join] Stewart_Abner has joined the server (0:120.29.79.43)
+[05:30:34] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[05:30:53] Admcmd: Stewart Abner has logged in as a Executive Director.
+[05:30:54] Packet was modified, sent by id: 0, ip: 120.29.79.43:44744
+[05:30:55] Packet was modified, sent by id: 0, ip: 120.29.79.43:44744
+[05:30:55] Packet was modified, sent by id: 0, ip: 120.29.79.43:44744
+[05:30:56] Packet was modified, sent by id: 0, ip: 120.29.79.43:44744
+[05:41:39]   Filterscript 'propamap.amx' unload failed.
+[05:41:39]   Filterscript 'propamap.amx' load failed'.
+[05:41:39]   Filterscript 'pcrpmap.amx' unloaded.
+[05:41:39]   Filterscript 'pcrpmap.amx' loaded.
+[05:41:51] OnScriptInit 1
+[05:41:51]  
+[05:41:51]  
+[05:41:51]  
+[05:41:51]  ======================================= 
+[05:41:51]  |                                     | 
+[05:41:51]  |        YSI version 1.06.0002        | 
+[05:41:51]  |        By Alex "Y_Less" Cole        | 
+[05:41:51]  |                                     | 
+[05:41:51]  ======================================= 
+[05:41:51]  
+[05:41:51] OnScriptInit 2
+[05:41:51] OnScriptInit 3
+[05:41:51] Iter_OnGameModeInit start: 180
+[05:41:51] Betting System
+[05:41:51] Current gravity: 0.008000
+[05:41:51] GTA: Philippine Forest City
+[05:41:51] 222 objects loaded.
+[05:41:51] Iter_OnGameModeInit: first
+[05:41:51] OnScriptInit 4
+[05:41:51] Number of vehicle models: 11
+[05:41:51] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[05:41:51] [Script] 7 atms loaded
+[05:41:51] [Script] 2 safezone(s) loaded
+[05:41:52] [Script] 32 vendors loaded
+[05:41:52] [Script] 9 mdc loaded
+[05:41:52] [Script] 0 surgery room loaded
+[05:41:52] [Script] 46 Public Garage loaded
+[05:41:52] [Script] 2 Bars loaded
+[05:41:52] [Script] 18 houses loaded.
+[05:41:52] [Script] 1 garages loaded.
+[05:41:52] [Script] 40 businesses loaded.
+[05:41:52] [Script] 55 entrances loaded.
+[05:41:52] [Script] 7 factions loaded.
+[05:41:52] [Script] 1 gangs loaded.
+[05:41:52] [Script] 15 points loaded.
+[05:41:52] [Script] 9 turfs loaded.
+[05:42:04] Admcmd: Stewart Abner has logged in as a Executive Director.
+[05:42:45] AdmCmd: Stewart Abner has resetted all Player's Playing Hours from last Month.
+[05:43:58] Server: Stewart Abner has claimed their refund package using /redeem refund.
+[05:50:58]   Filterscript 'propamap.amx' unload failed.
+[05:50:58]   Filterscript 'propamap.amx' load failed'.
+[05:50:58]   Filterscript 'pcrpmap.amx' unloaded.
+[05:50:58]   Filterscript 'pcrpmap.amx' loaded.
+[05:51:10] OnScriptInit 1
+[05:51:10]  
+[05:51:10]  
+[05:51:10]  
+[05:51:10]  ======================================= 
+[05:51:10]  |                                     | 
+[05:51:10]  |        YSI version 1.06.0002        | 
+[05:51:10]  |        By Alex "Y_Less" Cole        | 
+[05:51:10]  |                                     | 
+[05:51:10]  ======================================= 
+[05:51:10]  
+[05:51:10] OnScriptInit 2
+[05:51:10] OnScriptInit 3
+[05:51:10] Iter_OnGameModeInit start: 180
+[05:51:10] Betting System
+[05:51:10] Current gravity: 0.008000
+[05:51:10] GTA: Philippine Forest City
+[05:51:10] 222 objects loaded.
+[05:51:10] Iter_OnGameModeInit: first
+[05:51:10] OnScriptInit 4
+[05:51:10] Number of vehicle models: 11
+[05:51:10] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[05:51:10] [Script] 7 atms loaded
+[05:51:10] [Script] 2 safezone(s) loaded
+[05:51:11] [Script] 32 vendors loaded
+[05:51:11] [Script] 9 mdc loaded
+[05:51:11] [Script] 0 surgery room loaded
+[05:51:11] [Script] 46 Public Garage loaded
+[05:51:11] [Script] 2 Bars loaded
+[05:51:11] [Script] 18 houses loaded.
+[05:51:11] [Script] 1 garages loaded.
+[05:51:11] [Script] 40 businesses loaded.
+[05:51:11] [Script] 55 entrances loaded.
+[05:51:11] [Script] 7 factions loaded.
+[05:51:11] [Script] 1 gangs loaded.
+[05:51:11] [Script] 15 points loaded.
+[05:51:11] [Script] 9 turfs loaded.
+[05:51:17] Admcmd: Stewart Abner has logged in as a Executive Director.
+[06:00:09]   Filterscript 'propamap.amx' unload failed.
+[06:00:09]   Filterscript 'propamap.amx' load failed'.
+[06:00:09]   Filterscript 'pcrpmap.amx' unloaded.
+[06:00:09]   Filterscript 'pcrpmap.amx' loaded.
+[06:00:21] OnScriptInit 1
+[06:00:21]  
+[06:00:21]  
+[06:00:21]  
+[06:00:21]  ======================================= 
+[06:00:21]  |                                     | 
+[06:00:21]  |        YSI version 1.06.0002        | 
+[06:00:21]  |        By Alex "Y_Less" Cole        | 
+[06:00:21]  |                                     | 
+[06:00:21]  ======================================= 
+[06:00:21]  
+[06:00:21] OnScriptInit 2
+[06:00:21] OnScriptInit 3
+[06:00:21] Iter_OnGameModeInit start: 180
+[06:00:22] Betting System
+[06:00:22] Current gravity: 0.008000
+[06:00:22] GTA: Philippine Forest City
+[06:00:22] 222 objects loaded.
+[06:00:22] Iter_OnGameModeInit: first
+[06:00:22] OnScriptInit 4
+[06:00:22] Number of vehicle models: 11
+[06:00:22] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[06:00:22] [Script] 7 atms loaded
+[06:00:22] [Script] 2 safezone(s) loaded
+[06:00:22] [Script] 32 vendors loaded
+[06:00:22] [Script] 9 mdc loaded
+[06:00:22] [Script] 0 surgery room loaded
+[06:00:22] [Script] 46 Public Garage loaded
+[06:00:22] [Script] 2 Bars loaded
+[06:00:22] [Script] 18 houses loaded.
+[06:00:22] [Script] 1 garages loaded.
+[06:00:22] [Script] 40 businesses loaded.
+[06:00:22] [Script] 55 entrances loaded.
+[06:00:22] [Script] 7 factions loaded.
+[06:00:22] [Script] 1 gangs loaded.
+[06:00:22] [Script] 15 points loaded.
+[06:00:22] [Script] 9 turfs loaded.
+[06:00:45] Admcmd: Stewart Abner has logged in as a Executive Director.
+[06:01:00] AdmCmd: Stewart Abner has saved all player accounts.
+[06:02:13] AdmCmd: Stewart Abner was slapped by Stewart Abner.
+[06:02:32] sscanf warning: Format specifier does not match parameter count.
+[06:08:19] AdmCmd: Stewart Abner has set the {FF8282}color{FF6347} of faction ID 3.
+[06:09:22] AdmCmd: Stewart Abner has set the {2641FE}color{FF6347} of faction ID 2.
+[06:11:13] AdmCmd: Stewart Abner has made Stewart Abner a Chief Of Police in Alcazar City Police Department.
+[06:11:50] sscanf warning: Format specifier does not match parameter count.
+[06:11:50] AdmCmd: Stewart Abner has given $-727379969 to Stewart Abner. Reason: 
+[06:11:54] sscanf warning: Format specifier does not match parameter count.
+[06:11:54] AdmCmd: Stewart Abner has given $1410065407 to Stewart Abner. Reason: 
+[06:24:40] [connection] 112.200.6.148:5453 requests connection cookie.
+[06:24:41] [connection] incoming connection: 112.200.6.148:5453 id: 1
+[06:24:42] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[06:24:42] [sv:dbg:network:connect] : player (1) assigned key (9406c870027fce03)
+[06:24:42] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[06:24:42] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[06:24:42] [sv:dbg:network:receive] : player (1) identified (port:5465)
+[06:24:55] Admcmd: Pawn Jones has logged in as a Executive Director.
+[06:25:19] [debug] Run time error 4: "Array index out of bounds"
+[06:25:19] [debug]  Attempted to read/write array element at negative index -320
+[06:25:19] [debug] AMX backtrace:
+[06:25:19] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:25:22] [debug] Run time error 4: "Array index out of bounds"
+[06:25:22] [debug]  Attempted to read/write array element at negative index -320
+[06:25:22] [debug] AMX backtrace:
+[06:25:22] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:25:42] [debug] Run time error 4: "Array index out of bounds"
+[06:25:42] [debug]  Attempted to read/write array element at negative index -320
+[06:25:42] [debug] AMX backtrace:
+[06:25:42] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:25:44] [debug] Run time error 4: "Array index out of bounds"
+[06:25:44] [debug]  Attempted to read/write array element at negative index -320
+[06:25:44] [debug] AMX backtrace:
+[06:25:44] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:25:57] [debug] Run time error 4: "Array index out of bounds"
+[06:25:57] [debug]  Attempted to read/write array element at negative index -320
+[06:25:57] [debug] AMX backtrace:
+[06:25:57] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:26:32] [debug] Run time error 4: "Array index out of bounds"
+[06:26:32] [debug]  Attempted to read/write array element at negative index -320
+[06:26:32] [debug] AMX backtrace:
+[06:26:32] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:26:33] [debug] Run time error 4: "Array index out of bounds"
+[06:26:33] [debug]  Attempted to read/write array element at negative index -320
+[06:26:33] [debug] AMX backtrace:
+[06:26:33] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:26:34] [debug] Run time error 4: "Array index out of bounds"
+[06:26:34] [debug]  Attempted to read/write array element at negative index -320
+[06:26:34] [debug] AMX backtrace:
+[06:26:34] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:26:35] [debug] Run time error 4: "Array index out of bounds"
+[06:26:35] [debug]  Attempted to read/write array element at negative index -320
+[06:26:35] [debug] AMX backtrace:
+[06:26:35] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:27:28] [debug] Run time error 4: "Array index out of bounds"
+[06:27:28] [debug]  Attempted to read/write array element at negative index -320
+[06:27:28] [debug] AMX backtrace:
+[06:27:28] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:27:31] [chat] [Pawn_Jones]: bat sakin wala
+[06:27:32] [chat] [Stewart_Abner]: ayan ah
+[06:27:32] [chat] [Pawn_Jones]: haah
+[06:27:39] AdmCmd: Pawn Jones has given Pawn Jones their own Sultan.
+[06:27:41] [debug] Run time error 4: "Array index out of bounds"
+[06:27:41] [debug]  Attempted to read/write array element at negative index -320
+[06:27:41] [debug] AMX backtrace:
+[06:27:41] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:27:42] [debug] Run time error 4: "Array index out of bounds"
+[06:27:42] [debug]  Attempted to read/write array element at negative index -320
+[06:27:42] [debug] AMX backtrace:
+[06:27:42] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:27:44] [chat] [Pawn_Jones]: ano cmd
+[06:27:47] [chat] [Pawn_Jones]: sakin di nalabas e
+[06:27:49] [chat] [Pawn_Jones]: di nmn ako lag
+[06:27:55] [chat] [Pawn_Jones]: .
+[06:28:01] [chat] [Pawn_Jones]: bat skin wala
+[06:28:05] [debug] Run time error 4: "Array index out of bounds"
+[06:28:05] [debug]  Attempted to read/write array element at negative index -320
+[06:28:05] [debug] AMX backtrace:
+[06:28:05] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:10] [chat] [Pawn_Jones]: di nalabas dialog
+[06:28:11] [debug] Run time error 4: "Array index out of bounds"
+[06:28:11] [debug]  Attempted to read/write array element at negative index -320
+[06:28:11] [debug] AMX backtrace:
+[06:28:11] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:18] [chat] [Stewart_Abner]: bat sa logs nageerro
+[06:28:18] [debug] Run time error 4: "Array index out of bounds"
+[06:28:18] [debug]  Attempted to read/write array element at negative index -320
+[06:28:18] [debug] AMX backtrace:
+[06:28:18] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:19] [chat] [Stewart_Abner]: bat sa logs nageerror
+[06:28:21] [debug] Run time error 4: "Array index out of bounds"
+[06:28:21] [debug]  Attempted to read/write array element at negative index -320
+[06:28:21] [debug] AMX backtrace:
+[06:28:21] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:22] [debug] Run time error 4: "Array index out of bounds"
+[06:28:22] [debug]  Attempted to read/write array element at negative index -320
+[06:28:22] [debug] AMX backtrace:
+[06:28:22] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:22] [debug] Run time error 4: "Array index out of bounds"
+[06:28:22] [debug]  Attempted to read/write array element at negative index -320
+[06:28:22] [debug] AMX backtrace:
+[06:28:22] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:23] [debug] Run time error 4: "Array index out of bounds"
+[06:28:23] [debug]  Attempted to read/write array element at negative index -320
+[06:28:23] [debug] AMX backtrace:
+[06:28:23] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:24] [debug] Run time error 4: "Array index out of bounds"
+[06:28:24] [debug]  Attempted to read/write array element at negative index -320
+[06:28:24] [debug] AMX backtrace:
+[06:28:24] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:28:26] [chat] [Pawn_Jones]: huh
+[06:28:37] [chat] [Pawn_Jones]: nafix munaba?
+[06:28:43] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:28:44] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:28:49] [debug] Run time error 4: "Array index out of bounds"
+[06:28:49] [debug]  Attempted to read/write array element at negative index -320
+[06:28:49] [debug] AMX backtrace:
+[06:28:49] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:29:00] [debug] Run time error 4: "Array index out of bounds"
+[06:29:00] [debug]  Attempted to read/write array element at negative index -320
+[06:29:00] [debug] AMX backtrace:
+[06:29:00] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:29:01] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:29:02] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:29:24] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:29:34] AdmCmd: Stewart Abner has revived Stewart Abner
+[06:29:50] [chat] [Stewart_Abner]:  
+[06:30:03] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:30:04] [chat] [Pawn_Jones]: pasend ngako coding nung nafix muna vst
+[06:30:10] [debug] Run time error 4: "Array index out of bounds"
+[06:30:10] [debug]  Attempted to read/write array element at negative index -320
+[06:30:10] [debug] AMX backtrace:
+[06:30:10] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:30:11] [debug] Run time error 4: "Array index out of bounds"
+[06:30:11] [debug]  Attempted to read/write array element at negative index -320
+[06:30:11] [debug] AMX backtrace:
+[06:30:11] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:30:11] [debug] Run time error 4: "Array index out of bounds"
+[06:30:11] [debug]  Attempted to read/write array element at negative index -320
+[06:30:11] [debug] AMX backtrace:
+[06:30:11] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:30:11] [debug] Run time error 4: "Array index out of bounds"
+[06:30:11] [debug]  Attempted to read/write array element at negative index -320
+[06:30:11] [debug] AMX backtrace:
+[06:30:11] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:30:12] [debug] Run time error 4: "Array index out of bounds"
+[06:30:12] [debug]  Attempted to read/write array element at negative index -320
+[06:30:12] [debug] AMX backtrace:
+[06:30:12] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:30:13] [debug] Run time error 4: "Array index out of bounds"
+[06:30:13] [debug]  Attempted to read/write array element at negative index -320
+[06:30:13] [debug] AMX backtrace:
+[06:30:13] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:30:15] [chat] [Pawn_Jones]: a
+[06:30:16] [debug] Run time error 4: "Array index out of bounds"
+[06:30:16] [debug]  Attempted to read/write array element at negative index -320
+[06:30:16] [debug] AMX backtrace:
+[06:30:16] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:31:03] [connection] 120.29.79.43:50881 requests connection cookie.
+[06:31:04] [connection] incoming connection: 120.29.79.43:50881 id: 2
+[06:31:04] [sv:dbg:network:connect] : connecting player (2) with address (120.29.79.43) ...
+[06:31:04] [sv:dbg:network:connect] : player (2) assigned key (2b4f1d78f445d0b9)
+[06:31:04] [join] Stewart_Abno has joined the server (2:120.29.79.43)
+[06:31:04] > {FFFFFF}{AAAAAA}Stewart_Abno has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[06:31:05] [sv:dbg:network:receive] : player (2) identified (port:50959)
+[06:31:28] [chat] [Pawn_Jones]: amp
+[06:31:29] [chat] [Pawn_Jones]: haaa
+[06:31:31] [chat] [Pawn_Jones]:  meron?
+[06:31:35] AdmCmd: Stewart Abner has made Stewart Abno a Executive Director (8).
+[06:31:36] [chat] [Pawn_Jones]:  meron?
+[06:31:38] [chat] [Pawn_Jones]:  meron?
+[06:31:48] AdmCmd: Stewart Abno has given Stewart Abno their own NRG-500.
+[06:31:54] [chat] [Stewart_Abno]: meron
+[06:31:59] [debug] Run time error 4: "Array index out of bounds"
+[06:31:59] [debug]  Attempted to read/write array element at negative index -320
+[06:31:59] [debug] AMX backtrace:
+[06:31:59] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:32:01] [chat] [Pawn_Jones]: share screen
+[06:32:07] [debug] Run time error 4: "Array index out of bounds"
+[06:32:07] [debug]  Attempted to read/write array element at negative index -320
+[06:32:07] [debug] AMX backtrace:
+[06:32:07] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:33:03] [chat] [Pawn_Jones]: di ko kita
+[06:33:06] [chat] [Pawn_Jones]: nag loloading lng
+[06:33:07] [debug] Run time error 4: "Array index out of bounds"
+[06:33:07] [debug]  Attempted to read/write array element at negative index -320
+[06:33:07] [debug] AMX backtrace:
+[06:33:07] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:33:09] [debug] Run time error 4: "Array index out of bounds"
+[06:33:09] [debug]  Attempted to read/write array element at negative index -320
+[06:33:09] [debug] AMX backtrace:
+[06:33:09] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:33:12] [chat] [Stewart_Abno]: ay di kita?
+[06:33:15] [chat] [Stewart_Abno]: tek
+[06:33:16] [chat] [Stewart_Abno]: teka
+[06:34:12] [chat] [Stewart_Abno]: sa call
+[06:34:24] [chat] [Stewart_Abno]: sa AG
+[06:34:25] [debug] Server crashed due to an unknown error
+[06:34:25] [debug] Native backtrace:
+[06:34:25] [debug] #0 f46d98b6 in _Z13GetStackTraceRSt6vectorI10StackFrameSaIS0_EEPv () in plugins/crashdetect.so
+[06:34:25] [debug] #1 f46d1120 in _ZN18CrashDetectHandler20PrintNativeBacktraceERSoRKN2os7ContextE () in plugins/crashdetect.so
+[06:34:25] [debug] #2 f46d1886 in _ZN18CrashDetectHandler20PrintNativeBacktraceERKN2os7ContextE () in plugins/crashdetect.so
+[06:34:25] [debug] #3 f46d1f96 in _ZN18CrashDetectHandler7OnCrashERKN2os7ContextE () in plugins/crashdetect.so
+[06:34:25] [debug] #4 f46d8f82 in ?? () in plugins/crashdetect.so
+[06:34:25] [debug] #5 f7f63b70 in __kernel_rt_sigreturn () in linux-gate.so.1
+[06:34:25] [debug] #6 0809621e in ?? () in ./samp03svr
+[06:34:25] [debug] #7 f791766a in _ZN4Pawn32OnPlayerActivationKeyPressForAllEth () in plugins/sampvoice.so
+[06:34:25] [debug] #8 54fb1e00 in ?? ()
+[06:34:25] [debug] Registers:
+[06:34:25] [debug] EAX: 0000005a EBX: 0a971170 ECX: 0acc209c EDX: 0a971130
+[06:34:25] [debug] ESI: 0b04e3b8 EDI: 00000001 EBP: fff9a278 ESP: fff9a274
+[06:34:25] [debug] EIP: 0809621e EFLAGS: 00210202
+[06:34:25] [debug] Stack:
+[06:34:25] [debug] ESP+00000000: f7a2d000 fff9a2a8 f791766a 0a971130
+[06:34:25] [debug] ESP+00000020: f789cc4c 0b04e3c0 0000005a fff9a2f8
+[06:34:25] [debug] ESP+00000040: f7f7aad4 f79175fd f7a2d000 fff9a2f8
+[06:34:25] [debug] ESP+00000060: 0000005a f7a2d000 f791dab7 00000000
+[06:34:25] [debug] ESP+00000080: 00010000 0a96bbb0 54fb1e00 0afc90d0
+[06:34:25] [debug] ESP+000000a0: 08159cf3 fff9a328 080d1ce2 09880840
+[06:34:25] [debug] ESP+000000c0: 3bbedfa4 fff9a358 3bbedfa4 00000005
+[06:34:25] [debug] ESP+000000e0: 00f731e6 fff9a498 080aa13a 09880840
+[06:34:25] [debug] ESP+00000100: 00000000 f7f27efc 00000000 fff9a398
+[06:34:25] [debug] ESP+00000120: f7f7aad4 f7f2bcd4 0100bba0 00010000
+[06:34:25] [debug] ESP+00000140: 65646f6d f7003531 f7e4c000 f7f29000
+[06:34:25] [debug] ESP+00000160: f7f2a4e0 f7f90b50 f7c2ac68 f7c27000
+[06:34:25] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[06:34:25] [debug] ESP+000001a0: 00000000 00000000 00000000 00000000
+[06:34:25] [debug] ESP+000001c0: 00000000 00000000 00000000 00000000
+[06:34:25] [debug] ESP+000001e0: 00000000 00000000 00000000 00000000
+[06:34:25] [debug] ESP+00000200: 00000000 f7c27000 f7a78329 f7f752d0
+[06:34:25] [debug] ESP+00000220: f7c27000 00000000 f7a5eee5 00000001
+[06:34:25] [debug] ESP+00000240: 00000000 fff9a518 00000000 f7f90000
+[06:34:25] [debug] ESP+00000260: c48edfde 7c1ad9ce 00000000 00000000
+[06:34:25] [debug] ESP+00000280: f7f7aad4 f7f752d0 f7f90000 00000001
+[06:34:25] [debug] ESP+000002a0: 00000001 fff9a534 08150650 08150640
+[06:34:25] [debug] ESP+000002c0: fff9aa75 00000000 fff9aa81 fff9aa91
+[06:34:25] [debug] ESP+000002e0: fff9add4 fff9adf1 fff9ae06 fff9ae13
+[06:34:25] [debug] ESP+00000300: fff9ae85 fff9ae8d fff9ae9f fff9aeb3
+[06:34:25] [debug] ESP+00000320: fff9afa5 fff9afbe fff9afde 00000000
+[06:34:25] [debug] ESP+00000340: 00000010 078bfbff 00000006 00001000
+[06:34:25] [debug] ESP+00000360: 00000004 00000020 00000005 00000008
+[06:34:25] [debug] ESP+00000380: 00000009 0804b4c0 0000000b 000003e8
+[06:34:25] [debug] ESP+000003a0: 0000000e 000003e8 00000017 00000000
+[06:34:25] [debug] ESP+000003c0: 0000001f fff9afec 0000000f fff9a66b
+[06:34:25] [debug] ESP+000003e0: 00000000 94000000 cf54fb1e 63109be3
+[06:34:25] [debug] Loaded modules:
+[06:34:25] [debug] 00000000 - 00187dc3 samp03svr
+[06:34:25] [debug] f7f63000 - f7f63d2c linux-gate.so.1
+[06:34:25] [debug] f7f50000 - f7f52eec /lib32/libdl.so.2
+[06:34:25] [debug] f7f2d000 - f7f4d463 /lib32/libpthread.so.0
+[06:34:25] [debug] f7d4e000 - f7f38f2a /lib32/libstdc++.so.6
+[06:34:25] [debug] f7c4a000 - f7d4d6ec /lib32/libm.so.6
+[06:34:25] [debug] f7c2b000 - f7c479cc /lib32/libgcc_s.so.1
+[06:34:25] [debug] f7a40000 - f7c310b3 /lib32/libc.so.6
+[06:34:25] [debug] f7f64000 - f7f8ef9b /lib/ld-linux.so.2
+[06:34:25] [debug] f788f000 - f7a484d5 plugins/sampvoice.so
+[06:34:25] [debug] f6ae4000 - f6e7667e plugins/discord-connector.so
+[06:34:25] [debug] f68cf000 - f6aef348 /home/ogp_agent/OGP_User_Files/18/plugins/../log-core2.so
+[06:34:25] [debug] f5037000 - f5049268 /lib32/libnss_files.so.2
+[06:34:25] [debug] f502f000 - f5033bb4 /lib32/libnss_dns.so.2
+[06:34:25] [debug] f5016000 - f502cae0 /lib32/libresolv.so.2
+[06:34:25] [debug] f46ba000 - f46fe3ac plugins/crashdetect.so
+[06:34:25] [debug] f500a000 - f5013918 plugins/whirlpool.so
+[06:34:25] [debug] f441b000 - f4502b50 plugins/pawncmd.so
+[06:34:25] [debug] f46a9000 - f46b89b4 plugins/sscanf.so
+[06:34:25] [debug] f4355000 - f441a740 plugins/streamer.so
+[06:34:25] [debug] f469e000 - f46a63b3 /lib32/librt.so.1
+[06:34:25] [debug] f4668000 - f469b762 plugins/SKY.so
+[06:34:25] [debug] f3fb1000 - f4359ac7 plugins/mysql_static.so
+[06:34:25] [debug] f7f5a000 - f7f5bf70 plugins/nativechecker.so
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:34:29] password = ""  (string)
+[06:34:29] weburl = "www.sa-mp.com"  (string)
+[06:34:29] password = ""  (string)
+[06:34:29] 
+[06:34:29] Server Plugins
+[06:34:29] --------------
+[06:34:29]  Loading plugin: sampvoice.so
+[06:34:29] [sv:dbg:network:init] : module initializing...
+[06:34:29] [dbg:raknet:init] : module initializing...
+[06:34:29] [dbg:raknet:init] : module initialized
+[06:34:29] [sv:dbg:network:init] : module initialized
+[06:34:29] [sv:dbg:main:Load] : creating 1 work threads...
+[06:34:29]  -------------------------------------------    
+[06:34:29]    ___                __   __    _              
+[06:34:29]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[06:34:29]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[06:34:29]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[06:34:29]                   |_|                           
+[06:34:29]  -------------------------------------------    
+[06:34:29]            SampVoice by MOR loaded              
+[06:34:29]  -------------------------------------------    
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: discord-connector.so
+[06:34:29]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: crashdetect.so
+[06:34:29]   CrashDetect plugin 4.19.4
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: whirlpool.so
+[06:34:29]  
+[06:34:29]  ==================
+[06:34:29]  
+[06:34:29]   Whirlpool loaded
+[06:34:29]  
+[06:34:29]  ==================
+[06:34:29]  
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: pawncmd.so
+[06:34:29] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: sscanf.so
+[06:34:29] 
+
+[06:34:29]  ===============================
+
+[06:34:29]       sscanf plugin loaded.     
+
+[06:34:29]          Version:  2.8.3        
+
+[06:34:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[06:34:29]  ===============================
+
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: streamer.so
+[06:34:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: SKY.so
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: mysql_static.so
+[06:34:29]  >> plugin.mysql: R39-6 successfully loaded.
+[06:34:29]   Loaded.
+[06:34:29]  Loading plugin: nativechecker.so
+[06:34:29]   Loaded.
+[06:34:29]  Loaded 10 plugins.
+
+[06:34:30] 
+[06:34:30] Filterscripts
+[06:34:30] ---------------
+[06:34:30]   Loading filterscript 'pcrpmap.amx'...
+[06:34:30] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8d01ea0) received
+[06:34:30] [sv:dbg:network:bind] : voice server running on port 52460
+[06:34:30]   Loading filterscript 'android-check.amx'...
+[06:34:30] Android check has been successfully loaded.
+[06:34:30]   Loaded 2 filterscripts.
+
+[06:34:30] OnScriptInit 1
+[06:34:30]  
+[06:34:30]  
+[06:34:30]  
+[06:34:30]  ======================================= 
+[06:34:30]  |                                     | 
+[06:34:30]  |        YSI version 1.06.0002        | 
+[06:34:30]  |        By Alex "Y_Less" Cole        | 
+[06:34:30]  |                                     | 
+[06:34:30]  ======================================= 
+[06:34:30]  
+[06:34:30] OnScriptInit 2
+[06:34:30] OnScriptInit 3
+[06:34:30] Iter_OnGameModeInit start: 180
+[06:34:30] Betting System
+[06:34:30] Current gravity: 0.008000
+[06:34:30] GTA: Philippine Forest City
+[06:34:30] 224 objects loaded.
+[06:34:30] Iter_OnGameModeInit: first
+[06:34:30] OnScriptInit 4
+[06:34:30] Number of vehicle models: 11
+[06:34:30] [Script] 7 atms loaded
+[06:34:30] [Script] 2 safezone(s) loaded
+[06:34:30] [Script] 32 vendors loaded
+[06:34:30] [Script] 9 mdc loaded
+[06:34:30] [Script] 0 surgery room loaded
+[06:34:30] [Script] 46 Public Garage loaded
+[06:34:30] [Script] 2 Bars loaded
+[06:34:30] [Script] 18 houses loaded.
+[06:34:30] [Script] 1 garages loaded.
+[06:34:30] [Script] 40 businesses loaded.
+[06:34:30] [Script] 55 entrances loaded.
+[06:34:30] [Script] 7 factions loaded.
+[06:34:30] [Script] 1 gangs loaded.
+[06:34:30] [Script] 15 points loaded.
+[06:34:30] [Script] 9 turfs loaded.
+[06:34:38] [connection] 120.29.79.43:64057 requests connection cookie.
+[06:34:39] [connection] incoming connection: 120.29.79.43:64057 id: 0
+[06:34:39] [sv:dbg:network:connect] : connecting player (0) with address (120.29.79.43) ...
+[06:34:39] [sv:dbg:network:connect] : player (0) assigned key (2b4f1d7811a82dcc)
+[06:34:39] [join] Stewart_Abno has joined the server (0:120.29.79.43)
+[06:34:39] > {FFFFFF}{AAAAAA}Stewart_Abno has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[06:34:39] [sv:dbg:network:receive] : player (0) identified (port:50959)
+[06:34:43] Admcmd: Stewart Abno has logged in as a Executive Director.
+[06:34:48] [connection] 112.200.6.148:8502 requests connection cookie.
+[06:34:49] [connection] incoming connection: 112.200.6.148:8502 id: 1
+[06:34:50] [sv:dbg:network:connect] : connecting player (1) with address (112.200.6.148) ...
+[06:34:50] [sv:dbg:network:connect] : player (1) assigned key (9406c87078029052)
+[06:34:50] [join] Pawn_Jones has joined the server (1:112.200.6.148)
+[06:34:50] > {FFFFFF}{AAAAAA}Pawn_Jones has joined the server [{33AA33}IP:{FFFFFF} 112.200.6.148]
+[06:34:50] [connection] 120.29.79.43:64938 requests connection cookie.
+[06:34:50] [connection] incoming connection: 120.29.79.43:64938 id: 2
+[06:34:51] [join] Stewart_Abner has joined the server (2:120.29.79.43)
+[06:34:51] > {FFFFFF}{AAAAAA}Stewart_Abner has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[06:34:52] [sv:dbg:network:receive] : player (1) identified (port:5465)
+[06:34:55] Admcmd: Pawn Jones has logged in as a Executive Director.
+[06:34:59] Admcmd: Stewart Abner has logged in as a Executive Director.
+[06:35:02] [chat] [Pawn_Jones]: share screen
+[06:35:05] [chat] [Pawn_Jones]: ayan
+[06:35:05] [chat] [Pawn_Jones]: kita kona
+[06:35:12] [chat] [Pawn_Jones]: vst kana
+[06:35:24] [debug] Run time error 4: "Array index out of bounds"
+[06:35:24] [debug]  Attempted to read/write array element at negative index -320
+[06:35:24] [debug] AMX backtrace:
+[06:35:24] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:35:26] [chat] [Pawn_Jones]: akin lng wala,
+[06:35:27] [chat] [Pawn_Jones]: haAHHA
+[06:35:29] [chat] [Pawn_Jones]: bug ata ako
+[06:35:49] [chat] [Pawn_Jones]: di rin nalabas sakin verify eh AHAH.
+[06:35:55] [chat] [Pawn_Jones]:  settings knga
+[06:36:03] [chat] [Pawn_Jones]: kayanga nga
+[06:36:13] [chat] [Pawn_Jones]:  settings ka tas patingin verify
+[06:36:13] [chat] [Pawn_Jones]:  settings ka tas patingin verify
+[06:36:28] [chat] [Pawn_Jones]: waw sanaol di lag
+[06:36:29] [chat] [Pawn_Jones]: HAHAHa.
+[06:36:30] [debug] Run time error 4: "Array index out of bounds"
+[06:36:30] [debug]  Attempted to read/write array element at negative index -320
+[06:36:30] [debug] AMX backtrace:
+[06:36:30] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:36:38] sscanf warning: Format specifier does not match parameter count.
+[06:36:38] AdmCmd: Stewart Abno has given a full weapon set to Stewart Abno.
+[06:36:40] [chat] [Pawn_Jones]: pangalawa pala
+[06:36:40] [chat] [Pawn_Jones]: ;-;t
+[06:36:41] [debug] Run time error 4: "Array index out of bounds"
+[06:36:41] [debug]  Attempted to read/write array element at negative index -320
+[06:36:41] [debug] AMX backtrace:
+[06:36:41] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:36:46] [chat] [Pawn_Jones]: kala ko pangatlo
+[06:36:47] [chat] [Pawn_Jones]: HAHAHA
+[06:36:50] AdmCmd: Pawn Jones has revived Pawn Jones
+[06:36:52] [debug] Run time error 4: "Array index out of bounds"
+[06:36:52] [debug]  Attempted to read/write array element at negative index -320
+[06:36:52] [debug] AMX backtrace:
+[06:36:52] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:36:54] [debug] Run time error 4: "Array index out of bounds"
+[06:36:54] [debug]  Attempted to read/write array element at negative index -320
+[06:36:54] [debug] AMX backtrace:
+[06:36:54] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:36:58] [chat] [Pawn_Jones]: di parin sakin nalabas vst nyeta
+[06:36:59] [chat] [Pawn_Jones]: HHHA
+[06:36:59] [chat] [Pawn_Jones]: v/st
+[06:37:00] [debug] Run time error 4: "Array index out of bounds"
+[06:37:00] [debug]  Attempted to read/write array element at negative index -320
+[06:37:00] [debug] AMX backtrace:
+[06:37:00] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:37:01] [debug] Run time error 4: "Array index out of bounds"
+[06:37:01] [debug]  Attempted to read/write array element at negative index -320
+[06:37:01] [debug] AMX backtrace:
+[06:37:01] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:37:02] [debug] Run time error 4: "Array index out of bounds"
+[06:37:02] [debug]  Attempted to read/write array element at negative index -320
+[06:37:02] [debug] AMX backtrace:
+[06:37:02] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:37:16] [chat] [Stewart_Abno]: aayusin ko pa yung sa register
+[06:37:24] [chat] [Pawn_Jones]: wait
+[06:37:30] [chat] [Pawn_Jones]: pasend ako coding HAHAHA nugn nafix muna ung
+[06:37:31] [chat] [Pawn_Jones]: pasend ako coding HAHAHA nugn nafix muna ung vst
+[06:37:32] [chat] [Pawn_Jones]: pasend ako coding HAHAHA nugn nafix muna ung vst
+[06:37:37] AdmCmd: Stewart Abno has revived Stewart Abner
+[06:37:40] [debug] Run time error 4: "Array index out of bounds"
+[06:37:40] [debug]  Attempted to read/write array element at negative index -320
+[06:37:40] [debug] AMX backtrace:
+[06:37:40] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:37:41] [debug] Run time error 4: "Array index out of bounds"
+[06:37:41] [debug]  Attempted to read/write array element at negative index -320
+[06:37:41] [debug] AMX backtrace:
+[06:37:41] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:37:56] AdmCmd: Pawn Jones has given Pawn Jones their own Sultan.
+[06:37:57] [debug] Run time error 4: "Array index out of bounds"
+[06:37:57] [debug]  Attempted to read/write array element at negative index -320
+[06:37:57] [debug] AMX backtrace:
+[06:37:57] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:37:59] [chat] [Pawn_Jones]: send nga
+[06:37:59] AdmCmd: Stewart Abno has revived Pawn Jones
+[06:38:00] [chat] [Pawn_Jones]: haha.
+[06:38:02] [chat] [Pawn_Jones]: send mo
+[06:38:06] [chat] [Pawn_Jones]: wag na,
+[06:38:07] [chat] [Pawn_Jones]: send mo nlng.
+[06:38:21] [chat] [Pawn_Jones]: kayanga send mo nlgn HAHAHA>
+[06:38:22] [chat] [Pawn_Jones]: ung coding
+[06:38:27] [chat] [Pawn_Jones]: kayanga send mo nlgn HAHAHA>
+[06:38:28] [chat] [Pawn_Jones]: ung coding
+[06:38:51] [chat] [Pawn_Jones]: kayanga send mo nlgn HAHAHA>
+[06:38:51] [chat] [Pawn_Jones]: kayanga send mo nlgn HAHAHA>
+[06:38:52] [chat] [Pawn_Jones]: kayanga send mo nlgn HAHAHA>
+[06:38:54] [chat] [Pawn_Jones]: ung coding
+[06:38:55] [chat] [Pawn_Jones]: ung coding
+[06:38:58] [chat] [Pawn_Jones]: send muna
+[06:38:59] [debug] Run time error 4: "Array index out of bounds"
+[06:38:59] [debug]  Attempted to read/write array element at negative index -320
+[06:38:59] [debug] AMX backtrace:
+[06:38:59] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:38:59] [debug] Run time error 4: "Array index out of bounds"
+[06:38:59] [debug]  Attempted to read/write array element at negative index -320
+[06:38:59] [debug] AMX backtrace:
+[06:38:59] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:42:30] AdmCmd: Stewart Abno has revived Stewart Abner
+[06:42:59] [chat] [Pawn_Jones]: check dm
+[06:43:49] [sv:dbg:network:connect] : disconnecting player (0) ...
+[06:43:49] [part] Stewart_Abno has left the server (0:1)
+[06:44:03] [chat] [Stewart_Abner]: yo
+[06:44:13] [connection] 120.29.79.43:36640 requests connection cookie.
+[06:44:14] [connection] incoming connection: 120.29.79.43:36640 id: 0
+[06:44:14] [sv:dbg:network:connect] : connecting player (0) with address (120.29.79.43) ...
+[06:44:14] [sv:dbg:network:connect] : player (0) assigned key (2b4f1d789d7e65bf)
+[06:44:14] [join] Stewart_Abno has joined the server (0:120.29.79.43)
+[06:44:14] > {FFFFFF}{AAAAAA}Stewart_Abno has joined the server [{33AA33}IP:{FFFFFF} 120.29.79.43]
+[06:44:14] [sv:dbg:network:receive] : player (0) identified (port:36747)
+[06:44:18] Admcmd: Stewart Abno has logged in as a Executive Director.
+[06:44:46] [chat] [Pawn_Jones]: check dm
+[06:44:56] [chat] [Pawn_Jones]: check dm
+[06:44:59] [chat] [Stewart_Abno]: ge
+[06:45:13] [chat] [Pawn_Jones]: check dm
+[06:45:14] [chat] [Pawn_Jones]: check dm
+[06:45:18] [chat] [Pawn_Jones]: check dm
+[06:48:08] AdmCmd: Stewart Abner has made Stewart Abno a dynamic admin.
+[06:48:23] AdmCmd: Pawn Jones has made Pawn Jones a dynamic admin.
+[06:49:13] AdmCmd: Stewart Abno has made Stewart Abno a faction moderator.
+[06:49:17] AdmCmd: Stewart Abno has made Stewart Abno a gang moderator.
+[06:49:22] AdmCmd: Stewart Abno has made Stewart Abno a Chief Of Police in Alcazar City Police Department.
+[06:50:43] [chat] [Pawn_Jones]: di pntay
+[06:50:54] [chat] [Pawn_Jones]: yan
+[06:51:04] AdmCmd: Pawn Jones has made Pawn Jones a faction moderator.
+[06:51:08] [chat] [Pawn_Jones]: amp
+[06:51:11] [chat] [Pawn_Jones]: sobrang bilis nmn pag ganyan
+[06:51:12] [chat] [Pawn_Jones]: HAHA
+[06:51:14] [chat] [Stewart_Abno]: HAHA
+[06:51:20] AdmCmd: Pawn Jones has made Pawn Jones a Mayor in National Governemt.
+[06:51:22] AdmCmd: Pawn Jones has made Pawn Jones a Chief Of Police in Alcazar City Police Department.
+[06:51:52] [chat] [Stewart_Abno]: gara
+[06:52:12] [chat] [Pawn_Jones]: wag
+[06:52:13] [chat] [Pawn_Jones]: ako amg ayos
+[06:52:34] [chat] [Pawn_Jones]: okay nayan tae
+[06:52:38] [chat] [Pawn_Jones]: lahat ng move mag kapareho lng
+[06:52:42] AdmCmd: Pawn Jones spawned a Sultan.
+[06:52:58] [chat] [Pawn_Jones]: awts pain
+[06:53:08] [chat] [Pawn_Jones]: lagyan mo vehicle
+[06:53:09] [chat] [Pawn_Jones]: ;-;
+[06:53:13] [chat] [Pawn_Jones]: ;-;
+[06:53:15] [chat] [Pawn_Jones]: lagyan mo vehicle
+[06:53:19] [chat] [Stewart_Abner]: xflex
+[06:53:27] [debug] Run time error 4: "Array index out of bounds"
+[06:53:27] [debug]  Attempted to read/write array element at negative index -320
+[06:53:27] [debug] AMX backtrace:
+[06:53:27] [debug] #0 00146c38 in public OnQueryFinished (threadid=52, extraid=1) at c:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Gaming v1\gamemodes\main.pwn:22489
+[06:53:28] AdmCmd: Stewart Abner has cured Stewart Abner's broken legs.
+[06:53:34] AdmCmd: Pawn Jones spawned a LSPD Car.
+[06:53:41] [chat] [Stewart_Abno]: wag
+[06:53:46] [chat] [Stewart_Abno]: wag ganyane
+[06:53:53] [chat] [Pawn_Jones]: ano lalagay ko?
+[06:53:56] AdmCmd: Stewart Abno spawned a LSPD Car.
+[06:54:17] [chat] [Pawn_Jones]: anong cleo yan?
+[06:54:23] [chat] [Stewart_Abno]: flycar
+[06:54:36] [chat] [Pawn_Jones]: gawin mong 100000000
+[06:54:40] [chat] [Pawn_Jones]: ung delay respawn
+[06:54:43] [chat] [Pawn_Jones]: save mo ung sql a
+[06:54:52] AdmCmd: Pawn Jones spawned a LSPD Car.
+[06:54:53] AdmWarning: Stewart Abno[0] has respawned their faction vehicles.
+[06:55:33] AdmCmd: Stewart Abno spawned a Rhino.
+[06:56:08] AdmCmd: Pawn Jones spawned a LSPD Car.
+[06:56:35] AdmCmd: Pawn Jones spawned a LSPD Car.
+[06:57:00] AdmCmd: Pawn Jones spawned a LSPD Car.
+[06:58:04] AdmCmd: Stewart Abno has revived Stewart Abner
+[06:58:23] AdmCmd: Stewart Abno destroyed all admin spawned vehicles.
+[06:58:37] {FFFFFF}Pawn Jones{0099ff} has tweeted{FFFFFF}: hi
+[06:58:59] [chat] [Pawn_Jones]: anonaaa
+[06:59:12] [chat] [Pawn_Jones]: anonaaa
+[06:59:12] [chat] [Pawn_Jones]: anonaaa
+[06:59:19] AdmCmd: Stewart_Abno was frozen by Pawn_Jones.
+[06:59:20] [chat] [Pawn_Jones]: pasend na yawa
+
+[06:59:23] [chat] [Pawn_Jones]: pasend na yawa
+
+[06:59:24] [chat] [Pawn_Jones]: pasend na yawa
+
+[06:59:24] [chat] [Pawn_Jones]: pasend na yawa
+
+[06:59:24] [chat] [Pawn_Jones]: pasend na yawa
+
+[06:59:24] [chat] [Pawn_Jones]: pasend na yawa
+
+[06:59:26] AdmCmd: Stewart_Abno was unfrozen by Stewart_Abno.
+[06:59:30] [chat] [Stewart_Abno]: maya
+[06:59:33] [chat] [Pawn_Jones]: now na ahha.
+[07:00:55] AdmCmd: Stewart Abno has revived Pawn Jones
+[07:01:27] [part] Stewart_Abner has left the server (2:0)
+[07:01:53] [sv:dbg:network:connect] : disconnecting player (0) ...
+[07:01:53] [part] Stewart_Abno has left the server (0:1)

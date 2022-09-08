@@ -1,0 +1,516 @@
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x0049DC0C Module: (samp-server.exe)
+
+Registers:
+EAX: 0x636C6557	EBX: 0x04A73673	ECX: 0x7FFFFFFE	EDX: 0x0019F37E
+ESI: 0x0019EFD0	EDI: 0x0019F7AD	EBP: 0x0019F01C	ESP: 0x0019EF90
+EFLAGS: 0x00210202
+
+Stack:
++0000: 0x0019F768   0x0019F368   0x04A736F0   0x40083E76
++0010: 0x00000005   0x40083E76   0x0019F050   0x00000007
++0020: 0x00000000   0x40083E76   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x02000002
++0040: 0x00000017   0x00000000   0x636C6557   0xFFFFFFFF
++0050: 0x00000000   0x00000005   0x734123AC   0x00000005
++0060: 0xFFFFFFFF   0x0019F498   0xFFFFDADD   0xFFFFDADD
++0070: 0x00001951   0xFFFFDADD   0x00001953   0xFFFFE9EF
++0080: 0x035F1050   0xFFFFE6AD   0x000007FF   0xFFFFC98B
++0090: 0x00000000   0x00000005   0x0019F534   0x76340060
++00A0: 0x0064BFF0   0x00000000   0x00000005   0x00000000
++00B0: 0x0019F02C   0x00000000   0x000007FF   0x006463D4
++00C0: 0x03570000   0x00000007   0x00000000   0x000007FF
++00D0: 0x000007FF   0x006400C0   0x006464A0   0x0019F520
++00E0: 0x00000014   0x00000000   0x00000000   0x73303C6D
++00F0: 0x000007FF   0x30383420   0x00000000   0x000007FF
++0100: 0x00000102   0x0000077F   0x00000000   0x40083E76
++0110: 0x0357B8B0   0x30373108   0xEE0D3E76   0x05A48B6E
++0120: 0x00000009   0x00640000   0x00800003   0x00000001
++0130: 0x0109AC0D   0x00001953   0x0019F274   0x775E7172
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\samp-server.exe)
+ntdll.dll	A: 0x775A0000 - 0x77743000	(C:\WINDOWS\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x77090000 - 0x77180000	(C:\WINDOWS\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x754D0000 - 0x756E4000	(C:\WINDOWS\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x756F0000 - 0x75CA5000	(C:\WINDOWS\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x769F0000 - 0x76A6B000	(C:\WINDOWS\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76230000 - 0x76350000	(C:\WINDOWS\System32\ucrtbase.dll)
+USER32.dll	A: 0x77300000 - 0x7749C000	(C:\WINDOWS\System32\USER32.dll)
+win32u.dll	A: 0x767C0000 - 0x767D8000	(C:\WINDOWS\System32\win32u.dll)
+GDI32.dll	A: 0x767E0000 - 0x76804000	(C:\WINDOWS\System32\GDI32.dll)
+gdi32full.dll	A: 0x76910000 - 0x769EC000	(C:\WINDOWS\System32\gdi32full.dll)
+WSOCK32.dll	A: 0x741C0000 - 0x741C8000	(C:\WINDOWS\SYSTEM32\WSOCK32.dll)
+msvcrt.dll	A: 0x77180000 - 0x7723F000	(C:\WINDOWS\System32\msvcrt.dll)
+WS2_32.dll	A: 0x75FF0000 - 0x76053000	(C:\WINDOWS\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x75F30000 - 0x75FEE000	(C:\WINDOWS\System32\RPCRT4.dll)
+WINMM.dll	A: 0x74C40000 - 0x74C68000	(C:\WINDOWS\SYSTEM32\WINMM.dll)
+IMM32.DLL	A: 0x76640000 - 0x76665000	(C:\WINDOWS\System32\IMM32.DLL)
+mysql.DLL	A: 0x733E0000 - 0x73424000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\mysql.DLL)
+libmysql.dll	A: 0x71B10000 - 0x7201D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\libmysql.dll)
+ADVAPI32.dll	A: 0x765B0000 - 0x7662B000	(C:\WINDOWS\System32\ADVAPI32.dll)
+sechost.dll	A: 0x76720000 - 0x76796000	(C:\WINDOWS\System32\sechost.dll)
+MSVCP140.dll	A: 0x73370000 - 0x733DF000	(C:\WINDOWS\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x73550000 - 0x73563000	(C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll)
+Secur32.dll	A: 0x72720000 - 0x7272A000	(C:\WINDOWS\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x74A30000 - 0x74A51000	(C:\WINDOWS\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x6F760000 - 0x6F771000	(C:\WINDOWS\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x6DD50000 - 0x6DD66000	(C:\WINDOWS\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x6DD40000 - 0x6DD50000	(C:\WINDOWS\system32\wshbth.dll)
+NLAapi.dll	A: 0x6DD20000 - 0x6DD36000	(C:\WINDOWS\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x75430000 - 0x75462000	(C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x726C0000 - 0x72712000	(C:\WINDOWS\System32\mswsock.dll)
+DNSAPI.dll	A: 0x725B0000 - 0x72640000	(C:\WINDOWS\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x77060000 - 0x77067000	(C:\WINDOWS\System32\NSI.dll)
+winrnr.dll	A: 0x6DD10000 - 0x6DD1E000	(C:\WINDOWS\System32\winrnr.dll)
+mdnsNSP.dll	A: 0x72580000 - 0x725A1000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x749D0000 - 0x749D8000	(C:\Windows\System32\rasadhlp.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\sscanf.DLL)
+Whirlpool.DLL	A: 0x73540000 - 0x7354C000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\Whirlpool.DLL)
+streamer.DLL	A: 0x73300000 - 0x7336D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\streamer.DLL)
+pawncmd.DLL	A: 0x72FB0000 - 0x73040000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\pawncmd.DLL)
+discord-connector.DLL	A: 0x71630000 - 0x71B05000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\discord-connector.DLL)
+CRYPT32.dll	A: 0x76810000 - 0x7690A000	(C:\WINDOWS\System32\CRYPT32.dll)
+log-core2.dll	A: 0x71580000 - 0x71625000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\log-core2.dll)
+CRYPTSP.dll	A: 0x74AD0000 - 0x74AE3000	(C:\WINDOWS\SYSTEM32\CRYPTSP.dll)
+bcrypt.dll	A: 0x767A0000 - 0x767B9000	(C:\WINDOWS\System32\bcrypt.dll)
+CRYPTBASE.dll	A: 0x74B10000 - 0x74B1A000	(C:\WINDOWS\SYSTEM32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x76350000 - 0x763AF000	(C:\WINDOWS\System32\bcryptPrimitives.dll)
+kernel.appcore.dll	A: 0x74C70000 - 0x74C7F000	(C:\WINDOWS\SYSTEM32\kernel.appcore.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x0049DC0C Module: (samp-server.exe)
+
+Registers:
+EAX: 0x636C6557	EBX: 0x04CB4673	ECX: 0x7FFFFFFE	EDX: 0x0019F37E
+ESI: 0x0019EFD0	EDI: 0x0019F7AD	EBP: 0x0019F01C	ESP: 0x0019EF90
+EFLAGS: 0x00210202
+
+Stack:
++0000: 0x0019F768   0x0019F368   0x04CB46F8   0x0019F480
++0010: 0x733A1A08   0x0019F038   0x0019F050   0x00000007
++0020: 0x00000000   0x00000000   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x00000005
++0040: 0x00000017   0x00000000   0x636C6557   0xFFFFFFFF
++0050: 0x00000000   0x00000005   0x733A23AC   0x00000005
++0060: 0xFFFFFFFF   0x0019F498   0x76268AF6   0x00000000
++0070: 0x733A23AC   0x008BD518   0x76268B26   0x00000000
++0080: 0x008BD54C   0xFFFFFFFF   0x00000034   0x00000000
++0090: 0x00000000   0x00000005   0x0019F534   0x76340060
++00A0: 0x0086BDC0   0x00000000   0x00000005   0x00000000
++00B0: 0x0019F02C   0x00000000   0x733A1A08   0x0019F508
++00C0: 0x00000034   0x00000007   0x00000000   0x00000000
++00D0: 0xFFFFFFFF   0x00000000   0x00000000   0x0019F520
++00E0: 0x00000014   0x00000000   0x00000000   0x00050000
++00F0: 0x00050000   0x00050000   0x00000000   0x20000000
++0100: 0x48060000   0x2F6C8C2D   0x0A442E4C   0xAE8CED4D
++0110: 0x2B2F8C0D   0x6CEC8D69   0xEE0D8D2D   0x05A48B6E
++0120: 0xA8C5ED09   0xCC2DEDED   0x775EC69F   0x040687A5
++0130: 0x0019F140   0xC0000139   0x0019F274   0x775E7172
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\samp-server.exe)
+ntdll.dll	A: 0x775A0000 - 0x77743000	(C:\WINDOWS\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x77090000 - 0x77180000	(C:\WINDOWS\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x754D0000 - 0x756E4000	(C:\WINDOWS\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x756F0000 - 0x75CA5000	(C:\WINDOWS\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x769F0000 - 0x76A6B000	(C:\WINDOWS\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76230000 - 0x76350000	(C:\WINDOWS\System32\ucrtbase.dll)
+USER32.dll	A: 0x77300000 - 0x7749C000	(C:\WINDOWS\System32\USER32.dll)
+win32u.dll	A: 0x767C0000 - 0x767D8000	(C:\WINDOWS\System32\win32u.dll)
+GDI32.dll	A: 0x767E0000 - 0x76804000	(C:\WINDOWS\System32\GDI32.dll)
+gdi32full.dll	A: 0x76910000 - 0x769EC000	(C:\WINDOWS\System32\gdi32full.dll)
+WSOCK32.dll	A: 0x741C0000 - 0x741C8000	(C:\WINDOWS\SYSTEM32\WSOCK32.dll)
+msvcrt.dll	A: 0x77180000 - 0x7723F000	(C:\WINDOWS\System32\msvcrt.dll)
+WS2_32.dll	A: 0x75FF0000 - 0x76053000	(C:\WINDOWS\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x75F30000 - 0x75FEE000	(C:\WINDOWS\System32\RPCRT4.dll)
+WINMM.dll	A: 0x74C40000 - 0x74C68000	(C:\WINDOWS\SYSTEM32\WINMM.dll)
+IMM32.DLL	A: 0x76640000 - 0x76665000	(C:\WINDOWS\System32\IMM32.DLL)
+mysql.DLL	A: 0x73370000 - 0x733B4000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\mysql.DLL)
+libmysql.dll	A: 0x71B10000 - 0x7201D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\libmysql.dll)
+ADVAPI32.dll	A: 0x765B0000 - 0x7662B000	(C:\WINDOWS\System32\ADVAPI32.dll)
+MSVCP140.dll	A: 0x73300000 - 0x7336F000	(C:\WINDOWS\SYSTEM32\MSVCP140.dll)
+sechost.dll	A: 0x76720000 - 0x76796000	(C:\WINDOWS\System32\sechost.dll)
+VCRUNTIME140.dll	A: 0x732E0000 - 0x732F3000	(C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll)
+Secur32.dll	A: 0x72720000 - 0x7272A000	(C:\WINDOWS\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x74A30000 - 0x74A51000	(C:\WINDOWS\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x6F760000 - 0x6F771000	(C:\WINDOWS\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x6DD50000 - 0x6DD66000	(C:\WINDOWS\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x6DD40000 - 0x6DD50000	(C:\WINDOWS\system32\wshbth.dll)
+NLAapi.dll	A: 0x6DD20000 - 0x6DD36000	(C:\WINDOWS\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x75430000 - 0x75462000	(C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x726C0000 - 0x72712000	(C:\WINDOWS\System32\mswsock.dll)
+DNSAPI.dll	A: 0x725B0000 - 0x72640000	(C:\WINDOWS\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x77060000 - 0x77067000	(C:\WINDOWS\System32\NSI.dll)
+winrnr.dll	A: 0x6DD10000 - 0x6DD1E000	(C:\WINDOWS\System32\winrnr.dll)
+mdnsNSP.dll	A: 0x72580000 - 0x725A1000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x749D0000 - 0x749D8000	(C:\Windows\System32\rasadhlp.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\sscanf.DLL)
+Whirlpool.DLL	A: 0x732D0000 - 0x732DC000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\Whirlpool.DLL)
+streamer.DLL	A: 0x72FD0000 - 0x7303D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\streamer.DLL)
+pawncmd.DLL	A: 0x72F40000 - 0x72FD0000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\pawncmd.DLL)
+discord-connector.DLL	A: 0x71630000 - 0x71B05000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\discord-connector.DLL)
+CRYPT32.dll	A: 0x76810000 - 0x7690A000	(C:\WINDOWS\System32\CRYPT32.dll)
+log-core2.dll	A: 0x71580000 - 0x71625000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\log-core2.dll)
+CRYPTSP.dll	A: 0x74AD0000 - 0x74AE3000	(C:\WINDOWS\SYSTEM32\CRYPTSP.dll)
+bcrypt.dll	A: 0x767A0000 - 0x767B9000	(C:\WINDOWS\System32\bcrypt.dll)
+CRYPTBASE.dll	A: 0x74B10000 - 0x74B1A000	(C:\WINDOWS\SYSTEM32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x76350000 - 0x763AF000	(C:\WINDOWS\System32\bcryptPrimitives.dll)
+kernel.appcore.dll	A: 0x74C70000 - 0x74C7F000	(C:\WINDOWS\SYSTEM32\kernel.appcore.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x0049DC0C Module: (samp-server.exe)
+
+Registers:
+EAX: 0x636C6557	EBX: 0x04C7E673	ECX: 0x7FFFFFFE	EDX: 0x0019F37E
+ESI: 0x0019EFD0	EDI: 0x0019F7AD	EBP: 0x0019F01C	ESP: 0x0019EF90
+EFLAGS: 0x00210202
+
+Stack:
++0000: 0x0019F768   0x0019F368   0x04C7E6FC   0x26082907
++0010: 0x733A1A08   0x26082907   0x0019F050   0x00000007
++0020: 0x00000000   0x6C08385C   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x02000002
++0040: 0x00000017   0x00000000   0x636C6557   0xFFFFFFFF
++0050: 0x00000000   0x00000005   0x733A23AC   0x00000005
++0060: 0xFFFFFFFF   0x0019F498   0xFFFFE80A   0xFFFFE80A
++0070: 0x0000110F   0xFFFFD8B5   0x00001111   0xFFFFF06A
++0080: 0x035805C8   0xFFFFEEEF   0x000007FF   0xFFFFCFA5
++0090: 0x00000000   0x00000005   0x0019F534   0x76340060
++00A0: 0x007FC468   0x00000000   0x00000005   0x00000000
++00B0: 0x0019F02C   0x00000000   0x000007FF   0x007F6918
++00C0: 0x03580000   0x00000007   0x00000000   0x000007FF
++00D0: 0x000007FF   0x007F00C0   0x007F6918   0x0019F520
++00E0: 0x00000014   0x00000000   0x00000000   0x00050000
++00F0: 0x000007FF   0x00050000   0x00000000   0x000007FF
++0100: 0x0000077F   0x0000077F   0x00000000   0x26082907
++0110: 0x035FD2D8   0x33363108   0xEE0D2907   0x05A48B6E
++0120: 0x00000001   0x007F0000   0x00800003   0x00000001
++0130: 0x0101F140   0x00001111   0x0019F274   0x775E7172
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\samp-server.exe)
+ntdll.dll	A: 0x775A0000 - 0x77743000	(C:\WINDOWS\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x77090000 - 0x77180000	(C:\WINDOWS\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x754D0000 - 0x756E4000	(C:\WINDOWS\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x756F0000 - 0x75CA5000	(C:\WINDOWS\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x769F0000 - 0x76A6B000	(C:\WINDOWS\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76230000 - 0x76350000	(C:\WINDOWS\System32\ucrtbase.dll)
+USER32.dll	A: 0x77300000 - 0x7749C000	(C:\WINDOWS\System32\USER32.dll)
+win32u.dll	A: 0x767C0000 - 0x767D8000	(C:\WINDOWS\System32\win32u.dll)
+GDI32.dll	A: 0x767E0000 - 0x76804000	(C:\WINDOWS\System32\GDI32.dll)
+gdi32full.dll	A: 0x76910000 - 0x769EC000	(C:\WINDOWS\System32\gdi32full.dll)
+WSOCK32.dll	A: 0x741C0000 - 0x741C8000	(C:\WINDOWS\SYSTEM32\WSOCK32.dll)
+msvcrt.dll	A: 0x77180000 - 0x7723F000	(C:\WINDOWS\System32\msvcrt.dll)
+WS2_32.dll	A: 0x75FF0000 - 0x76053000	(C:\WINDOWS\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x75F30000 - 0x75FEE000	(C:\WINDOWS\System32\RPCRT4.dll)
+WINMM.dll	A: 0x74C40000 - 0x74C68000	(C:\WINDOWS\SYSTEM32\WINMM.dll)
+IMM32.DLL	A: 0x76640000 - 0x76665000	(C:\WINDOWS\System32\IMM32.DLL)
+mysql.DLL	A: 0x73370000 - 0x733B4000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\mysql.DLL)
+MSVCP140.dll	A: 0x73300000 - 0x7336F000	(C:\WINDOWS\SYSTEM32\MSVCP140.dll)
+libmysql.dll	A: 0x71B10000 - 0x7201D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\libmysql.dll)
+VCRUNTIME140.dll	A: 0x732E0000 - 0x732F3000	(C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll)
+ADVAPI32.dll	A: 0x765B0000 - 0x7662B000	(C:\WINDOWS\System32\ADVAPI32.dll)
+sechost.dll	A: 0x76720000 - 0x76796000	(C:\WINDOWS\System32\sechost.dll)
+Secur32.dll	A: 0x72720000 - 0x7272A000	(C:\WINDOWS\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x74A30000 - 0x74A51000	(C:\WINDOWS\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x6F760000 - 0x6F771000	(C:\WINDOWS\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x6DD50000 - 0x6DD66000	(C:\WINDOWS\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x6DD40000 - 0x6DD50000	(C:\WINDOWS\system32\wshbth.dll)
+NLAapi.dll	A: 0x6DD20000 - 0x6DD36000	(C:\WINDOWS\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x75430000 - 0x75462000	(C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x726C0000 - 0x72712000	(C:\WINDOWS\System32\mswsock.dll)
+DNSAPI.dll	A: 0x725B0000 - 0x72640000	(C:\WINDOWS\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x77060000 - 0x77067000	(C:\WINDOWS\System32\NSI.dll)
+winrnr.dll	A: 0x6DD10000 - 0x6DD1E000	(C:\WINDOWS\System32\winrnr.dll)
+mdnsNSP.dll	A: 0x72580000 - 0x725A1000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x749D0000 - 0x749D8000	(C:\Windows\System32\rasadhlp.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\sscanf.DLL)
+Whirlpool.DLL	A: 0x732D0000 - 0x732DC000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\Whirlpool.DLL)
+streamer.DLL	A: 0x72FD0000 - 0x7303D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\streamer.DLL)
+pawncmd.DLL	A: 0x72F40000 - 0x72FD0000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\pawncmd.DLL)
+discord-connector.DLL	A: 0x71630000 - 0x71B05000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\discord-connector.DLL)
+CRYPT32.dll	A: 0x76810000 - 0x7690A000	(C:\WINDOWS\System32\CRYPT32.dll)
+log-core2.dll	A: 0x71580000 - 0x71625000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\log-core2.dll)
+CRYPTSP.dll	A: 0x74AD0000 - 0x74AE3000	(C:\WINDOWS\SYSTEM32\CRYPTSP.dll)
+bcrypt.dll	A: 0x767A0000 - 0x767B9000	(C:\WINDOWS\System32\bcrypt.dll)
+CRYPTBASE.dll	A: 0x74B10000 - 0x74B1A000	(C:\WINDOWS\SYSTEM32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x76350000 - 0x763AF000	(C:\WINDOWS\System32\bcryptPrimitives.dll)
+kernel.appcore.dll	A: 0x74C70000 - 0x74C7F000	(C:\WINDOWS\SYSTEM32\kernel.appcore.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x0049DC0C Module: (samp-server.exe)
+
+Registers:
+EAX: 0x636C6557	EBX: 0x04CA4673	ECX: 0x7FFFFFFE	EDX: 0x0019F1B6
+ESI: 0x0019EE08	EDI: 0x0019F5E5	EBP: 0x0019EE54	ESP: 0x0019EDC8
+EFLAGS: 0x00210202
+
+Stack:
++0000: 0x0019F5A0   0x0019F1A0   0x04CA46FC   0x0019F28C
++0010: 0x00000048   0x00000007   0x00000000   0x00000007
++0020: 0x00000000   0x00000000   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x00000000
++0040: 0x00000017   0x00000000   0x636C6557   0xFFFFFFFF
++0050: 0x00000000   0x00000000   0x00000000   0x0019F2D8
++0060: 0x0000000D   0x00000000   0x00000000   0x00000000
++0070: 0x00000000   0x0019F047   0x00000001   0x7E000600
++0080: 0x7E000678   0x00000280   0x7E000678   0x004537C7
++0090: 0x72000173   0x005B0000   0x00000002   0x00000001
++00A0: 0x011001E0   0x00000173   0x0377E1C8   0x0019EE8C
++00B0: 0x000000F3   0x000001C1   0xFFFFFB4B   0xFFFFFAFB
++00C0: 0x71883C6D   0x0019F2C0   0x000003CC   0x718D84F8
++00D0: 0x71883C6D   0x71883C6D   0x0019F2D4   0x718D8620
++00E0: 0x718D84D8   0x005B57B0   0x00000173   0x000007FF
++00F0: 0x0377E1CF   0x0019F254   0x00000000   0x0377E1C8
++0100: 0x7761AD20   0x4EFBF2D9   0xFFFFFFFE   0x00000050
++0110: 0x00000001   0x00000271   0x00000000   0x000001C3
++0120: 0x000005F8   0x005B03E4   0x775EC69F   0x3988DF3D
++0130: 0x0019EF78   0xC0000139   0x0019F0AC   0x775E7172
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\samp-server.exe)
+ntdll.dll	A: 0x775A0000 - 0x77743000	(C:\WINDOWS\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x77090000 - 0x77180000	(C:\WINDOWS\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x754D0000 - 0x756E4000	(C:\WINDOWS\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x756F0000 - 0x75CA5000	(C:\WINDOWS\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x769F0000 - 0x76A6B000	(C:\WINDOWS\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76230000 - 0x76350000	(C:\WINDOWS\System32\ucrtbase.dll)
+USER32.dll	A: 0x77300000 - 0x7749C000	(C:\WINDOWS\System32\USER32.dll)
+win32u.dll	A: 0x767C0000 - 0x767D8000	(C:\WINDOWS\System32\win32u.dll)
+GDI32.dll	A: 0x767E0000 - 0x76804000	(C:\WINDOWS\System32\GDI32.dll)
+gdi32full.dll	A: 0x76910000 - 0x769EC000	(C:\WINDOWS\System32\gdi32full.dll)
+WSOCK32.dll	A: 0x741C0000 - 0x741C8000	(C:\WINDOWS\SYSTEM32\WSOCK32.dll)
+msvcrt.dll	A: 0x77180000 - 0x7723F000	(C:\WINDOWS\System32\msvcrt.dll)
+WINMM.dll	A: 0x74C40000 - 0x74C68000	(C:\WINDOWS\SYSTEM32\WINMM.dll)
+WS2_32.dll	A: 0x75FF0000 - 0x76053000	(C:\WINDOWS\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x75F30000 - 0x75FEE000	(C:\WINDOWS\System32\RPCRT4.dll)
+IMM32.DLL	A: 0x76640000 - 0x76665000	(C:\WINDOWS\System32\IMM32.DLL)
+mysql.DLL	A: 0x71FD0000 - 0x72014000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\mysql.DLL)
+libmysql.dll	A: 0x71AC0000 - 0x71FCD000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\libmysql.dll)
+ADVAPI32.dll	A: 0x765B0000 - 0x7662B000	(C:\WINDOWS\System32\ADVAPI32.dll)
+sechost.dll	A: 0x76720000 - 0x76796000	(C:\WINDOWS\System32\sechost.dll)
+VCRUNTIME140.dll	A: 0x732E0000 - 0x732F3000	(C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll)
+Secur32.dll	A: 0x72720000 - 0x7272A000	(C:\WINDOWS\SYSTEM32\Secur32.dll)
+MSVCP140.dll	A: 0x73300000 - 0x7336F000	(C:\WINDOWS\SYSTEM32\MSVCP140.dll)
+SSPICLI.DLL	A: 0x74A30000 - 0x74A51000	(C:\WINDOWS\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x6F760000 - 0x6F771000	(C:\WINDOWS\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x6DD50000 - 0x6DD66000	(C:\WINDOWS\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x6DD40000 - 0x6DD50000	(C:\WINDOWS\system32\wshbth.dll)
+NLAapi.dll	A: 0x6DD20000 - 0x6DD36000	(C:\WINDOWS\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x75430000 - 0x75462000	(C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x726C0000 - 0x72712000	(C:\WINDOWS\System32\mswsock.dll)
+DNSAPI.dll	A: 0x725B0000 - 0x72640000	(C:\WINDOWS\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x77060000 - 0x77067000	(C:\WINDOWS\System32\NSI.dll)
+winrnr.dll	A: 0x6DD10000 - 0x6DD1E000	(C:\WINDOWS\System32\winrnr.dll)
+mdnsNSP.dll	A: 0x72580000 - 0x725A1000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x749D0000 - 0x749D8000	(C:\Windows\System32\rasadhlp.dll)
+MSVCP120.dll	A: 0x719E0000 - 0x71A51000	(C:\WINDOWS\SYSTEM32\MSVCP120.dll)
+MSVCR120.dll	A: 0x718F0000 - 0x719DE000	(C:\WINDOWS\SYSTEM32\MSVCR120.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\sscanf.DLL)
+Whirlpool.DLL	A: 0x732D0000 - 0x732DC000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\Whirlpool.DLL)
+streamer.DLL	A: 0x71880000 - 0x718ED000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\streamer.DLL)
+pawncmd.DLL	A: 0x717F0000 - 0x71880000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\pawncmd.DLL)
+discord-connector.DLL	A: 0x53740000 - 0x53C15000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\plugins\discord-connector.DLL)
+CRYPT32.dll	A: 0x76810000 - 0x7690A000	(C:\WINDOWS\System32\CRYPT32.dll)
+log-core2.dll	A: 0x71740000 - 0x717E5000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay\log-core2.dll)
+CRYPTSP.dll	A: 0x74AD0000 - 0x74AE3000	(C:\WINDOWS\SYSTEM32\CRYPTSP.dll)
+bcrypt.dll	A: 0x767A0000 - 0x767B9000	(C:\WINDOWS\System32\bcrypt.dll)
+CRYPTBASE.dll	A: 0x74B10000 - 0x74B1A000	(C:\WINDOWS\SYSTEM32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x76350000 - 0x763AF000	(C:\WINDOWS\System32\bcryptPrimitives.dll)
+kernel.appcore.dll	A: 0x74C70000 - 0x74C7F000	(C:\WINDOWS\SYSTEM32\kernel.appcore.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x6CB6FFF8 Module: (sampvoice.DLL)
+
+Registers:
+EAX: 0x00000001	EBX: 0x02458C88	ECX: 0x0245D750	EDX: 0x004966A0
+ESI: 0x000003E8	EDI: 0x000003E8	EBP: 0x0019FDD4	ESP: 0x0019FD9C
+EFLAGS: 0x00210202
+
+Stack:
++0000: 0xF63D44AB   0x000003E8   0x000003E8   0x02458C88
++0010: 0x00807418   0x00000000   0x0019FDC0   0x6CB76E2B
++0020: 0x00807418   0x0019FDD4   0x6CB680B9   0x0019FDE8
++0030: 0x6CB78BC0   0xFFFFFFFF   0x0019FDF4   0x6CB746AA
++0040: 0xF63D448B   0x024596A0   0x02459150   0x0019FE10
++0050: 0x6CB79080   0xFFFFFFFF   0x76850AE0   0x00469DFB
++0060: 0x02458C88   0xFFFFFFFF   0x004B96C5   0x00000000
++0070: 0x02458C88   0x0019FE8C   0x004AAC8E   0x00000000
++0080: 0x0048D56F   0x00000000   0x000023F0   0x0019FF70
++0090: 0x00349000   0x00017E2C   0x00010001   0x0000001D
++00A0: 0x000007E4   0x00000184   0x00001CFC   0x02459D70
++00B0: 0x656D6167   0x65646F6D   0x00003531   0x004C4020
++00C0: 0x004C401C   0x00349000   0x004AB4A0   0x0019FE58
++00D0: 0x0019FF60   0x0019FF60   0x0049D208   0x004BA2F8
++00E0: 0xFFFFFFFF   0x0049B4A1   0x0049B4B1   0x004AB4A0
++00F0: 0x0019FF60   0x004AB0E1   0xFFFFFFFF   0x0049CCA6
++0100: 0x00000001   0x02451460   0x024514D8   0x00000094
++0110: 0x00000006   0x00000002   0x000023F0   0x00000002
++0120: 0x00000000   0x00000000   0x00000000   0x00000000
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\samp-server.exe)
+ntdll.dll	A: 0x776E0000 - 0x77883000	(C:\WINDOWS\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x76830000 - 0x76920000	(C:\WINDOWS\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x76330000 - 0x76544000	(C:\WINDOWS\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75CF0000 - 0x762A5000	(C:\WINDOWS\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x75870000 - 0x758EB000	(C:\WINDOWS\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76A30000 - 0x76B50000	(C:\WINDOWS\System32\ucrtbase.dll)
+USER32.dll	A: 0x76BE0000 - 0x76D7C000	(C:\WINDOWS\System32\USER32.dll)
+win32u.dll	A: 0x76930000 - 0x76948000	(C:\WINDOWS\System32\win32u.dll)
+GDI32.dll	A: 0x75A80000 - 0x75AA4000	(C:\WINDOWS\System32\GDI32.dll)
+gdi32full.dll	A: 0x76950000 - 0x76A2C000	(C:\WINDOWS\System32\gdi32full.dll)
+WSOCK32.dll	A: 0x74B00000 - 0x74B08000	(C:\WINDOWS\SYSTEM32\WSOCK32.dll)
+msvcrt.dll	A: 0x75B90000 - 0x75C4F000	(C:\WINDOWS\System32\msvcrt.dll)
+WS2_32.dll	A: 0x755D0000 - 0x75633000	(C:\WINDOWS\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x75AD0000 - 0x75B8E000	(C:\WINDOWS\System32\RPCRT4.dll)
+WINMM.dll	A: 0x73DA0000 - 0x73DC8000	(C:\WINDOWS\SYSTEM32\WINMM.dll)
+IMM32.DLL	A: 0x76B50000 - 0x76B75000	(C:\WINDOWS\System32\IMM32.DLL)
+sampvoice.DLL	A: 0x6CB60000 - 0x6CB8B000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\sampvoice.DLL)
+MSVCP140.dll	A: 0x656E0000 - 0x6574F000	(C:\WINDOWS\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x6BDD0000 - 0x6BDE3000	(C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll)
+kernel.appcore.dll	A: 0x74DB0000 - 0x74DBF000	(C:\WINDOWS\SYSTEM32\kernel.appcore.dll)
+discord-connector.DLL	A: 0x58C30000 - 0x59105000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\discord-connector.DLL)
+ADVAPI32.dll	A: 0x75970000 - 0x759EB000	(C:\WINDOWS\System32\ADVAPI32.dll)
+sechost.dll	A: 0x758F0000 - 0x75966000	(C:\WINDOWS\System32\sechost.dll)
+log-core2.dll	A: 0x655C0000 - 0x65665000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\log-core2.dll)
+CRYPT32.dll	A: 0x77020000 - 0x7711A000	(C:\WINDOWS\System32\CRYPT32.dll)
+CRYPTSP.dll	A: 0x730E0000 - 0x730F3000	(C:\WINDOWS\SYSTEM32\CRYPTSP.dll)
+bcrypt.dll	A: 0x75AB0000 - 0x75AC9000	(C:\WINDOWS\System32\bcrypt.dll)
+CRYPTBASE.dll	A: 0x73D70000 - 0x73D7A000	(C:\WINDOWS\SYSTEM32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75810000 - 0x7586F000	(C:\WINDOWS\System32\bcryptPrimitives.dll)
+mswsock.dll	A: 0x64F40000 - 0x64F92000	(C:\WINDOWS\system32\mswsock.dll)
+DNSAPI.dll	A: 0x74040000 - 0x740D0000	(C:\WINDOWS\SYSTEM32\DNSAPI.dll)
+IPHLPAPI.DLL	A: 0x75570000 - 0x755A2000	(C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL)
+NSI.dll	A: 0x77010000 - 0x77017000	(C:\WINDOWS\System32\NSI.dll)
+mdnsNSP.dll	A: 0x65500000 - 0x65521000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x65470000 - 0x65478000	(C:\Windows\System32\rasadhlp.dll)
+MSVCP120.dll	A: 0x65480000 - 0x654F1000	(C:\WINDOWS\SYSTEM32\MSVCP120.dll)
+MSVCR120.dll	A: 0x64940000 - 0x64A2E000	(C:\WINDOWS\SYSTEM32\MSVCR120.dll)
+whirlpool.DLL	A: 0x715B0000 - 0x715BC000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\whirlpool.DLL)
+pawncmd.DLL	A: 0x65370000 - 0x65400000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\pawncmd.DLL)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\sscanf.DLL)
+streamer.DLL	A: 0x65550000 - 0x655BD000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\streamer.DLL)
+SKY.DLL	A: 0x65250000 - 0x652CD000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\SKY.DLL)
+mysql.DLL	A: 0x648F0000 - 0x64934000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\mysql.DLL)
+libmysql.dll	A: 0x58720000 - 0x58C2D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\libmysql.dll)
+Secur32.dll	A: 0x73130000 - 0x7313A000	(C:\WINDOWS\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x6AEC0000 - 0x6AEE1000	(C:\WINDOWS\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x65310000 - 0x65321000	(C:\WINDOWS\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x652F0000 - 0x65306000	(C:\WINDOWS\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x652E0000 - 0x652F0000	(C:\WINDOWS\system32\wshbth.dll)
+NLAapi.dll	A: 0x6A780000 - 0x6A796000	(C:\WINDOWS\system32\NLAapi.dll)
+winrnr.dll	A: 0x652D0000 - 0x652DE000	(C:\WINDOWS\System32\winrnr.dll)
+nativechecker.DLL	A: 0x6CB30000 - 0x6CB35000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\nativechecker.DLL)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x6CB6FFF8 Module: (sampvoice.DLL)
+
+Registers:
+EAX: 0x00000001	EBX: 0x00718C88	ECX: 0x0071D750	EDX: 0x004966A0
+ESI: 0x000003E8	EDI: 0x000003E8	EBP: 0x0019FDD4	ESP: 0x0019FD9C
+EFLAGS: 0x00210202
+
+Stack:
++0000: 0x932E6A63   0x000003E8   0x000003E8   0x00718C88
++0010: 0x00789778   0x00000000   0x0019FDC0   0x6CB76E2B
++0020: 0x00789778   0x0019FDD4   0x6CB680B9   0x0019FDE8
++0030: 0x6CB78BC0   0xFFFFFFFF   0x0019FDF4   0x6CB746AA
++0040: 0x932E6A43   0x007196A0   0x00719150   0x0019FE10
++0050: 0x6CB79080   0xFFFFFFFF   0x76850AE0   0x00469DFB
++0060: 0x00718C88   0xFFFFFFFF   0x004B96C5   0x00000000
++0070: 0x00718C88   0x0019FE8C   0x004AAC8E   0x00000000
++0080: 0x0048D56F   0x00000000   0x000023F0   0x0019FF70
++0090: 0x002E8000   0x00017E2C   0x00010001   0x0000001D
++00A0: 0x000007E4   0x00000180   0x00002554   0x00719D70
++00B0: 0x656D6167   0x65646F6D   0x00003531   0x004C4020
++00C0: 0x004C401C   0x002E8000   0x004AB4A0   0x0019FE58
++00D0: 0x0019FF60   0x0019FF60   0x0049D208   0x004BA2F8
++00E0: 0xFFFFFFFF   0x0049B4A1   0x0049B4B1   0x004AB4A0
++00F0: 0x0019FF60   0x004AB0E1   0xFFFFFFFF   0x0049CCA6
++0100: 0x00000001   0x00711460   0x007114D8   0x00000094
++0110: 0x00000006   0x00000002   0x000023F0   0x00000002
++0120: 0x00000000   0x00000000   0x00000000   0x00000000
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\samp-server.exe)
+ntdll.dll	A: 0x776E0000 - 0x77883000	(C:\WINDOWS\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x76830000 - 0x76920000	(C:\WINDOWS\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x76330000 - 0x76544000	(C:\WINDOWS\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75CF0000 - 0x762A5000	(C:\WINDOWS\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x75870000 - 0x758EB000	(C:\WINDOWS\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76A30000 - 0x76B50000	(C:\WINDOWS\System32\ucrtbase.dll)
+USER32.dll	A: 0x76BE0000 - 0x76D7C000	(C:\WINDOWS\System32\USER32.dll)
+win32u.dll	A: 0x76930000 - 0x76948000	(C:\WINDOWS\System32\win32u.dll)
+GDI32.dll	A: 0x75A80000 - 0x75AA4000	(C:\WINDOWS\System32\GDI32.dll)
+gdi32full.dll	A: 0x76950000 - 0x76A2C000	(C:\WINDOWS\System32\gdi32full.dll)
+WSOCK32.dll	A: 0x74B00000 - 0x74B08000	(C:\WINDOWS\SYSTEM32\WSOCK32.dll)
+WINMM.dll	A: 0x73DA0000 - 0x73DC8000	(C:\WINDOWS\SYSTEM32\WINMM.dll)
+msvcrt.dll	A: 0x75B90000 - 0x75C4F000	(C:\WINDOWS\System32\msvcrt.dll)
+WS2_32.dll	A: 0x755D0000 - 0x75633000	(C:\WINDOWS\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x75AD0000 - 0x75B8E000	(C:\WINDOWS\System32\RPCRT4.dll)
+IMM32.DLL	A: 0x76B50000 - 0x76B75000	(C:\WINDOWS\System32\IMM32.DLL)
+sampvoice.DLL	A: 0x6CB60000 - 0x6CB8B000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\sampvoice.DLL)
+MSVCP140.dll	A: 0x656E0000 - 0x6574F000	(C:\WINDOWS\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x6BDD0000 - 0x6BDE3000	(C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll)
+kernel.appcore.dll	A: 0x74DB0000 - 0x74DBF000	(C:\WINDOWS\SYSTEM32\kernel.appcore.dll)
+discord-connector.DLL	A: 0x58C30000 - 0x59105000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\discord-connector.DLL)
+ADVAPI32.dll	A: 0x75970000 - 0x759EB000	(C:\WINDOWS\System32\ADVAPI32.dll)
+sechost.dll	A: 0x758F0000 - 0x75966000	(C:\WINDOWS\System32\sechost.dll)
+CRYPT32.dll	A: 0x77020000 - 0x7711A000	(C:\WINDOWS\System32\CRYPT32.dll)
+log-core2.dll	A: 0x655C0000 - 0x65665000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\log-core2.dll)
+CRYPTSP.dll	A: 0x730E0000 - 0x730F3000	(C:\WINDOWS\SYSTEM32\CRYPTSP.dll)
+bcrypt.dll	A: 0x75AB0000 - 0x75AC9000	(C:\WINDOWS\System32\bcrypt.dll)
+CRYPTBASE.dll	A: 0x73D70000 - 0x73D7A000	(C:\WINDOWS\SYSTEM32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75810000 - 0x7586F000	(C:\WINDOWS\System32\bcryptPrimitives.dll)
+mswsock.dll	A: 0x64F40000 - 0x64F92000	(C:\WINDOWS\system32\mswsock.dll)
+DNSAPI.dll	A: 0x74040000 - 0x740D0000	(C:\WINDOWS\SYSTEM32\DNSAPI.dll)
+IPHLPAPI.DLL	A: 0x75570000 - 0x755A2000	(C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL)
+NSI.dll	A: 0x77010000 - 0x77017000	(C:\WINDOWS\System32\NSI.dll)
+mdnsNSP.dll	A: 0x65500000 - 0x65521000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x65470000 - 0x65478000	(C:\Windows\System32\rasadhlp.dll)
+MSVCP120.dll	A: 0x65480000 - 0x654F1000	(C:\WINDOWS\SYSTEM32\MSVCP120.dll)
+MSVCR120.dll	A: 0x64940000 - 0x64A2E000	(C:\WINDOWS\SYSTEM32\MSVCR120.dll)
+whirlpool.DLL	A: 0x715B0000 - 0x715BC000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\whirlpool.DLL)
+pawncmd.DLL	A: 0x65370000 - 0x65400000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\pawncmd.DLL)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\sscanf.DLL)
+streamer.DLL	A: 0x65550000 - 0x655BD000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\streamer.DLL)
+SKY.DLL	A: 0x65250000 - 0x652CD000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\SKY.DLL)
+mysql.DLL	A: 0x648F0000 - 0x64934000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\mysql.DLL)
+libmysql.dll	A: 0x58720000 - 0x58C2D000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\libmysql.dll)
+Secur32.dll	A: 0x73130000 - 0x7313A000	(C:\WINDOWS\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x6AEC0000 - 0x6AEE1000	(C:\WINDOWS\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x65310000 - 0x65321000	(C:\WINDOWS\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x652F0000 - 0x65306000	(C:\WINDOWS\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x652E0000 - 0x652F0000	(C:\WINDOWS\system32\wshbth.dll)
+NLAapi.dll	A: 0x6A780000 - 0x6A796000	(C:\WINDOWS\system32\NLAapi.dll)
+winrnr.dll	A: 0x652D0000 - 0x652DE000	(C:\WINDOWS\System32\winrnr.dll)
+nativechecker.DLL	A: 0x6CB30000 - 0x6CB35000	(C:\Users\Diaz\Desktop\Wynn Diaz\My network\SAMP Stuffs\Alcazar Roleplay GM Localhost\plugins\nativechecker.DLL)

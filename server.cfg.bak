@@ -1,0 +1,26 @@
+echo Executing Server Config...
+lanmode 0
+rcon_password j67ckbjq
+maxplayers 50
+port 2020
+hostname San Andreas Multiplayer
+gamemode0 main 1
+password 
+filterscripts pcrpmap android-check
+plugins sampvoice.so discord-connector.so crashdetect.so whirlpool.so pawncmd.so sscanf.so streamer.so SKY.so mysql_static.so nativechecker.so
+announce 1
+chatlogging 1
+weburl 
+onfoot_rate 40
+incar_rate 40
+weapon_rate 40
+stream_distance 300.0
+stream_rate 1000
+actslimit 3500
+maxnpc 0
+logtimeformat [%H:%M:%S]
+language English
+rcon 0
+query 1
+password
+discord_bot_token OTIwODg1MzY5Mzg4NTQ4MTQ4.Ybq3VQ.G6cfYaM7OqFd_cuxxZbdAX1jdwA

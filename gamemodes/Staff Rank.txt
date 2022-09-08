@@ -1,0 +1,27 @@
+Admin Team:
+Community Director
+Community Manager
+Executive Director
+Executive Manager
+Lead Administrator
+Head Administrator
+Senior Administrator
+General Administrator
+Junior Administrator
+Trial/Probitionary Administrator
+
+Moderator Team:
+Moderation Director
+Executive Moderator
+Head Moderator
+Senior Moderator
+Junior Moderator
+
+Helper/Advisory Team:
+Advisory Director
+Senior Advisor
+General Advisor
+Junior Advisor
+Senior Helper
+General Helper
+Junior Helper

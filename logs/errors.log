@@ -1,0 +1,361 @@
+[01/06/22 11:43:57] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 11:44:02] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 11:44:07] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 11:44:13] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 11:44:18] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 11:45:25] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 11:55:51] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 11:55:51] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 11:55:51] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 11:55:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:55:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:58:03] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 11:58:03] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 11:58:03] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 11:58:03] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:58:03] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:13] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 11:59:13] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 11:59:13] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 11:59:13] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:13] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:18] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 11:59:18] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 11:59:18] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 11:59:18] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:18] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:43] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 11:59:43] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 11:59:43] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 11:59:43] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:43] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:50] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 11:59:50] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 11:59:50] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 11:59:50] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:50] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 11:59:55] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 12:05:08] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:05:08] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:05:08] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:05:08] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:05:08] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:05:08] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:15:51] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:15:51] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:15:51] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:15:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:15:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:15:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:19:52] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:19:52] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:19:52] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:19:52] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:19:52] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:19:52] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:20:15] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:20:15] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:20:15] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:20:15] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:20:22] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:20:22] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:20:22] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:20:22] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:20:22] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:20:22] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:26:45] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 12:32:18] [plugins/discord-connector] can't update guild member voice channel: user id "604521931122671657" not cached
+[01/06/22 12:32:19] [plugins/discord-connector] can't update guild member voice channel: user id "604521931122671657" not cached
+[01/06/22 12:32:23] [plugins/discord-connector] can't update guild member voice channel: user id "604521931122671657" not cached
+[01/06/22 12:39:10] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:39:10] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:39:10] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:39:10] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:39:10] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:40:00] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:40:00] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:40:00] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:40:00] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:40:07] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:40:07] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:40:07] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:40:07] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:40:15] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:40:15] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:40:15] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:40:15] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:40:44] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:40:44] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:40:44] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:40:44] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:40:44] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:40:56] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:40:56] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:40:56] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:40:56] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:41:01] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:41:01] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:41:01] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:41:01] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:36] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:41] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:49] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:52] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:52] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:52] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:52] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:53] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:42:54] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:42:54] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:42:54] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:42:54] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:03] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:03] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:03] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:03] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:08] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:08] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:08] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:08] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:09] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:09] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:09] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:09] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:13] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:13] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:13] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:13] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:16] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:16] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:16] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:16] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:19] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:51] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:52] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:52] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:52] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:52] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:43:56] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:43:56] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:43:56] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:43:56] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:01] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:01] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:01] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:01] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:02] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:02] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:02] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:02] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:05] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:05] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:05] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:05] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:06] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:06] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:06] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:06] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:23] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:23] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:23] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:23] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:28] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:28] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:28] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:28] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:31] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:31] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:31] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:31] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:44:42] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:44:42] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:44:42] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:44:42] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:45:37] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:38] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:45:38] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:45:38] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:45:38] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:38] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:46] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:45:46] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:45:46] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:45:46] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:45:49] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:45:49] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:45:49] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:45:49] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:56:43] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:56:43] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:56:43] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:56:43] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 12:56:52] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/06/22 12:56:52] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/06/22 12:56:52] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/06/22 12:56:52] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/06/22 13:09:34] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 13:32:58] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/919945566300041246/messages': end of stream
+[01/06/22 13:59:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/919945566300041246/messages': end of stream
+[01/06/22 14:08:06] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/06/22 15:00:50] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 16:00:33] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 17:00:15] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 18:01:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 19:00:41] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 20:00:19] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 21:01:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 22:00:40] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/06/22 23:00:19] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 00:01:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 00:38:34] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 00:56:09] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 02:00:30] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 02:01:13] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 02:02:41] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"id":"905691435330842634","last_message_id":"923906907423514635","name":"moderator-only","permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 02:07:25] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/07/22 02:07:25] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/07/22 02:07:25] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/07/22 02:07:25] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/07/22 02:10:19] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/07/22 02:10:19] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/07/22 02:10:19] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/07/22 02:10:19] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/07/22 02:13:39] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"HW9Bvu1gM8c"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928833733413470258","last_message_id":null,"name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"}],"position":56,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 02:13:46] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"griADJrbIrM"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928833733413470258","last_message_id":null,"name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"},{"allow":0,"allow_new":"0","deny":0,"deny_new":"0","id":"905667779124944918","type":"role"}],"position":56,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 02:13:49] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"K+bljE4ilgo"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928833733413470258","last_message_id":null,"name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779124944918","type":"role"},{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"}],"position":56,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 02:13:52] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"8R31yI7446c"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928833733413470258","last_message_id":null,"name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779124944918","type":"role"},{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"},{"allow":0,"allow_new":"0","deny":0,"deny_new":"0","id":"905667779103977530","type":"role"}],"position":56,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 02:13:54] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"YObclsGyuRU"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928833733413470258","last_message_id":null,"name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977530","type":"role"},{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"},{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779124944918","type":"role"}],"position":56,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 03:00:58] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 04:00:17] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 04:57:32] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"wnftELtTRsU"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"905667779506634765","last_message_id":"928874868118806649","name":"・about-us","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":1024,"allow_new":"1024","deny":51200,"deny_new":"51200","id":"905667779103977522","type":"role"},{"allow":1024,"allow_new":"1024","deny":51200,"deny_new":"51200","id":"905667779103977530","type":"role"},{"allow":1024,"allow_new":"1024","deny":51200,"deny_new":"51200","id":"905667779124944918","type":"role"}],"position":0,"topic":null,"type":5}"
+[01/07/22 04:57:32] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"7S/2lOUENiQ"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"905691435330842634","last_message_id":"928833493658656908","name":"moderator-only","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":1,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 04:57:32] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"mgtMR6vi/4Y"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928833733413470258","last_message_id":"928862427712458802","name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"},{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977530","type":"role"},{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779124944918","type":"role"}],"position":2,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 05:00:42] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 05:29:12] [plugins/discord-connector] DCC_IsUserBot: invalid user id '0'
+[01/07/22 05:29:12] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid user specified
+[01/07/22 05:29:12] [plugins/discord-connector] DCC_GetGuildMemberNickname: invalid user specified
+[01/07/22 05:29:12] [plugins/discord-connector] DCC_GetUserName: invalid user id '0'
+[01/07/22 05:29:12] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/921323540547010581/messages': end of stream
+[01/07/22 05:59:50] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 06:24:42] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/919945566300041246/messages': end of stream
+[01/07/22 06:33:44] [plugins/discord-connector] can't update guild member voice channel: user id "616612175724806144" not cached
+[01/07/22 06:33:46] [plugins/discord-connector] can't update guild member voice channel: user id "616612175724806144" not cached
+[01/07/22 06:33:52] [plugins/discord-connector] can't update guild member voice channel: user id "616612175724806144" not cached
+[01/07/22 06:34:29] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"id":"905667779506634765","last_message_id":"928874868118806649","name":"・about-us","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":1024,"allow_new":"1024","deny":51200,"deny_new":"51200","id":"905667779103977522","type":"role"},{"allow":1024,"allow_new":"1024","deny":51200,"deny_new":"51200","id":"905667779103977530","type":"role"},{"allow":1024,"allow_new":"1024","deny":51200,"deny_new":"51200","id":"905667779124944918","type":"role"}],"position":0,"rate_limit_per_user":0,"topic":null,"type":5}"
+[01/07/22 06:34:40] [plugins/discord-connector] can't update guild member voice channel: user id "604521931122671657" not cached
+[01/07/22 07:05:42] [plugins/discord-connector] can't update guild member voice channel: user id "604521931122671657" not cached
+[01/07/22 07:11:28] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"GW/99FvQIJE"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928908682002042941","last_message_id":null,"name":"test","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"}],"position":58,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 07:12:15] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"/OtKF5jn8L8"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928908880359071754","last_message_id":null,"name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"}],"position":58,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 07:12:33] [plugins/discord-connector] invalid JSON: expected "parent_id" in "{"banner":null,"guild_hashes":{"channels":{"hash":"1imeTTGmEfg"},"metadata":{"hash":"L5efWLHeKKs"},"roles":{"hash":"sNN61vpf4zM"},"version":1},"guild_id":"905667779103977522","id":"928908880359071754","last_message_id":"928908930309042247","name":"setup-bot","nsfw":false,"parent_id":null,"permission_overwrites":[{"allow":0,"allow_new":"0","deny":2048,"deny_new":"2048","id":"905667779103977526","type":"role"},{"allow":0,"allow_new":"0","deny":1024,"deny_new":"1024","id":"905667779103977522","type":"role"}],"position":58,"rate_limit_per_user":0,"topic":null,"type":0}"
+[01/07/22 07:18:08] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/919945566300041246/messages': end of stream
+[01/07/22 08:00:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 09:00:16] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[01/07/22 10:00:50] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v6/channels/923085551710666842/messages': end of stream
+[04/11/22 18:11:18] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:18] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/11/22 18:11:19] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:19] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/11/22 18:11:20] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:21] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:21] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/11/22 18:11:22] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:22] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/11/22 18:11:23] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:23] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/11/22 18:11:24] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:24] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/11/22 18:11:25] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[04/11/22 18:11:25] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[04/13/22 12:52:41] [plugins/discord-connector] DCC_RemoveGuildMemberRole: invalid user id '0'
+[04/13/22 12:52:41] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid user id '0'
+[04/13/22 12:52:41] [plugins/discord-connector] DCC_SetGuildMemberNickname: invalid user id '0'
+[04/13/22 12:56:57] [plugins/discord-connector] DCC_RemoveGuildMemberRole: invalid user id '0'
+[04/13/22 12:56:57] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid user id '0'
+[04/13/22 12:56:57] [plugins/discord-connector] DCC_SetGuildMemberNickname: invalid user id '0'
+[04/13/22 13:07:34] [plugins/discord-connector] DCC_RemoveGuildMemberRole: invalid user id '0'
+[04/13/22 13:07:34] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid user id '0'
+[04/13/22 13:07:34] [plugins/discord-connector] DCC_SetGuildMemberNickname: invalid user id '0'
+[04/13/22 13:08:43] [plugins/discord-connector] DCC_RemoveGuildMemberRole: invalid user id '0'
+[04/13/22 13:08:43] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid user id '0'
+[04/13/22 13:08:43] [plugins/discord-connector] DCC_SetGuildMemberNickname: invalid user id '0'
+[04/13/22 22:30:51] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/921323540547010581/messages': A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[04/15/22 21:38:10] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/921323540547010581/messages': A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[04/15/22 22:24:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/921323540547010581/messages': A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[04/15/22 22:47:24] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/921323540547010581/messages': A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond

@@ -1,0 +1,8 @@
+[01/07/22 08:04:07] [plugins/discord-connector] Unknown gateway event 'INVITE_CREATE'
+[01/07/22 08:04:10] [plugins/discord-connector] Unknown gateway event 'INVITE_CREATE'
+[01/07/22 08:12:13] [plugins/discord-connector] Unknown gateway event 'INVITE_CREATE'
+[01/07/22 08:12:18] [plugins/discord-connector] Unknown gateway event 'INVITE_CREATE'
+[04/13/22 22:30:51] [plugins/discord-connector] Error while shutting down SSL on HTTP connection: An existing connection was forcibly closed by the remote host (10054)
+[04/15/22 21:38:10] [plugins/discord-connector] Error while shutting down SSL on HTTP connection: An existing connection was forcibly closed by the remote host (10054)
+[04/15/22 22:24:43] [plugins/discord-connector] Error while shutting down SSL on HTTP connection: An existing connection was forcibly closed by the remote host (10054)
+[04/15/22 22:47:24] [plugins/discord-connector] Error while shutting down SSL on HTTP connection: An existing connection was forcibly closed by the remote host (10054)

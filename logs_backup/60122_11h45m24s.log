@@ -1,0 +1,41 @@
+
+Started server on port: 2020, with maxplayers: 50 lanmode is OFF.
+
+
+
+[log-core] server crash detected: fatal signal '11' (SIGSEGV) caught   
+
+OGP_HOME_000000018_startup_scr.sh: line 2: 116666 Segmentation fault      (core dumped) ./samp03svr
+
+Started server on port: 2020, with maxplayers: 50 lanmode is OFF.
+
+
+
+[log-core] server crash detected: fatal signal '11' (SIGSEGV) caught   
+
+OGP_HOME_000000018_startup_scr.sh: line 2: 116690 Segmentation fault      (core dumped) ./samp03svr
+
+Started server on port: 2020, with maxplayers: 50 lanmode is OFF.
+
+
+
+[log-core] server crash detected: fatal signal '11' (SIGSEGV) caught   
+
+OGP_HOME_000000018_startup_scr.sh: line 2: 116713 Segmentation fault      (core dumped) ./samp03svr
+
+Started server on port: 2020, with maxplayers: 50 lanmode is OFF.
+
+
+
+[log-core] server crash detected: fatal signal '11' (SIGSEGV) caught   
+
+OGP_HOME_000000018_startup_scr.sh: line 2: 116741 Segmentation fault      (core dumped) ./samp03svr
+Server './samp03svr ' crashed with exit code 0.  Respawning...
+
+Started server on port: 2020, with maxplayers: 50 lanmode is OFF.
+
+
+
+[log-core] server crash detected: fatal signal '11' (SIGSEGV) caught   
+
+OGP_HOME_000000018_startup_scr.sh: line 2: 116764 Segmentation fault      (core dumped) ./samp03svr
